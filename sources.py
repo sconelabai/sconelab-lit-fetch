@@ -59,7 +59,7 @@ def crossref_toc(make_id, issn, name, start, end):
     while True:
         q = {"filter": f"from-created-date:{start},until-created-date:{end},type:journal-article",
              "rows": 500, "cursor": cursor,
-             "select": "DOI,title,author,container-title,published,abstract,type,subtype"}
+             "select": "DOI,title,author,container-title,published,abstract,type"}
         d = _get(f"https://api.crossref.org/journals/{issn}/works?" + urllib.parse.urlencode(q))
         if not d:
             break

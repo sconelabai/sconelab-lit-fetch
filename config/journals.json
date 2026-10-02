@@ -148,7 +148,8 @@
    "name": "Communications Biology"
   },
   {
-   "name": "Computational Brain & Behavior"
+   "name": "Computational Brain & Behavior",
+   "issn": "2522-0861"
   },
   {
    "name": "Computational Psychiatry"
@@ -166,7 +167,8 @@
    "name": "Games and Economic Behavior"
   },
   {
-   "name": "Journal of Economic Behavior & Organization"
+   "name": "Journal of Economic Behavior & Organization",
+   "issn": "0167-2681"
   },
   {
    "name": "Autism Research"
@@ -190,10 +192,12 @@
    "name": "Proceedings of the Royal Society B: Biological Sciences"
   },
   {
-   "name": "Neuroscience & Biobehavioral Reviews"
+   "name": "Neuroscience & Biobehavioral Reviews",
+   "issn": "0149-7634"
   },
   {
-   "name": "Psychonomic Bulletin & Review"
+   "name": "Psychonomic Bulletin & Review",
+   "issn": "1069-9384"
   },
   {
    "name": "Behavior Research Methods"

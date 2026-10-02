@@ -266,7 +266,7 @@ def main():
         for r in rows:
             f.write("\t".join(r) + "\n")
 
-    result = {"generated": dt.datetime.utcnow().isoformat() + "Z", "window_start": str(start),
+    result = {"generated": dt.datetime.now(dt.timezone.utc).isoformat(), "window_start": str(start),
               "window_end": str(end), "n_candidates": len(out), "candidates": out,
               "preprint_updates": updates, "unresolved_journals": unresolved}
     os.makedirs(os.path.join(ROOT, "data", "runs"), exist_ok=True)
