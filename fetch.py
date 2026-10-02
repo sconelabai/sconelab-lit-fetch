@@ -227,8 +227,10 @@ def main():
         score += 3 * len(cc)
         c["concepts"] = cc
         kwhits = sum(1 for x in kw if x in text)
-        if h <= {"JOURNAL", "ARXIV"} and kwhits < 2:
-            continue  # journal ToC / arXiv items need real topical overlap
+        dom = any(t[0] in "DP" for t in h)
+        watch_ok = "WATCH" in h and bool(surnames & watch_sur)
+        if not (len(cc) >= 2 or (len(cc) == 1 and ((dom and kwhits >= 2) or watch_ok))):
+            continue  # weak match: one generic concept without a strong keyword or watch-list hit
         if "JOURNAL" in h:
             score += 1
         c["matched"] = sorted(h)
