@@ -195,9 +195,16 @@ def main():
             print("time budget reached; skipping remaining journals", flush=True); break
         time.sleep(1)
     print(f"after journal ToCs: {len(cands)} ({len(unresolved)} journals unresolved)")
+    # OpenAlex restricted by research field (Psychology 32, Neuroscience 28, Economics 20);
+    # + Computer Science 17 for LLM/methods domains, + Psychiatry subfield 2738 for clinical.
     for d in domains:
-        for r in sources.openalex(make_id, d.get("keywords", []), start, end):
-            merge(r, d["id"])
+        flds = "32|28|20" + ("|17" if d["id"] in ("D8", "P4") else "")
+        filters = [f",primary_topic.field.id:{flds}"]
+        if d["id"] == "D6":
+            filters.append(",primary_topic.subfield.id:2738")
+        for ex in filters:
+            for r in sources.openalex(make_id, d.get("keywords", []), start, end, extra=ex):
+                merge(r, d["id"])
     print(f"after OpenAlex: {len(cands)}")
     llm = [d for d in domains if any("language model" in k.lower() or "llm" in k.lower() for k in d.get("keywords", []))]
     phr = ["theory of mind", "social reasoning", "mentalizing", "false belief"] + [k for d in llm for k in d["keywords"]][:6]

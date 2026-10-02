@@ -83,11 +83,11 @@ def _inv(ix):
     pos = sorted((p, w) for w, ps in ix.items() for p in ps)
     return " ".join(w for _, w in pos)
 
-def openalex(make_id, keywords, start, end, limit=200):
+def openalex(make_id, keywords, start, end, limit=200, extra=""):
     terms = " OR ".join(f'"{k}"' for k in keywords)
     recs, cursor = [], "*"
     while cursor and len(recs) < limit:
-        q = {"filter": f"title_and_abstract.search:{terms},from_publication_date:{start},to_publication_date:{end}",
+        q = {"filter": f"title_and_abstract.search:{terms},from_publication_date:{start},to_publication_date:{end}{extra}",
              "per-page": 100, "cursor": cursor, "mailto": "dstanley@adelphi.edu",
              "select": "doi,title,authorships,publication_year,primary_location,abstract_inverted_index,type,open_access"}
         d = _get("https://api.openalex.org/works?" + urllib.parse.urlencode(q))
