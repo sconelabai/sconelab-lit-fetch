@@ -16,4 +16,4 @@ after journal ToCs: 226 (0 journals unresolved)
 after OpenAlex: 824
 after arXiv: 836
 abstracts: 770/836
-wrote 150 candidates, 0 preprint updates
+wrote 137 candidates, 1 preprint updates

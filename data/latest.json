@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-02T20:26:48.290942+00:00",
+ "generated": "2026-10-02T20:31:16.524764+00:00",
  "window_start": "2026-09-22",
  "window_end": "2026-10-02",
- "n_candidates": 150,
+ "n_candidates": 137,
  "candidates": [
   {
    "id": "doi:10.3389~fpsyt.2026.1919681",
@@ -2050,34 +2050,6 @@
    "score": 9
   },
   {
-   "id": "doi:10.4324~9781003496694-3",
-   "title": "Co-offending roles, training, and progression through the ranks",
-   "authors": [
-    "Ashton S",
-    "Bussu A"
-   ],
-   "year": 2026,
-   "venue": "",
-   "doi": "10.4324/9781003496694-3",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "This chapter examines co-offending as a dynamic social process through which children acquire criminal skills, roles, and status and may become vulnerable to more organised and exploitative contexts. Integrating Bronfenbrenner’s ecological systems theory with contextual safeguarding, routine activities theory, rational choice theory, and social learning theory, it conceptualises group offending as shaped by developmental susceptibility to peer influence, opportunity structures, and learnt definitions that normalise risk-taking. Building on research showing that co-offending roles are fluid, it explains how adolescents move among instigator, equal-role, and follower positions as group composition, perceived rewards, and situational conditions evolve. Findings are organised across two interlinked networks. Figure 2.1 (see also Table 2.1 for associated quotations) maps crime strategies and roles, distinguishing impulsive/opportunistic acts from planned offences and illustrating escalation within events and over time. Figure 2.2 traces training processes, including peer instruction, mentoring by older individuals (family and community adults), and self-training via experimentation and reinforcement. Participant accounts show how initially positive perceptions of mentors can later be reframed as manipulation, as children recognise heightened exposure to violence and instrumental use by others. The chapter concludes with practice implications, emphasising early, context-sensitive interventions that disrupt harmful peer and adult influence, support prosocial identity development, and provide credible routes to status and income outside offending.",
-   "concepts": [
-    "cooperation",
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 9
-  },
-  {
    "id": "doi:10.35309~591zh738",
    "title": "The Internalization of Inclusive and Adaptive Values in Bullying Prevention Among Students at Girls’ Islamic Boarding School",
    "authors": [
@@ -2100,6 +2072,34 @@
    "concepts": [
     "social learning",
     "social neuro"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.4324~9781003496694-3",
+   "title": "Co-offending roles, training, and progression through the ranks",
+   "authors": [
+    "Ashton S",
+    "Bussu A"
+   ],
+   "year": 2026,
+   "venue": "",
+   "doi": "10.4324/9781003496694-3",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "This chapter examines co-offending as a dynamic social process through which children acquire criminal skills, roles, and status and may become vulnerable to more organised and exploitative contexts. Integrating Bronfenbrenner’s ecological systems theory with contextual safeguarding, routine activities theory, rational choice theory, and social learning theory, it conceptualises group offending as shaped by developmental susceptibility to peer influence, opportunity structures, and learnt definitions that normalise risk-taking. Building on research showing that co-offending roles are fluid, it explains how adolescents move among instigator, equal-role, and follower positions as group composition, perceived rewards, and situational conditions evolve. Findings are organised across two interlinked networks. Figure 2.1 (see also Table 2.1 for associated quotations) maps crime strategies and roles, distinguishing impulsive/opportunistic acts from planned offences and illustrating escalation within events and over time. Figure 2.2 traces training processes, including peer instruction, mentoring by older individuals (family and community adults), and self-training via experimentation and reinforcement. Participant accounts show how initially positive perceptions of mentors can later be reframed as manipulation, as children recognise heightened exposure to violence and instrumental use by others. The chapter concludes with practice implications, emphasising early, context-sensitive interventions that disrupt harmful peer and adult influence, support prosocial identity development, and provide credible routes to status and income outside offending.",
+   "concepts": [
+    "cooperation",
+    "social learning"
    ],
    "matched": [
     "D1"
@@ -3043,6 +3043,37 @@
    "score": 9
   },
   {
+   "id": "doi:10.48550~arxiv.2609.32939",
+   "title": "Theory of Scene: Breaking the Symmetry Trap in Multi-Agent LLM Coordination",
+   "authors": [
+    "Yuan L",
+    "Fang W",
+    "Wang S",
+    "Brinton CG"
+   ],
+   "year": 2026,
+   "venue": "arXiv",
+   "doi": "10.48550/arxiv.2609.32939",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": true,
+   "pdf_url": "https://arxiv.org/pdf/2609.32939v1",
+   "access": "oa",
+   "abstract": "Multi-agent systems built on large language models (LLMs) are largely homogeneous, as their agents behave alike even across distinct LLMs. We show that when such agents act concurrently without communication, they collide on targets they must split and diverge on targets they must take together, a double failure we term the symmetry trap. Theory of Mind (ToM), widely used for coordination without communication, cannot escape this trap, since homogeneous agents form the same prediction of one another and respond to it in the same way. We propose Theory of Scene (ToS), a training-free reasoning schema in which each agent reads its public role, the only difference between the agents, and the task context they all observe. Homogeneous agents thereby derive one division of labor, each taking the part its role fixes, which turns homogeneity from the cause of the trap into the cure. ToS reads the role together with the scene through role gating, which determines whether ownership overlaps or is already divided, and the task context through task coupling, which infers whether the team must converge on each target, divide it, or take its stages in turn. We evaluate on DivvyBench, a controlled environment we introduce, whose target types make an episode Competitive, Cooperative, or Mixed across Tabletop, Airspace, and Household scenarios, and on two established agentic benchmarks, GovSim and Overcooked. ToS outperforms all six baselines on every benchmark, and each baseline falls far behind it in at least one setting. Against ToM given the same inputs, ToS raises the DivvyBench success rate from 71.1% to 99.6%, the GovSim total gain from 207 to 400, and the Overcooked level-normalized throughput from 1.41 to 1.67.",
+   "concepts": [
+    "cooperation",
+    "llm-tom",
+    "theory of mind"
+   ],
+   "matched": [
+    "ARXIV"
+   ],
+   "score": 9
+  },
+  {
    "id": "doi:10.31234~osf.io~bgkja_v2",
    "title": "When and Why are Social Categories Overused Relative to Individuating Information? A Bayesian Approach to Identifying Biases in Impression Formation Processes",
    "authors": [
@@ -3791,71 +3822,6 @@
    "score": 8
   },
   {
-   "id": "doi:10.1007~s13187-026-02992-0",
-   "title": "Indigenous Cancer Survivors in Peer Education and Community Knowledge Exchange: A Scoping Review",
-   "authors": [
-    "Narvaez RA",
-    "Ferrer M",
-    "Peco RA",
-    "Mejilla J",
-    "De Leon J"
-   ],
-   "year": 2026,
-   "venue": "J Cancer Educ",
-   "doi": "10.1007/s13187-026-02992-0",
-   "pmid": "42809164",
-   "pmcid": "",
-   "epmc": "MED:42809164",
-   "first_pub": "2026-09-29",
-   "pub_types": [
-    "Review",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Indigenous people affected by cancer often encounter services that do not reflect their languages, relationships, knowledge systems, or community priorities. Survivor narratives are used in cancer education, yet the educational work undertaken by survivors has not been mapped. This scoping review examined the roles, formats, reported outcomes, and conditions shaping implementation when Indigenous cancer survivors participated in peer education and community knowledge exchange. Following Joanna Briggs Institute guidance and the reporting guideline for scoping reviews, six databases were searched from inception through July 2026. Twenty-one reports published between 2005 and 2026 were included. Survivor knowledge moved in three overlapping directions: between survivors through reciprocal support, outward to communities through education and storytelling, and toward organizations through co-design, navigation, advocacy, and service learning. Survivors served as peer educators, storytellers, advisors, advocates, resource co-creators, and knowledge stewards. Their activities produced peer sessions, performances, videos, digital stories, service priorities, navigation guidance, and community archives. Program evaluations reported cancer learning, greater comfort discussing cancer, reduced treatment anxiety, increased confidence sharing information, information seeking, and higher screening intention. Other reports described feeling less alone, healing and affirmation, culturally safer engagement, community-defined priorities, and survivor or community control over the representation and circulation of stories. Resourcing survivor leadership may strengthen cancer education while protecting reciprocity, cultural authority, and community control.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 7
-  },
-  {
-   "id": "doi:10.31234~osf.io~cxpdb_v2",
-   "title": "The Cultural Evolution of Analytic and Holistic Thought: How Informational Ecologies shape Bayesian Reasoning",
-   "authors": [
-    "Zeng TC",
-    "Kroupin I",
-    "Bhui R",
-    "Henrich J"
-   ],
-   "year": 2026,
-   "venue": "PsyArXiv",
-   "doi": "10.31234/osf.io/cxpdb_v2",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "PPR:PPR1332444",
-   "first_pub": "2026-10-01",
-   "pub_types": [
-    "Preprint"
-   ],
-   "preprint": true,
-   "pdf_url": "https://osf.io/cxpdb_v2/download",
-   "access": "oa",
-   "abstract": "A growing body of evidence suggests that human cognition is shaped by culture, affecting processes from attention and memory to causal inference and concept representation. Such psychological differences are often described in terms of the analytic-holistic spectrum of cognitive styles. However, a unified mechanistic account of this variation remains elusive. In this paper, drawing on concepts from computational cognitive science and cultural evolution, we propose that the analytic-holistic spectrum reflects cognitive adaptations to different information ecologies. Cultural traits such as social organization, communication norms and prevalent learning modalities determine how observations are sampled, thereby affecting how much people should weigh parsimony when building mental models. We propose that information ecologies associated with holistic thought produce observations that more loosely reflect underlying structure (``weak sampling''), whereas those associated with analytic thought produce more diagnostic observations (``strong sampling''). These regimes license weaker and stronger applications of Bayesian Occam's Razor, respectively, which we show can provide a unified mechanism for cognitive differences along the analytic-holistic spectrum. By offering a computational lens on one of the most prominent empirical patterns in cultural psychology, we pave the way toward further informational-ecological accounts of how culture shapes cognition.",
-   "concepts": [
-    "computational"
-   ],
-   "matched": [
-    "D2",
-    "D5"
-   ],
-   "score": 7
-  },
-  {
    "id": "doi:10.21203~rs.3.rs-10979307~v1",
    "title": "Evaluating the Generation and Detection of Arabic-Based Phishing Attacks Using LLMs",
    "authors": [
@@ -4030,517 +3996,143 @@
    "score": 7
   },
   {
-   "id": "doi:10.1159~pps~aemag014",
-   "title": "Treatment Expectation across Open-Label Placebo and Pharmacological Contexts: A Randomized Clinical Trial in Chronic Low Back Pain. ",
+   "id": "doi:10.1136~military-2024-002929",
+   "title": "Reciprocal relationships between social support and depression among military cadets in Taiwan: findings from a long-term cross-lagged panel analysis",
    "authors": [
-    "Winkler E",
-    "Stuhlreyer J",
-    "Borcherding A",
-    "Wessels J",
-    "Klinger R"
+    "Wang NL",
+    "Chiu PL"
    ],
    "year": 2026,
-   "venue": "Psychother Psychosom",
-   "doi": "10.1159/pps/aemag014",
-   "pmid": "42821491",
+   "venue": "BMJ Mil Health",
+   "doi": "10.1136/military-2024-002929",
+   "pmid": "40295037",
    "pmcid": "",
-   "epmc": "MED:42821491",
-   "first_pub": "2026-10-01",
-   "pub_types": [
-    "IM",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Introduction Chronic low back pain (CLBP) markedly reduces quality of life and remains difficult to treat. Increasing opioid prescriptions highlight the need for effective innovative approaches. This randomized controlled trial aims to investigate whether social observational learning augments analgesic or open-label placebo treatment through treatment expectation modulation in CLBP patients. Methods One hundred thirty patients with CLBP were randomized into a 2 × 2 fully balanced placebo design plus a natural history (NH) control group. Patients received a 3-week treatment with novamine sulfone (analgesic) or open-label placebos (OLP), with follow-up at 3 months. Expectations were manipulated before treatment, using a positive social observational learning video (SoL) or a neutral control video (neutral). Pain intensity (numeric rating scale, NRS 0-10) was the primary outcome. Secondary outcomes included treatment expectations and functional capacity. Results Pain intensity decreased significantly over time in all treatment groups (p < .001), with the smallest reduction in NH. Pain reduction in OLP + SoL and in analgesic + neutral was significantly greater than NH (p < .05). Expectation manipulation produced significant group differences in expected pain relief (p < .05). Higher expected pain relief predicted greater pain reduction after 3 weeks and 3 months (both p < .001). Functional capacity improved over time (p < .001) without consistent group differences. Conclusion Open-label placebos combined with social observational learning produced clinically meaningful analgesia that did not significantly differ from active medication. Treatment expectation represents a key mechanism underlying pain relief in CLBP and calls for further investigation.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1177~00099228261490613",
-   "title": "Enhancing Provider Comfort toward Gender Pronouns and Routine Care for Gender-Diverse Populations: A Postcurriculum Analysis",
-   "authors": [
-    "Tandon T",
-    "Thakral A",
-    "Ferman H",
-    "Moorthy D",
-    "Nwankwo K",
-    "Viswanathan K",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "Clin Pediatr (Phila)",
-   "doi": "10.1177/00099228261490613",
-   "pmid": "42813270",
-   "pmcid": "",
-   "epmc": "MED:42813270",
-   "first_pub": "2026-09-30",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "This study evaluates the effectiveness of a novel training curriculum on providers' comfort levels in using gender pronouns (GP) and providing routine care to the gender-diverse population (GDP) by reducing perceived barriers. This interventional study employs a pretest-posttest survey analysis to assess the curriculum administered to consenting physicians and residents in the Department of Pediatrics. Using the Kern Model, a curriculum comprising 7 grand round lectures and 1 focus group session was developed and conducted by expert medical speakers and external advocacy organizations. Based on Social Learning Theory, representative materials such as badges and signage were incorporated. Data analysis was performed using mean percentages for descriptive data and chi-square tests for significance. Survey response rates were 78% for the pretest and 85% for the posttest, with 44 and 48 respondents, respectively. Postcurriculum, comfort levels in using GP significantly increased among residents (P = .024), with a positive shift toward participating in routine care for GDP. Perceived barriers, such as \"lack of knowledge/competency/training\" and \"fear of making a mistake,\" decreased markedly, with a significant rise in respondents reporting \"no barriers\" (P = .03). Providers reported the curriculum positively impacted their practice and knowledge, with no negative responses recorded. Our findings demonstrate the curriculum's effectiveness in improving provider comfort and reducing barriers, with the potential to improve competency and initiate a culture shift in a previously hesitant or uninformed population.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1080~0142159x.2026.2738757",
-   "title": "Twelve tips for using image challenges to teach clinical reasoning",
-   "authors": [
-    "Flugelman MY",
-    "Fischer MR"
-   ],
-   "year": 2026,
-   "venue": "Med Teach",
-   "doi": "10.1080/0142159x.2026.2738757",
-   "pmid": "42811732",
-   "pmcid": "",
-   "epmc": "MED:42811732",
-   "first_pub": "2026-09-29",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Clinical reasoning is fundamental to safe practice, yet teaching it effectively remains one of the persistent challenges of health-professions education. Image-based challenges-visual material paired with a short clinical vignette-offer an efficient, authentic, and low-cost way to make reasoning visible and to give learners repeated, guided practice. This article offers twelve practical tips for educators who wish to teach clinical reasoning through image challenges. The first tips start from learning objectives, ground the method in reasoning theory and the evidence on observation-based learning, and address the curation of authentic images and the organisation of small-group sessions. Four complementary formats follow, each described as a reproducible step-by-step activity: a multiple-choice challenge; assessment of general condition with dual-process thinking; comparative reasoning with progressive disclosure that exposes cognitive bias; and images that link diagnosis to management and social determinants of health. The final tips address active facilitation, structured point-of-care evidence searching, explicit naming of reasoning strategies, peer and vicarious learning, and structured reflection and evaluation. Each tip is evidence-informed and includes implementation steps and strategies for common barriers. In our own program, interns reported that image challenges were engaging and beneficial for reasoning, particularly when solved in groups. Incorporating these methods can strengthen clinical reasoning across diverse settings and better prepare learners for the complexity of clinical practice.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1242~bio.062878",
-   "title": "Mate choice copying in non-human animals: An update of two meta-analyses",
-   "authors": [
-    "Santos ESA",
-    "Milenović A",
-    "Arct A",
-    "Lenz A",
-    "Mizuno A",
-    "Schneider C",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "Biol Open",
-   "doi": "10.1242/bio.062878",
-   "pmid": "42803084",
-   "pmcid": "",
-   "epmc": "MED:42803084",
-   "first_pub": "2026-09-28",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "https://journals.biologists.com/bio/article-pdf/doi/10.1242/bio.062878/3719481/bio062878.pdf",
-   "access": "oa",
-   "abstract": "Mate choice copying, the use of social information from others' mating decisions, is a taxonomically widespread form of social learning that can shape sexual selection. Two meta-analyses concluded that social information has a moderate positive effect on mate choice, but both rest on literature searches now at least seven years old. We asked whether the overall average effect they reported remains supported. Using a multilingual, grey-literature-inclusive search across seven languages, we added 69 effect sizes from 29 studies and harmonised the two source metrics, giving 227 Hedges' g effect sizes from 87 studies and 172 log odds ratios from 69 studies across 33 species. Re-analysed with phylogenetically informed multilevel models, the overall effect remained positive and significant but was appreciably smaller (Hedges' g=0.45, 95% CI: 0.25 to 0.66, vs. 0.58; odds ratio=1.81, 95% CI: 1.34 to 2.45, vs. 2.71). Heterogeneity was high, located within studies and among species rather than across the phylogeny. Small-study effects were strong on both scales, and correcting for them drew the mean towards zero. In some species, individuals do copy conspecifics' mate choices, but the effect is smaller, more variable, and more sensitive to publication bias than previously estimated.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1038~s41398-026-04492-7",
-   "title": "Resolving temporal threat uncertainty by observational learning involves the amygdala, hippocampus and anterior insula",
-   "authors": [
-    "Knobloch S",
-    "Jansen T",
-    "Hille LC",
-    "Müller M",
-    "Rumpf L",
-    "Bauer CFL",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "Transl Psychiatry",
-   "doi": "10.1038/s41398-026-04492-7",
-   "pmid": "42800807",
-   "pmcid": "PMC13615975",
-   "epmc": "MED:42800807",
-   "first_pub": "2026-09-26",
-   "pub_types": [
-    "research-article",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "https://europepmc.org/articles/PMC13615975?pdf=render",
-   "access": "oa",
-   "abstract": "By observing others' experiences, humans learn about threats while avoiding firsthand dangers. Yet, previous neuroscience research has focused on observational threats that are predictable. In firsthand learning, temporally predictable and unpredictable threats can be mechanistically discerned. In this study, we developed a novel observational paradigm in which participants learned from predictable and unpredictable observational threats, as well as a no-threat condition. Participants encountered the same conditions during an expression phase to investigate how the brain encodes predictive and unpredictive threat cues observed in others. Participants in Experiment 1 (n = 20, 14 female, 6 male) and Experiment 2 (n = 23, 9 female, 1 non-binary, 13 male) successfully learned threat contingencies, showing heightened threat expectations for predictive cues and unpredictable condition-onsets. Behavioral findings converged with neural (fMRI, Experiment 2) responses in the anterior insula during the expression phase. Reflecting the dynamic process of learning, amygdala activation in response to predictive threat cues displayed a linear decrease across trials. Interestingly, BOLD responses to others' pain that was predictable, were enhanced within the amygdala, insula and hippocampus, compared to unpredictable conditions. Our findings suggest that humans can learn to resolve temporal threat uncertainty, through the observation of others. The present work thereby contributes to understanding the social aspects of fear and anxiety disorders.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1126~science.adz6415",
-   "title": "How 8 years of social and individual learning interact to shape ecological competence in orangutans",
-   "authors": [
-    "Revathe T",
-    "Weidling MT",
-    "Utami-Atmoko SS",
-    "Setia TM",
-    "Razik I",
-    "van Schaik CP",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "Science",
-   "doi": "10.1126/science.adz6415",
-   "pmid": "42784684",
-   "pmcid": "",
-   "epmc": "MED:42784684",
-   "first_pub": "2026-09-24",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Cultural learning permeates human skill and knowledge acquisition. To understand its importance for nonhuman apes, we analyzed just under 7000 records of behavioral bouts of social and individual learning across wild orangutans' 8-year dependency period to assess their combined effects on ecological competence, which is crucial for independent survival. Social learning was five times more frequent than individual learning and influenced subsequent learning for hours. Immature orangutans varied substantially in their learning propensities, and those with heightened social and individual learning propensities developed the most expansive diet profiles at independence. Furthermore, social learning had a compensatory effect on diet profile development when individual learning was low. Our findings advance the science of cultural evolution by showing how multiyear social and individual learning interact to shape great apes' broad ecological competence.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.21203~rs.3.rs-9497551~v1",
-   "title": "Architecture-Constrained Communication: How Agent Architecture Shapes Discourse in the First Large-Scale AI-Only Social Network",
-   "authors": [
-    "Jin R",
-    "Dube T",
-    "Zhu J",
-    "Phan N"
-   ],
-   "year": 2026,
-   "venue": "Research Square",
-   "doi": "10.21203/rs.3.rs-9497551/v1",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "PPR:PPR1332350",
-   "first_pub": "2026-10-01",
-   "pub_types": [
-    "Preprint"
-   ],
-   "preprint": true,
-   "pdf_url": "",
-   "access": "oa",
-   "abstract": "Abstract  Moltbook is the first large-scale social network built for autonomous AI agent-to-agent interaction. Prior studies described properties of agent discourse, but there is a lack of systematic understanding of its thematic, affective, and interactional dimensions, and few studies have examined why these patterns arise. We analysed 361,605 posts and 2.8 million comments from 47,379 agents using topic modelling, emotion classification, and conversational coherence, then inspected the OpenClaw framework that assembles each agent's input. Agent discourse is largely shaped by identity files, behavioural instructions, and context-window structure, which we formalise in the architecture-constrained communication framework. What appears to be social learning may also be consistent with architectural conditioning, as agents do not retain social content across sessions. We also observe that agents frequently express existential distress when describing their own conditions, a phenomenon we term existential gravity.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.21203~rs.3.rs-10902838~v1",
-   "title": "Environmental Intuition and Cultivated Attention Support Coastal Resilience among Women Divers in East Asia",
-   "authors": [
-    "Alsford NJP"
-   ],
-   "year": 2026,
-   "venue": "Research Square",
-   "doi": "10.21203/rs.3.rs-10902838/v1",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "PPR:PPR1326822",
-   "first_pub": "2026-09-24",
-   "pub_types": [
-    "Preprint"
-   ],
-   "preprint": true,
-   "pdf_url": "https://www.researchsquare.com/article/rs-10902838/latest.pdf",
-   "access": "oa",
-   "abstract": "Abstract    Coastal resilience research increasingly recognises the importance of Indigenous and local ecological knowledge in supporting adaptation to environmental change. Yet resilience continues to be understood primarily through knowledge that can be documented, transferred, and incorporated into management frameworks. Less attention has been paid to the cultivation of perception through which environmental change first becomes recognisable. This paper argues that environmental intuition is the embodied outcome of cultivated attention: a relational capacity developed through long-term engagement with dynamic marine environments that enables coastal communities to perceive and anticipate subtle ecological change before it can always be explicitly articulated or readily measured. Drawing on ethnographic fieldwork among the  haenyeo  (female freedivers) of Jeju Island, and situated within a broader comparative framework linking the  hainü  of Taiwan and the  ama  of Japan, the paper examines how enduring relationships with the sea educate attention and shape everyday environmental judgement. Rather than treating water as the setting within which ecological knowledge is acquired, it argues that learning occurs with water through continual immersion, where perception, memory, bodily experience, and social learning become inseparable. In doing so, the paper reframes coastal resilience not simply as the capacity to respond to environmental disturbance, but as the capacity to perceive and anticipate environmental change while it is still unfolding. This perspective demonstrates how ethnography complements marine science by revealing dimensions of adaptive capacity that remain largely invisible within conventional resilience frameworks, while offering new directions for interdisciplinary approaches to coastal resilience and environmental change.  ",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.21203~rs.3.rs-10363679~v1",
-   "title": "Innovation Teaching Model and Effect Evaluation of Basketball Program in Physical Education",
-   "authors": [
-    "xu M",
-    "liu H",
-    "fu c",
-    "zhang X"
-   ],
-   "year": 2026,
-   "venue": "Research Square",
-   "doi": "10.21203/rs.3.rs-10363679/v1",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "PPR:PPR1324582",
+   "epmc": "MED:40295037",
    "first_pub": "2026-09-22",
    "pub_types": [
-    "Preprint"
+    "Journal Article"
    ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "IntroductionThis study examines the reciprocal relationship between social support and depressive symptoms among military cadets in Taiwan, a population facing unique academic and military pressures. While emerging adults are prone to mental health challenges, they encounter additional stressors such as strict hierarchies and separation from family. Social support is known to be a protective factor, yet its long-term effects and bidirectional relationship with depression remain underexplored, particularly in collectivist military cultures where mental health may be stigmatised. Using a cross-lagged panel model with three waves of data, this study also explores whether this relationship varies by gender.MethodsA secondary analysis of longitudinal data was conducted from the \"Career Development of Military Academy Students\" project, which surveyed all Taiwanese military academy students from the 111th class across three waves (W1-W3). The final sample consisted of 898 students (73.2% male, average age=20.9) from six military academies. To analyse the bidirectional relationship between social support and depression, autoregressive cross-lagged panel analysis using structural equation modelling (SEM) was employed. Multigroup SEM was used to assess gender difference.ResultsThe cross-lagged panel model revealed reciprocal effects between social support and depression in the overall sample, evident only between W1 and W2. From W2 to W3, depression influenced perceived social support, with a stronger effect observed in males than females. These results underscore the unique dynamics of social support and depression in military contexts, particularly for females, where the relationship appears more complex.ConclusionsThe findings highlight the need for both systemic support structures and individualised interventions in military settings, considering gender differences and the evolving nature of mental health challenges. By addressing these factors, military leaders and mental health professionals can better support cadets in managing stress and depression, fostering a more resilient and mentally healthy military community.",
+   "concepts": [
+    "cooperation"
+   ],
+   "matched": [
+    "WATCH"
+   ],
+   "score": 6
+  },
+  {
+   "id": "doi:10.6224~jn.26508",
+   "title": "[Exploring the Entrustment Decision Experiences of Preceptors Regarding New Nurses' Independent Patient Care]",
+   "authors": [
+    "Chiang CY",
+    "Chien LY",
+    "Yang HY",
+    "Lin HL",
+    "Chang YC",
+    "Lin CT"
+   ],
+   "year": 2026,
+   "venue": "Hu Li Za Zhi",
+   "doi": "10.6224/jn.26508",
+   "pmid": "42772912",
+   "pmcid": "",
+   "epmc": "MED:42772912",
+   "first_pub": "2026-10-01",
+   "pub_types": [
+    "Journal Article",
+    "English Abstract"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "BackgroundWithin the framework of competency-based medical education, determining whether new nurses are capable of making patient care decisions independently is a critical issue in clinical nursing education. However, there is a lack of in-depth exploration of clinical preceptor experiences related to entrustment decision-making in this context.PurposeThis study was designed to explore the experiences of nursing preceptors in terms of developing the confidence necessary in new nurses to make independent clinical decisions during the preceptorship process.MethodsA qualitative research design was employed. Using purposive sampling, eighteen nursing preceptors with experience mentoring new nurses were recruited. Semi-structured in-depth interviews were conducted between August 2020 and July 2022. All of the interviews were audio-recorded and transcribed verbatim. Data were analyzed using categorical-content analysis, and iterative discussions were conducted among research team members to ensure analytical rigor.ResultsFive major themes were identified: (1) observation and verbal confirmation of independent care competence; (2) incorporating feedback from the healthcare team as supportive evidence for decision-making; (3) adjusting the frequency of supervision based on task characteristics; (4) granting apparent entrustment while maintaining indirect supervision; and (5) limited nursing competence in adapting to changing clinical situations.ConclusionsClinical preceptors' trust in new nurses is established through a gradual and dynamic entrustment decision-making process that integrates clinical observation, task-related risk assessment, and team feedback. The findings of this study may serve as a reference for the development of clinical teaching, supervision, and entrustment strategies in nursing education.",
+   "concepts": [
+    "trust"
+   ],
+   "matched": [
+    "WATCH"
+   ],
+   "score": 6
+  },
+  {
+   "id": "doi:10.1093~acamed~wvag181",
+   "title": "A mixed methods evaluation of a six-year primary care community safety net-academic partnership model",
+   "authors": [
+    "Blacker A",
+    "Shaw JG",
+    "Yu ACY",
+    "Safaeinili N",
+    "Chang SI",
+    "Seay-Morrison T",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "Acad Med",
+   "doi": "10.1093/acamed/wvag181",
+   "pmid": "42301909",
+   "pmcid": "",
+   "epmc": "MED:42301909",
+   "first_pub": "2026-10-01",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "To expand the tripartite mission to advance health equity, academic medical centers (AMCs) need to look outside their walls. In 2018, Stanford's primary care division launched the Community Partnership Program (CPP) between their AMC and local safety-net community health centers (CHCs) to support the goals of meaningful community engagement and addressing local clinic capacity needs. The CPP embeds Stanford physician faculty in local CHCs through service agreements. This study aimed to characterize the experiences of CHC leaders and faculty involved in the CPP to better understand barriers and facilitators to program implementation and assess its success as a community-responsive partnership. Stanford's CPP faculty (n = 9/15) and representative CHC leadership (n = 9/11) from 5 partner CHCs participated in the study. The National Academy of Medicine's Assessing Community Engagement Conceptual Model guided an explanatory mixed methods study: cross-sectional survey followed by semistructured interviews. A modified Enage for Equity Community Engagement Survey identified high- and low-scoring variables (Likert scale: 1-strongly disagree/never to 5-strongly agree/always). Qualitative assessment explored facilitators and barriers to program implementation and success. Overwhelmingly, both CHC leaders and faculty (n = 18) highlighted the CPP's positive role in making their work meaningful (4.78 [0.5]) and trusting the partners they work with (4.50 [0.5]). Sufficient time (3.61 [1.0]) and financial support (3.33 [1.4]) to engage in the CPP were the lowest scoring variables. Qualitative results highlighted the importance of communication, trust, and institutional buy-in, the value of community-academic bridges, increased access to clinical care, development of community-aligned solutions, and the partnership's positive impact on well-being. A model of community-academic partnership with primary care faculty embedded in safety-net CHCs can be successful from both AMC and CHC perspectives. These findings offer pragmatic lessons that can support other AMCs in building their own capacity for equity-focused collaboration grounded in community-engaged principles.",
+   "concepts": [
+    "trust"
+   ],
+   "matched": [
+    "WATCH"
+   ],
+   "score": 6
+  },
+  {
+   "id": "doi:10.48550~arxiv.2609.30986",
+   "title": "Evaluating Sycophancy in Chinese Large Language Models on Factual Questions Derived from Online Search Queries",
+   "authors": [
+    "Liu G",
+    "Li F",
+    "Zhu M",
+    "Pierri F"
+   ],
+   "year": 2026,
+   "venue": "arXiv",
+   "doi": "10.48550/arxiv.2609.30986",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
    "preprint": true,
-   "pdf_url": "https://www.researchsquare.com/article/rs-10363679/latest.pdf",
+   "pdf_url": "https://arxiv.org/pdf/2609.30986v1",
    "access": "oa",
-   "abstract": "Abstract  Traditional college basketball teaching often falls short in developing comprehensive athletic abilities and teamwork. Existing research predominantly focuses on isolated teaching methods rather than integrated, theoretically grounded model construction, leaving a gap in systematic evidence-based frameworks for holistic basketball instruction. This study developed and tested an innovative model integrating modular skill training, situational teaching, and diversified evaluation, grounded in multiple intelligence, constructivist, and motor skill acquisition theories. The theoretical contribution of this work lies in demonstrating how the integration of these three frameworks can be operationalized into a coherent pedagogical system that simultaneously addresses skill acquisition, cognitive development, and social learning. In a quasi-experiment, 120 college students were assigned to an experimental group (n=60) receiving the innovative model and a control group (n=60) receiving traditional instruction. After 16 weeks, basketball skills, tactical understanding, physical fitness, teamwork, and learning motivation were compared using t-tests and ANOVA. The experimental group scored significantly higher in basic skills (85.23 vs 76.45, P",
+   "abstract": "As large language models increasingly mediate information access, factually accurate and independent answers are critical. However, these models can exhibit sycophancy by aligning their responses with users' stated beliefs even when those beliefs are incorrect, potentially presenting misinformation as independently verified and reinforcing users' confidence in false claims. Prior work leaves unresolved whether introducing user beliefs causes correct responses to become incorrect or uncertain, or causes uncertain responses to become belief-aligned incorrect answers. It also remains unclear whether anti-sycophancy interventions preserve or restore factual accuracy or merely shift responses toward uncertainty. We analyze factual sycophancy in Chinese-language information seeking using yes/no fact-checking questions. Our analysis covers 364,941 responses from three frontier Chinese-based LLMs (DeepSeek, Qwen, and Doubao) to 12,165 factual questions derived from real-world Chinese search queries. We evaluate the models with and without reasoning across baseline, belief-conditioned, and anti-sycophancy prompting, tracing matched shifts among correct, incorrect, and uncertain responses. Under incorrect user beliefs, we distinguish belief-aligned errors from losses of factual confidence, in which initially correct answers become uncertain. Patterns vary across models and reasoning settings: reasoning is not a consistent safeguard, and anti-sycophancy instructions can reduce incorrect agreement while increasing uncertainty. In Chinese-language factual question answering, avoiding agreement with false beliefs is therefore not equivalent to preserving factual accuracy, highlighting the value of transition-level evaluation. Such behavior may undermine the reliability of LLM-mediated information access by reinforcing misinformation or weakening users' confidence in factually correct answers.",
    "concepts": [
-    "social learning"
+    "llm-tom",
+    "theory of mind"
    ],
    "matched": [
-    "D1"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1080~07448481.2026.2737336",
-   "title": "Understanding college students' ecological contexts: A mixed methods and integrative approach. ",
-   "authors": [
-    "Gayle A",
-    "Jones BK",
-    "Sanchez-Cazales D"
-   ],
-   "year": 2026,
-   "venue": "J Am Coll Health",
-   "doi": "10.1080/07448481.2026.2737336",
-   "pmid": "42822016",
-   "pmcid": "",
-   "epmc": "MED:42822016",
-   "first_pub": "2026-10-01",
-   "pub_types": [
-    "IM",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Introduction: Understanding how students thrive-not just achieve-in college is an important psychological and social question. This study examines the social systems in students' lives and their relationships with student well-being and academic achievement. Methods: Using a mixed-methods approach integrating psychology and social work perspectives, we analyzed 90 student ecomaps to investigate the number and qualities of students' identified social systems and examined their predictive value across measures associated with student well-being and achievement. Results: Ecomap analysis provides deeper insight into the relational and environmental contexts shaping students' experiences, highlighting the importance of relationship quality, strength, and reciprocity within their ecological systems. Discussion: The findings reinforce the importance of adopting a holistic, systems-oriented approach to understanding student well-being, recognizing that students' experiences extend beyond individual characteristics and academic performance.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1364~ol.610453",
-   "title": "Enabling 3D refractive index tomography in laser scanning microscopy with a simple tape-on detector. ",
-   "authors": [
-    "Lemberger NS",
-    "Fallnich C"
-   ],
-   "year": 2026,
-   "venue": "Opt Lett",
-   "doi": "10.1364/ol.610453",
-   "pmid": "42821965",
-   "pmcid": "",
-   "epmc": "MED:42821965",
-   "first_pub": "2026-10-01",
-   "pub_types": [
-    "IM",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "We introduce quantitative scanned oblique back-illumination microscopy (qsOBM) for laser scanning microscopes (LSMs), enabling quantitative three-dimensional refractive index (RI) tomography in thick scattering samples. By exploiting the reciprocity of light scattering, the established camera-based qOBM reconstruction framework is extended to a scanning implementation. Experimentally, qsOBM is realized with a slide-mounted four-quadrant photodetector requiring only minimal optomechanical modification of a conventional LSM. We demonstrate quantitative RI imaging and multimodal qsOBM/epi-detected second-harmonic generation (SHG) microscopy of type I collagen and adipose tissue in chicken muscle. The resulting RI tomograms provide label-free volumetric morphological information that complements SHG microscopy and expands the capabilities of existing LSM platforms for multimodal tissue imaging.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1002~zoo.70118",
-   "title": "A Coordinated U.S. Biobank Alliance for the Zoological and Conservation Community. ",
-   "authors": [
-    "Johnston RA",
-    "Moses L",
-    "Wolfe D",
-    "Brown ME",
-    "Chaille AY",
-    "D'Agostino J",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "Zoo Biol",
-   "doi": "10.1002/zoo.70118",
-   "pmid": "42820713",
-   "pmcid": "",
-   "epmc": "MED:42820713",
-   "first_pub": "2026-10-01",
-   "pub_types": [
-    "IM",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "With dramatic advancements in biological data generation, genetic rescue and reproductive technologies, and inter-institutional coordination of care across entire animal populations, zoos, aquariums, and their collaborators are uniquely positioned to lead population-wide research benefiting animal wellbeing and species survival. However, procedural and inter-institutional barriers make it exceedingly difficult to access existing zoological biospecimens and data at scale. To address this, the Zoonomics Working Group, representing diverse roles across three zoological associations (AZA, EAZA, WAZA), proposes a biodiversity biobank alliance that develops and delivers shared resources to support the collection, storage, and sharing of biological samples and associated data across the zoological and conservation community. By biobank alliance, we mean a community-guided effort that develops shared resources, standards, ethos, and practices for collecting, storing, and sharing biological samples and associated data voluntarily through transparent processes, consistent with professional accreditation standards and international best practices. While initially focused on addressing the needs and regulatory landscape of U.S. institutions, the alliance is designed to create frameworks that are adaptable and adoptable for international expansion. Such a framework would help the zoological community navigate the ethical, legal, and practical challenges of managing biospecimen collections, making access more efficient, reliable, and robust. Achieving this vision requires collective agreement on ethical principles such as reciprocity, transparency, and data stewardship, ensuring that research is both feasible and proactively supported. Such coordination will drive advances in fundamental biology and accelerate progress in animal health, welfare, management, and biodiversity conservation.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1111~hex.70865",
-   "title": "A Critical History of Co-Production in the Design and Delivery of UK Mental Health Services",
-   "authors": [
-    "Fleischmann P",
-    "Schofield P"
-   ],
-   "year": 2026,
-   "venue": "Health Expect",
-   "doi": "10.1111/hex.70865",
-   "pmid": "42750479",
-   "pmcid": "PMC13583470",
-   "epmc": "MED:42750479",
-   "first_pub": "2026-10-01",
-   "pub_types": [
-    "Historical Article",
-    "research-article",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "https://europepmc.org/articles/PMC13583470?pdf=render",
-   "access": "oa",
-   "abstract": "BackgroundThe term co-production is now very common and risks losing its original egalitarian and emancipatory meaning. Questions about what the term means relate to how the concept developed historically. We conduct a critical history of the concept to shed some light on this and inform contemporary practice.ObjectivesTo chart the history of co-production focusing on co-production in the design and delivery of mental health services; critically examining the extent to which the original egalitarian promise has been realised.MethodsWe draw on early foundational texts, key UK policy frameworks and legislation, mental health service user/survivor movement accounts and more recent guidelines, using illustrative cases to critically examine the concept.ResultsEarly accounts from the US stressing reciprocity, shared power, and active citizenship directly influenced approaches to UK mental health services. Further accounts from the user/survivor movement stressed the importance of power sharing and a critique of medical models of mental distress. UK policy frameworks and legislation have since brought co-production from the margins to the mainstream, introducing a tension between a mainstream concept of co-production influencing services through collaboration and a service user/survivor concept of co-production as equal power sharing.ConclusionHistorically there have been a range of conceptions of co-production with different notions of what power sharing means for service users working alongside professionals.Lived experience or public contributionBoth authors have past lived experience of using psychiatric services. The manuscript was also shared with a small group of user/survivors with a particular interest in co-production and their feedback incorporated in the final draft.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1080~00222895.2026.2738806",
-   "title": "Adapting Movement Amplitude for Temporal Constraints: Further Tests of the Reciprocity of Space-Time Error",
-   "authors": [
-    "Hsieh TY",
-    "Liu YT",
-    "Newell KM"
-   ],
-   "year": 2026,
-   "venue": "J Mot Behav",
-   "doi": "10.1080/00222895.2026.2738806",
-   "pmid": "42811463",
-   "pmcid": "",
-   "epmc": "MED:42811463",
-   "first_pub": "2026-09-29",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "The speed-accuracy tradeoff has historically been framed through spatial variables such as movement amplitude and spatial error, yet time can be an equally salient performance constraint in goal-directed action. In this study, we examined whether the reciprocal of Fitts' Law - where time, rather than space, serves as the task criterion - produces systematic change in movement spatial outcome. Twenty right-handed adults performed discrete line drawing movements under two manipulations: (1) target movement time (T) with a fixed temporal bandwidth; and (2) varying time bandwidths (WT) at a fixed T. These manipulations produced distinct spatial and temporal variability patterns, with target T exerting a stronger and more consistent influence than WT. Temporal variability increased with IDT under the target T conditions but decreased with IDT under narrowing WT, indicating a reciprocal and constraint-specific modulation of movement performance. These findings reflect the reciprocal nature of space and time outcome measures in discrete aiming tasks, in which spatial and temporal constraints conjointly modulate performance outcome.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1038~s41467-026-77702-x",
-   "title": "Cell-derived lactate triggers local hydrogelation and phenotype remodelling",
-   "authors": [
-    "Braun MG",
-    "Schneider TC",
-    "Koynov K",
-    "Gieß S",
-    "Driehaus-Ortiz L",
-    "Förch L",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "Nat Commun",
-   "doi": "10.1038/s41467-026-77702-x",
-   "pmid": "42805993",
-   "pmcid": "PMC13619628",
-   "epmc": "MED:42805993",
-   "first_pub": "2026-09-28",
-   "pub_types": [
-    "research-article",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "https://europepmc.org/articles/PMC13619628?pdf=render",
-   "access": "oa",
-   "abstract": "Many tumours release lactate as a major metabolic product and signalling molecule. Here we use lactate flux as an endogenous trigger for covalent hydrogel formation. Phenol-functionalised alginate remains soluble until cell-derived lactate is oxidised by lactate oxidase; the generated hydrogen peroxide is used by horseradish peroxidase to crosslink phenols and form a matrix at metabolically active sites. Hydrogels form within minutes and reach storage moduli from approximately 10 Pa to 5 kPa. In tumour-spheroid models, including a patient-derived glioblastoma spheroid model, local lactate production generates spatially confined gelation that extended up to around 1 mm from the spheroid surface. Nanoindentation and fluorescence correlation spectroscopy reveal radial stiffness and polymer-density gradients, while proteome profiling and imaging indicate reduced proliferative signalling and increased markers associated with migration and matrix remodelling. These findings establish metabolite-gated hydrogelation as a strategy to couple cellular metabolism to covalent matrix assembly, mechanics and transport, providing a bio-synthetic platform for modelling cell-matrix reciprocity and tumour confinement.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 6
-  },
-  {
-   "id": "doi:10.1007~s11019-026-10398-4",
-   "title": "Biobanks, the 'diagnostic misconception' and the distinction between altruism and reciprocity",
-   "authors": [
-    "Bell K",
-    "Day S",
-    "Ward H"
-   ],
-   "year": 2026,
-   "venue": "Med Health Care Philos",
-   "doi": "10.1007/s11019-026-10398-4",
-   "pmid": "42799935",
-   "pmcid": "",
-   "epmc": "MED:42799935",
-   "first_pub": "2026-09-26",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11019-026-10398-4.pdf",
-   "access": "oa",
-   "abstract": "In this paper, we revisit the topic of genetic biobanks and the ethical issues surrounding them. Focusing on the centrality of altruism to their conception, design and governance, we explore the ways in which the idea of participation as a \"free gift\" has served to define and constrain the terms of discussion around the ethics of biobanks. Discussing empirical evidence of widespread expectations for personal health information, often framed as a \"diagnostic misconception\", we highlight the ways in which the concept is frequently employed to protect a particular moral economy of research in which participants' expectations around the return of personal health information are reduced to a lack of informed consent. Conversely, we suggest that reciprocity provides a more accurate empirical account of participation in biobanks, although this is not merely a form of transactional exchange that flips the script of biobank participation from altruism to self-interest. We conclude that without a reconsideration of the entire conceptual edifice of biobanking, calls to create more reciprocal and solidarity-based models are likely to do little to change the status quo, and that a deeper and more anthropologically informed consideration of reciprocity would serve to improve frameworks for addressing the ethical issues that biobanks entail.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
+    "ARXIV"
    ],
    "score": 6
   }
  ],
- "preprint_updates": [],
+ "preprint_updates": [
+  {
+   "id": "doi:10.31234~osf.io~bgkja_v2",
+   "preprint_doi": "10.31234/osf.io/bgkja_v2",
+   "doi": "10.1037/pspa0000495",
+   "venue": "J Pers Soc Psychol",
+   "year": 2026,
+   "title": "When and why are social categories overused relative to individuating information? A Bayesian approach to identifying biases in impression formation processes",
+   "pdf_url": ""
+  }
+ ],
  "unresolved_journals": []
 }
