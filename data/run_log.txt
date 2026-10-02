@@ -12,66 +12,8 @@ P3: +9 (total 193)
 P4: +4 (total 197)
 P5: +0 (total 197)
 after watchlist: 225
-  give up https://api.crossref.org/journals/0028-0836/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0036-8075/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2375-2548/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0960-9822/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2045-2322/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2052-4463/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0027-8424/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2041-1723/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2397-3374/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1097-6256/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0896-6273/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2050-084X/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1545-7885/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1553-7358/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0270-6474/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0956-7976/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0096-3445/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0022-3514/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0010-0277/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0364-0213/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2470-2986/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1749-5016/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0006-3223/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0033-295X/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1364-6613/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1053-8119/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1047-3211/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0033-2917/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2168-622X/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2731-6076/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2054-5703/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0962-8436/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2731-0574/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0166-2236/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2352-1546/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2731-9121/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2399-3642/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2379-6227/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2451-9022/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2769-7541/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0066-4308/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0899-8256/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1939-3792/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1362-3613/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2040-2392/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1949-2715/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0885-579X/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1528-3542/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0962-8452/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1554-351X/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2474-7394/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1471-0048/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/1363-755X/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0009-3920/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/2158-3188/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-  give up https://api.crossref.org/journals/0893-133X/works?filter=from-created-date%3A2026-09-22%2Cuntil-crea: HTTP Error 400: Bad Request
-after journal ToCs: 225 (4 journals unresolved)
+after journal ToCs: 226 (0 journals unresolved)
 after OpenAlex: 824
 after arXiv: 836
 abstracts: 770/836
-/home/runner/work/sconelab-lit-fetch/sconelab-lit-fetch/fetch.py:269: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
-  result = {"generated": dt.datetime.utcnow().isoformat() + "Z", "window_start": str(start),
 wrote 150 candidates, 0 preprint updates

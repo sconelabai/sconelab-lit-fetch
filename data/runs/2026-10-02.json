@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T20:16:23.273356Z",
+ "generated": "2026-10-02T20:21:25.938548+00:00",
  "window_start": "2026-09-22",
  "window_end": "2026-10-02",
  "n_candidates": 150,
@@ -120,6 +120,65 @@
    "score": 5
   },
   {
+   "id": "doi:10.1371~journal.pcbi.1014796",
+   "title": "Modeling decision dynamics disentangles working memory, cognitive control and reinforcement learning and reveals clinical differences",
+   "authors": [
+    "Bera K",
+    "Fengler A",
+    "Boudewyn MA",
+    "Carter CS",
+    "Erickson MA",
+    "Gold JM",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "PLoS Comput Biol",
+   "doi": "10.1371/journal.pcbi.1014796",
+   "pmid": "42814756",
+   "pmcid": "",
+   "epmc": "MED:42814756",
+   "first_pub": "2026-09-30",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Various neurocognitive processes contribute to reinforcement learning (RL) and decision making, requiring careful task designs and computational modeling to disentangle them. People rely on capacity-limited working memory (WM) to rapidly and flexibly adapt behavior during learning, together with slower incremental RL processes that support robust long-term retention. The RLWM paradigm was developed to isolate these contributions by manipulating WM demands during learning. Empirical and computational advances support the separability of such processes, but only imperfectly, because a given choice can often equally be attributed to use of WM vs. RL. Here, we show that jointly modeling decision dynamics - accounting not only for choices but also response time distributions, together with hierarchical Bayesian parameter estimation - improves the ability to disentangle separable learning and cognitive control processes. Despite added complexity, models with decision dynamics improved parameter recovery and yielded accurate out-of-sample prediction for choices in a held-out test phase after learning. In contrast, models fit only to choices produced an inflation of RL learning rates and failed the out-of-sample test. Moreover, joint modeling also revealed a novel neurocognitive process by which participants proactively widen decision boundaries to increase response caution under increased WM load. Applying our model to patients with schizophrenia revealed a deficit in proactive control mechanisms as well as slowed incremental RL, which were masked by previous choice-only models, while replicating previously established WM deficits. In summary, we show how joint modeling enables accurate, model-based and mechanism-oriented computational phenotyping of psychopathologies.",
+   "matched": [
+    "D8",
+    "JOURNAL"
+   ],
+   "score": 5
+  },
+  {
+   "id": "doi:10.1162~opmi.a.396",
+   "title": "Idiographic Memory Modelling in ACT-R Using Alternating Maximum Likelihood Estimation",
+   "authors": [
+    "van der Velde M",
+    "Wilschut T",
+    "van Rijn H",
+    "Stocco A"
+   ],
+   "year": 2026,
+   "venue": "Open Mind",
+   "doi": "10.1162/opmi.a.396",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Abstract Performance on memory tasks varies systematically between individuals and within individuals over time. However, computational models of memory are often fitted at the group level or summarise performance in a single parameter, potentially obscuring the distinct cognitive processes that give rise to this variation. Here we present a likelihood-based procedure for fitting the multi-parameter ACT-R declarative memory model at the level of the individual. Using this method, we jointly estimate five participant-level or idiographic parameters, each capturing a distinct component of memory performance, together with item-level variation in memorability. A parameter recovery study on synthetic data shows that these participant- and item-level parameters are jointly identifiable from realistic amounts of data on a typical spaced repetition memory task, requiring only about 40–90 observations of response accuracy and speed per participant. We demonstrate the method on a dataset of individuals with mild cognitive impairment and age-matched healthy controls, finding that mild cognitive impairment is marked by differences in three parameters signifying accelerated forgetting, less efficient memory retrieval, and general psychomotor slowing. These results show that the method can successfully decompose observed performance on a memory task into separable, individually interpretable components. More broadly, this work contributes to the development of fine-grained idiographic memory models that can capture dynamics in memory performance both between and within individuals, with applications in experimental research and applied settings, such as computational phenotyping for clinical diagnosis.",
+   "matched": [
+    "D8",
+    "JOURNAL"
+   ],
+   "score": 5
+  },
+  {
    "id": "doi:10.1016~j.neubiorev.2026.106998",
    "title": "The neural architecture of social threat: A meta-analytic comparison of indirect and direct social threat. ",
    "authors": [
@@ -235,37 +294,6 @@
    "matched": [
     "D2",
     "D5"
-   ],
-   "score": 4
-  },
-  {
-   "id": "doi:10.1371~journal.pcbi.1014796",
-   "title": "Modeling decision dynamics disentangles working memory, cognitive control and reinforcement learning and reveals clinical differences",
-   "authors": [
-    "Bera K",
-    "Fengler A",
-    "Boudewyn MA",
-    "Carter CS",
-    "Erickson MA",
-    "Gold JM",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "PLoS Comput Biol",
-   "doi": "10.1371/journal.pcbi.1014796",
-   "pmid": "42814756",
-   "pmcid": "",
-   "epmc": "MED:42814756",
-   "first_pub": "2026-09-30",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Various neurocognitive processes contribute to reinforcement learning (RL) and decision making, requiring careful task designs and computational modeling to disentangle them. People rely on capacity-limited working memory (WM) to rapidly and flexibly adapt behavior during learning, together with slower incremental RL processes that support robust long-term retention. The RLWM paradigm was developed to isolate these contributions by manipulating WM demands during learning. Empirical and computational advances support the separability of such processes, but only imperfectly, because a given choice can often equally be attributed to use of WM vs. RL. Here, we show that jointly modeling decision dynamics - accounting not only for choices but also response time distributions, together with hierarchical Bayesian parameter estimation - improves the ability to disentangle separable learning and cognitive control processes. Despite added complexity, models with decision dynamics improved parameter recovery and yielded accurate out-of-sample prediction for choices in a held-out test phase after learning. In contrast, models fit only to choices produced an inflation of RL learning rates and failed the out-of-sample test. Moreover, joint modeling also revealed a novel neurocognitive process by which participants proactively widen decision boundaries to increase response caution under increased WM load. Applying our model to patients with schizophrenia revealed a deficit in proactive control mechanisms as well as slowed incremental RL, which were masked by previous choice-only models, while replicating previously established WM deficits. In summary, we show how joint modeling enables accurate, model-based and mechanism-oriented computational phenotyping of psychopathologies.",
-   "matched": [
-    "D8"
    ],
    "score": 4
   },
@@ -590,32 +618,6 @@
    "abstract": "This paper develops an empirically calibrated agent-based model of behavioral and network dynamics between Egyptian host-community members and Syrian refugees. Behavioral data from the Dictator Game, Ultimatum Game, and Prisoner’s Dilemma were used at two stages of the calibration. Multidimensional Item Response Theory (MIRT) was used to estimate agents’ initial behavioral orientations, while group-pair response frequencies were used to derive confidence and tolerance thresholds. Across 50 simulation runs, the model reached behavioral consensus while maintaining a cross-group edge fraction above the random-mixing benchmark. Behavioral assortativity remained positive in some runs, indicating that local behavioral sorting can persist despite cross-group connectivity. Jointly replacing the empirical behavioral initialization and empirically weighted network with random initialization produced a similar final outcome. Local sensitivity analysis showed that moderate parameter changes affected assortativity more than the final behavioral gap or cross-group edge fraction. These results show that behavioral convergence, cross-group connectivity, and local behavioral sorting can coexist within the calibrated model.",
    "matched": [
     "D5"
-   ],
-   "score": 4
-  },
-  {
-   "id": "doi:10.1162~opmi.a.396",
-   "title": "Idiographic Memory Modelling in ACT-R Using Alternating Maximum Likelihood Estimation",
-   "authors": [
-    "Velde Mvd",
-    "Wilschut T",
-    "Rijn Hv",
-    "Stocco A"
-   ],
-   "year": 2026,
-   "venue": "Open Mind",
-   "doi": "10.1162/opmi.a.396",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Abstract Performance on memory tasks varies systematically between individuals and within individuals over time. However, computational models of memory are often fitted at the group level or summarise performance in a single parameter, potentially obscuring the distinct cognitive processes that give rise to this variation. Here we present a likelihood-based procedure for fitting the multi-parameter ACT-R declarative memory model at the level of the individual. Using this method, we jointly estimate five participant-level or idiographic parameters, each capturing a distinct component of memory performance, together with item-level variation in memorability. A parameter recovery study on synthetic data shows that these participant- and item-level parameters are jointly identifiable from realistic amounts of data on a typical spaced repetition memory task, requiring only about 40–90 observations of response accuracy and speed per participant. We demonstrate the method on a dataset of individuals with mild cognitive impairment and age-matched healthy controls, finding that mild cognitive impairment is marked by differences in three parameters signifying accelerated forgetting, less efficient memory retrieval, and general psychomotor slowing. These results show that the method can successfully decompose observed performance on a memory task into separable, individually interpretable components. More broadly, this work contributes to the development of fine-grained idiographic memory models that can capture dynamics in memory performance both between and within individuals, with applications in experimental research and applied settings, such as computational phenotyping for clinical diagnosis.",
-   "matched": [
-    "D8"
    ],
    "score": 4
   },
@@ -4180,10 +4182,5 @@
   }
  ],
  "preprint_updates": [],
- "unresolved_journals": [
-  "Computational Brain & Behavior",
-  "Journal of Economic Behavior & Organization",
-  "Neuroscience & Biobehavioral Reviews",
-  "Psychonomic Bulletin & Review"
- ]
+ "unresolved_journals": []
 }
