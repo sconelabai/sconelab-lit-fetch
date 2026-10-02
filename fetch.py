@@ -136,6 +136,7 @@ def main():
     watch_sur = {w.split()[0].lower() for w in watch}
 
     cands, hits = {}, {}
+    T0 = time.time()
     def add(r, tag):
         rec = record(r)
         if not rec["title"]:
@@ -180,11 +181,17 @@ def main():
         else:
             cands[k] = rec; tix[norm(rec["title"])] = k
         hits.setdefault(k, set()).add(tag)
+    KW = [k.lower() for d in domains for k in d.get("keywords", [])]
     jcfg = json.load(open(os.path.join(ROOT, "config", "journals.json")))["journals"]
     resolved, unresolved = sources.resolve_issns(jcfg, os.path.join(ROOT, "data", "issn_cache.json"))
     for name, issn in resolved:
         for r in sources.crossref_toc(make_id, issn, name, start, end):
-            merge(r, "JOURNAL")
+            t = (r["title"] + " " + r["abstract"]).lower()
+            h = sum(1 for x in KW if x in t)
+            if h >= 2 or (h >= 1 and not r["abstract"]):  # cheap topical prefilter (journals publish thousands/week)
+                merge(r, "JOURNAL")
+        if time.time() - T0 > 1200:
+            print("time budget reached; skipping remaining journals", flush=True); break
         time.sleep(1)
     print(f"after journal ToCs: {len(cands)} ({len(unresolved)} journals unresolved)")
     for d in domains:

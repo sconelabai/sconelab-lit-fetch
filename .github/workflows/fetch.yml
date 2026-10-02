@@ -12,15 +12,16 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Fetch candidates
-        run: python fetch.py --days "${{ github.event.inputs.days || '10' }}"
+        run: python -u fetch.py --days "${{ github.event.inputs.days || '10' }}" 2>&1 | tee data/run_log.txt
       - name: Commit results
+        if: always()
         run: |
           git config user.name "sconelab-fetch-bot"
           git config user.email "actions@users.noreply.github.com"

@@ -1,21 +1,27 @@
 """Extra sources for fetch.py: Crossref journal tables of contents, OpenAlex keyword
 search, arXiv (AI / theory-of-mind), and Semantic Scholar abstract back-fill.
 Every function returns records in fetch.record()'s format. Standard library only."""
-import json, os, re, time, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+import json, os, re, time, urllib.error, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 
 UA = "SCoNeLab-literature-tracker/1.0 (mailto:dstanley@adelphi.edu)"
 
-def _get(url, data=None, tries=4, raw=False):
+def _get(url, data=None, tries=3, raw=False):
+    last = None
     for i in range(tries):
         try:
             req = urllib.request.Request(url, data=data, headers={"User-Agent": UA, "Content-Type": "application/json"})
             with urllib.request.urlopen(req, timeout=60) as r:
                 b = r.read()
                 return b if raw else json.loads(b)
-        except Exception as e:
-            time.sleep(5 * 2 ** i)
+        except urllib.error.HTTPError as e:
             last = e
-    print(f"  give up {url[:100]}: {last}")
+            if e.code != 429 and e.code < 500:
+                break  # bad request: retrying won't help
+            time.sleep(10 * (i + 1))
+        except Exception as e:
+            last = e
+            time.sleep(5 * (i + 1))
+    print(f"  give up {url[:100]}: {last}", flush=True)
     return None
 
 def _clean(s):
@@ -124,12 +130,12 @@ def arxiv(make_id, phrases, start, end, limit=100):
     return recs
 
 # ---------------------------------------------------------------- Semantic Scholar abstracts
-def s2_fill(cands):
-    need = [c for c in cands if not c["abstract"] and c["doi"]]
+def s2_fill(cands, cap=400):
+    need = [c for c in cands if not c["abstract"] and c["doi"]][:cap]
     for i in range(0, len(need), 100):
         chunk = need[i:i + 100]
         d = _get("https://api.semanticscholar.org/graph/v1/paper/batch?fields=abstract,openAccessPdf",
-                 data=json.dumps({"ids": ["DOI:" + c["doi"] for c in chunk]}).encode())
+                 data=json.dumps({"ids": ["DOI:" + c["doi"] for c in chunk]}).encode(), tries=2)
         for c, r in zip(chunk, d or []):
             if r and r.get("abstract"):
                 c["abstract"] = r["abstract"]
