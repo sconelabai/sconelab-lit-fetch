@@ -1,0 +1,29 @@
+name: weekly-fetch
+on:
+  schedule:
+    - cron: "17 8 * * 1"   # Mondays 08:17 UTC (4:17am EDT / 3:17am EST), before Claude's 5:59am run
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Look-back window in days"
+        default: "10"
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch candidates
+        run: python fetch.py --days "${{ github.event.inputs.days || '10' }}"
+      - name: Commit results
+        run: |
+          git config user.name "sconelab-fetch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "fetch: $(date -u +%F)"
+          git push

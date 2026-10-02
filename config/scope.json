@@ -1,0 +1,230 @@
+{
+ "domains": [
+  {
+   "core": true,
+   "description": "Trait and impression learning, RL and Bayesian accounts of learning about others, social vs. nonsocial learning, vicarious and observational learning.",
+   "id": "D1",
+   "keywords": [
+    "social learning",
+    "impression updating",
+    "trait learning",
+    "observational learning",
+    "vicarious learning",
+    "reinforcement learning social",
+    "Bayesian impression formation",
+    "social vs nonsocial learning"
+   ],
+   "name": "Computational models of social learning",
+   "short": "Social learning"
+  },
+  {
+   "core": true,
+   "description": "Bayesian theory of mind, inverse planning, POMDP/I-POMDP and recursive mentalizing, ToM learning tasks.",
+   "id": "D2",
+   "keywords": [
+    "theory of mind computational",
+    "inverse planning",
+    "Bayesian theory of mind",
+    "mentalizing model",
+    "recursive reasoning k-level",
+    "I-POMDP",
+    "belief inference"
+   ],
+   "name": "Computational theory of mind",
+   "short": "Theory of mind"
+  },
+  {
+   "core": true,
+   "description": "One-shot and multi-round trust games, betrayal and trust repair, volatility (HMM, changepoint), generalization of trust to new partners.",
+   "id": "D3",
+   "keywords": [
+    "trust game",
+    "reciprocity",
+    "betrayal aversion",
+    "trust repair",
+    "trustworthiness learning",
+    "repeated trust game",
+    "generalization of trust"
+   ],
+   "name": "Trust and reciprocity",
+   "short": "Trust"
+  },
+  {
+   "core": true,
+   "description": "Stereotype formation and updating, implicit evaluation change, intergroup trust, group-level representations.",
+   "id": "D4",
+   "keywords": [
+    "stereotype learning",
+    "implicit bias change",
+    "evaluative learning",
+    "intergroup trust",
+    "group representation",
+    "prejudice computational",
+    "implicit association updating"
+   ],
+   "name": "Learning about groups, stereotypes and implicit bias",
+   "short": "Groups & bias"
+  },
+  {
+   "core": true,
+   "description": "Inequity aversion, ultimatum and dictator games, altruistic choice, prosocial learning, cooperation and social norms.",
+   "id": "D5",
+   "keywords": [
+    "ultimatum game",
+    "inequity aversion",
+    "altruism neural",
+    "prosocial learning",
+    "social norms computational",
+    "cooperation public goods",
+    "dictator game",
+    "guilt aversion"
+   ],
+   "name": "Neuroeconomics of fairness, altruism and prosociality",
+   "short": "Fairness & prosociality"
+  },
+  {
+   "core": true,
+   "description": "BPD, cPTSD and childhood maltreatment, autism (social trust, compensation, prediction), paranoia, development and adolescence.",
+   "id": "D6",
+   "keywords": [
+    "borderline personality disorder trust",
+    "complex PTSD social",
+    "childhood maltreatment learning",
+    "autism social learning",
+    "autism compensation",
+    "paranoia computational",
+    "adolescent social learning",
+    "computational psychiatry social"
+   ],
+   "name": "Computational psychiatry of social cognition",
+   "short": "Comp. psychiatry"
+  },
+  {
+   "core": true,
+   "description": "fMRI/EEG of social prediction errors; TPJ, dmPFC, mPFC; neural representation of person knowledge; ERP markers of social feedback.",
+   "id": "D7",
+   "keywords": [
+    "social prediction error fMRI",
+    "TPJ dmPFC",
+    "person knowledge representation",
+    "RSA social",
+    "feedback-related negativity social",
+    "social cognition EEG",
+    "neural predictive coding social"
+   ],
+   "name": "Neural substrates of social inference",
+   "short": "Neural substrates"
+  },
+  {
+   "core": true,
+   "description": "Hierarchical Bayesian modeling, model comparison, parameter recovery and reliability, online data quality and exclusion, large-sample individual differences.",
+   "id": "D8",
+   "keywords": [
+    "hierarchical Bayesian reinforcement learning",
+    "model comparison WAIC LOO",
+    "parameter recovery",
+    "reliability computational parameters",
+    "online data quality",
+    "careless responding",
+    "bots online studies",
+    "computational phenotyping"
+   ],
+   "name": "Behavioral data collection and computational modeling methods",
+   "short": "Methods"
+  }
+ ],
+ "peripheral": [
+  {
+   "core": false,
+   "description": "First-hand experience vs. reputation and gossip; combining social cues.",
+   "id": "P1",
+   "keywords": [
+    "gossip",
+    "reputation learning",
+    "cue integration social"
+   ],
+   "name": "Information integration and reputation",
+   "short": "Integration & reputation"
+  },
+  {
+   "core": false,
+   "description": "Valence-dependent learning, negativity bias in impressions, optimism bias.",
+   "id": "P2",
+   "keywords": [
+    "valence asymmetry learning",
+    "negativity bias impression",
+    "optimism bias"
+   ],
+   "name": "Asymmetric belief updating",
+   "short": "Asymmetric updating"
+  },
+  {
+   "core": false,
+   "description": "HGF, Kalman filters, changepoint models applied to social inference.",
+   "id": "P3",
+   "keywords": [
+    "hierarchical Gaussian filter social",
+    "volatility social learning",
+    "Kalman"
+   ],
+   "name": "Uncertainty and volatility models in social settings",
+   "short": "Uncertainty"
+  },
+  {
+   "core": false,
+   "description": "Language models and theory of mind, LLMs as cognitive models of social reasoning.",
+   "id": "P4",
+   "keywords": [
+    "large language models theory of mind",
+    "LLM social reasoning",
+    "machine theory of mind"
+   ],
+   "name": "LLMs as models or testbeds of social inference",
+   "short": "LLMs & ToM"
+  },
+  {
+   "core": false,
+   "description": "Trait inference, personality perception accuracy, computational personality science.",
+   "id": "P5",
+   "keywords": [
+    "personality perception",
+    "trait inference accuracy",
+    "person perception"
+   ],
+   "name": "Personality perception and personality science",
+   "short": "Personality perception"
+  }
+ ],
+ "watchlist": [
+  "Leor Hackel",
+  "Oriel FeldmanHall",
+  "Patricia Lockwood",
+  "Luke Chang",
+  "Mark Thornton",
+  "Diana Tamir",
+  "Rebecca Saxe",
+  "Julian Jara-Ettinger",
+  "Chris Baker",
+  "Joshua Tenenbaum",
+  "Read Montague",
+  "Pearl Chiu",
+  "Peter Dayan",
+  "Michael Moutoussis",
+  "Christoph Mathys",
+  "John O'Doherty",
+  "Ralph Adolphs",
+  "David Amodio",
+  "Jamil Zaki",
+  "Dominic Fareri",
+  "Shawn Rhoads",
+  "Daniela Schiller",
+  "Catherine Hartley",
+  "Caroline Charpentier",
+  "Chujun Lin",
+  "Jonathan Freeman",
+  "Steve Chang",
+  "Fiery Cushman",
+  "Damian Stanley"
+ ],
+ "criteria": "Core domains are searched every week; peripheral topics only for high-signal papers. Methods papers are kept only where they intersect a domain, except behavioral data collection and computational modeling methods, which are tracked in their own right. Priority goes to high-impact work, reviews, and papers that apply across several domains. The scope is meant to broaden over time, using the papers dropped into the Inbox folder."
+}
