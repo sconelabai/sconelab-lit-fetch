@@ -17,6 +17,7 @@ Outputs (committed back to the repo by the workflow):
 Usage: python fetch.py [--days N] [--end YYYY-MM-DD]
 Standard library only.
 """
+import relevance
 import argparse, datetime as dt, json, os, re, sys, time, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -220,6 +221,11 @@ def main():
             score += 3
         if any("review" in t.lower() for t in c["pub_types"]):
             score += 1
+        cc = relevance.concepts(text)
+        if not cc:
+            continue  # no core concept of the field: drop (surname collisions, generic keyword hits)
+        score += 3 * len(cc)
+        c["concepts"] = cc
         kwhits = sum(1 for x in kw if x in text)
         if h <= {"JOURNAL", "ARXIV"} and kwhits < 2:
             continue  # journal ToC / arXiv items need real topical overlap
@@ -276,7 +282,7 @@ def main():
         f.write(f"# window {start}..{end}; {len(out)} candidates; {len(updates)} preprint updates\n")
         f.write("id\tscore\tmatched\tyear\tvenue\tfirst_author\tpreprint\tpdf\ttitle\tabstract(<=700)\n")
         for c in out:
-            f.write("\t".join([c["id"], str(c["score"]), ",".join(c["matched"]), str(c["year"]),
+            f.write("\t".join([c["id"], str(c["score"]), ",".join(c["matched"] + c.get("concepts", [])), str(c["year"]),
                                str(c["venue"]), (c["authors"] or [""])[0], "Y" if c["preprint"] else "",
                                "Y" if c["pdf_url"] else "", c["title"],
                                re.sub(r"\s+", " ", c["abstract"])[:700]]) + "\n")
