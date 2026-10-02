@@ -13,7 +13,7 @@ P4: +4 (total 197)
 P5: +0 (total 197)
 after watchlist: 225
 after journal ToCs: 226 (0 journals unresolved)
-after OpenAlex: 824
-after arXiv: 836
-abstracts: 770/836
-wrote 137 candidates, 1 preprint updates
+after OpenAlex: 301
+after arXiv: 314
+abstracts: 309/314
+wrote 65 candidates, 1 preprint updates
