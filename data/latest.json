@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-02T20:36:16.057880+00:00",
- "window_start": "2026-09-22",
- "window_end": "2026-10-02",
- "n_candidates": 65,
+ "generated": "2026-10-05T08:37:13.132775+00:00",
+ "window_start": "2026-09-25",
+ "window_end": "2026-10-05",
+ "n_candidates": 53,
  "candidates": [
   {
    "id": "doi:10.3389~fpsyt.2026.1919681",
@@ -50,15 +50,16 @@
    "venue": "PNAS Nexus",
    "doi": "10.1093/pnasnexus/pgag297",
    "pmid": "42813022",
-   "pmcid": "",
+   "pmcid": "PMC13621558",
    "epmc": "MED:42813022",
    "first_pub": "2026-09-29",
    "pub_types": [
+    "research-article",
     "Journal Article"
    ],
    "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
+   "pdf_url": "https://europepmc.org/articles/PMC13621558?pdf=render",
+   "access": "oa",
    "abstract": "Humans increasingly rely on large language models (LLMs) to support decisions in social settings. Previous work suggests that such tools can shape people's moral judgments. However, how LLMs evaluate decisions in social dilemmas, and the long-term implications of LLM-based assessments on human cooperation-driven by indirect reciprocity, reputations, and the capacity to judge interactions of others-remain unclear. We evaluate the social norms of 21 state-of-the-art LLMs when judging more than 40,000 fictitious decisions in social dilemmas. Through an evolutionary game-theoretical model, we study prosociality in populations adhering to these norms, theoretically studying their potential impact on long-term human cooperation. We observe a remarkable agreement in LLMs when evaluating actions against opponents perceived as good. Yet, there is large within- and between-model variance when assessing actions toward ill-reputed individuals. Our theoretical analysis reveals that these differences can significantly impact the prevalence of cooperation within our model. Finally, we show that prompt-based interventions can steer LLM norms, particularly when these define objective goals. Our theoretical model links LLM-based advice to long-term social dynamics, highlighting the importance of designing LLM norms considering their potential effects on human cooperation.",
    "concepts": [
     "cooperation",
@@ -139,6 +140,36 @@
    "score": 15
   },
   {
+   "id": "doi:10.17759~jmfp.2026150309",
+   "title": "Pro-social behavior support in preschool education: approaches, practices, and a model",
+   "authors": [
+    "Belyaevskaya E",
+    "Нисская А"
+   ],
+   "year": 2026,
+   "venue": "Journal of Modern Foreign Psychology",
+   "doi": "10.17759/jmfp.2026150309",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Context. The preschool period is a critical stage for the development of prosocial behavior. Children begin to understand the feelings of others, and the foundations of empathy and mutual assistance are formed. Situation-specific expressions of care can develop into more stable forms when children are embedded in a system of social relationships. However, the specific characteristics of interactions that support the development of prosocial behavior and its intrinsic motivation remain insufficiently understood. The objective of this review is to identify the conditions and practices of interaction with adults and peers that support the development of prosocial behavior in preschoolers and facilitate its internalization. Methods and Materials. This study presents a theoretical review of contemporary international and Russian research, integrating findings on social learning, the development of empathy and moral emotions, perspective taking, and the satisfaction of basic psychological needs. Results. Prosocial behavior develops within the child’s relationships with adults and peers. Effective practices combine support for autonomy with a clear structure of interactions, modeling care, providing genuine choices in joint activities, informative feedback, and creating an environment rich in opportunities for helping behavior. Based on this analysis, a model of prosocial development is proposed as a process occurring within a three-component system: an adult defines the form and meaning of the action, peers provide a space for practice and mutual regulation, and the environment offers opportunities for self-initiated acts of care. Conclusions. Prosocial behavior emerges from the coordinated interaction of emotional, cognitive-moral, and motivational mechanisms within a supportive environment that satisfies the needs for autonomy, competence, and relatedness. The proposed model provides guidelines for the design of educational practices and frameworks for observing and assessing the conditions that support prosocial behavior.",
+   "concepts": [
+    "cooperation",
+    "social learning",
+    "social neuro",
+    "theory of mind"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 15
+  },
+  {
    "id": "doi:10.5281~zenodo.22957902",
    "title": "The Structure of Social Cognition: Precursors, Mechanisms, and Competencies",
    "authors": [
@@ -170,7 +201,7 @@
   },
   {
    "id": "doi:10.1016~j.clnesp.2026.105148",
-   "title": "Developing a Mealtime Assistance Framework for Geriatric Psychiatric Inpatients: A Narrative Review",
+   "title": "Developing a mealtime assistance framework for geriatric psychiatric inpatients: A narrative review",
    "authors": [
     "Jordan A",
     "Hanson V",
@@ -200,6 +231,41 @@
     "D3"
    ],
    "score": 13
+  },
+  {
+   "id": "doi:10.1186~s44263-026-00335-1",
+   "title": "Factors associated with loneliness and social capital in a large volunteer sample of adults in England",
+   "authors": [
+    "El-Osta A",
+    "Al-Ammouri M",
+    "Alaa A",
+    "Altalib S",
+    "Tristán-López A",
+    "Majeed A"
+   ],
+   "year": 2026,
+   "venue": "BMC Glob Public Health",
+   "doi": "10.1186/s44263-026-00335-1",
+   "pmid": "42827252",
+   "pmcid": "",
+   "epmc": "MED:42827252",
+   "first_pub": "2026-10-02",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "BackgroundLoneliness is a pressing public health concern with wide-ranging impacts on mental, physical and social wellbeing. Building on the Measuring Loneliness in England (INTERACT) Study which represents one of the largest volunteer-based studies of loneliness and social disconnection conducted in the United Kingdom (UK), we explore demographic, social and health-related factors associated with loneliness and social capital, using multiple validated measures.MethodsWe analysed cross-sectional data from 135,725 community-dwelling adults across England. Loneliness was assessed using both the University of California, Los Angeles (UCLA) 3-item Loneliness Scale and the Office for National Statistics (ONS) Direct Measure of Loneliness (DMOL). Social capital was measured using a composite scale of neighbourhood trust, cohesion and reciprocity. Multivariable ordinal and binary logistic regression models were fitted to summarise mutually adjusted associations within the responding sample. The models were used as exploratory, sample-conditional descriptions and were not intended to estimate population parameters.ResultsYounger age (particularly 16-25 years old), being single, unemployed or living with disability were consistently associated with higher loneliness across both scales. In contrast, respondents reporting nine or more friends had substantially lower odds of loneliness (UCLA: adjusted odds ratio (aOR) = 0.09, 95% model-based interval (MBI): 0.09-0.10; DMOL: aOR = 0.16, 95% MBI: 0.15-0.17). University education was associated with higher loneliness on the UCLA scale but lower loneliness on the DMOL. High social capital was more frequently reported among older, married and retired respondents. Respondents with long-term conditions or disability had reduced odds of high social capital (long-term conditions: aOR = 0.82, 95% MBI: 0.80-0.85; disability: aOR = 0.77, 95% MBI: 0.74-0.80).ConclusionsThis study identified several sociodemographic, social and health-related factors associated with loneliness, although some associations varied according to the loneliness measure used. Because participants comprised a non-probability volunteer sample, the estimates should not be interpreted as population parameters, causal effects or confirmatory evidence. The findings are hypothesis-generating and require confirmation in representative, longitudinal and intervention-focused studies.",
+   "concepts": [
+    "computational",
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 12
   },
   {
    "id": "doi:10.68258~ajpsb_indigenous.63729",
@@ -326,34 +392,6 @@
    "score": 12
   },
   {
-   "id": "doi:10.5281~zenodo.22931669",
-   "title": "Contextual Interpersonal Calibration (CIC): An Iterative Method for Autistic Adults Decoding Implicit Communicative Codes in Neurotypical-Majority Environments",
-   "authors": [
-    "Christian G"
-   ],
-   "year": 2026,
-   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-   "doi": "10.5281/zenodo.22931669",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": true,
-   "pdf_url": "",
-   "access": "oa",
-   "abstract": "Contextual Interpersonal Calibration (CIC) is a method for autistic adults decoding implicit communicative codes in neurotypical-majority environments, formalized here as an explicit, iterative alternative to communicative intuition. The method proceeds through a recursive cycle of observation, local hypothesis, register selection, and falsification, tracked across six operational variables including cognitive cost. CIC positions itself relative to Communication Accommodation Theory, single-case ABAB experimental design, and Bayesian models of social inference, combining elements of each into a procedure usable in real time without training in any of the three fields. The method functions as a bridge rather than a permanent adaptation: it represents only the autistic person's half of a relational approach, with reciprocity from the interlocutor tracked as a variable subject to the same falsification discipline as any other hypothesis. CIC is presented as an operational proposal grounded in nearly fifty years of the author's own recursive practice; the literature cited documents the communicative problem it responds to and the theoretical precedents the procedure draws on, rather than validating the procedure's own efficacy.",
-   "concepts": [
-    "clinical-social",
-    "computational",
-    "cooperation"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 12
-  },
-  {
    "id": "doi:10.1038~s41598-026-72253-z",
    "title": "A risk-based view of trust in human–machine collaboration on cooking robots",
    "authors": [
@@ -378,36 +416,6 @@
     "cooperation",
     "social neuro",
     "trust"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 12
-  },
-  {
-   "id": "doi:10.34944~t9nt-z440",
-   "title": "Appendices A-E: Bias in AI Video Interview Evaluations: Effects of Autistic-Associated Behaviors and Debiasing Procedures",
-   "authors": [
-    "Jenca A",
-    "Lee A",
-    "Hantula DA"
-   ],
-   "year": 2026,
-   "venue": "TUScholarShare (Temple University)",
-   "doi": "10.34944/t9nt-z440",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Adults with autism spectrum disorder (ASD) experience employment disparities despite evidence that they possess strengths valued in the workplace. One barrier is the interview, where interviewer impressions are often formed from non-verbal behavioral cues. Differences in these behaviors are common in ASD and contribute to negative evaluations. While the use of artificial intelligence (AI) in hiring practices is rapidly increasing, it remains unclear whether these behaviors bring out inherent biases within these systems. The current study examines whether AI Large Language Models (LLM) assign lower evaluative ratings to candidates displaying autistic-associated behaviors and whether a debiasing procedure can reduce these effects. Three AI LLM models rated candidates in mock interview clips across four conditions: control (neurotypical behavior), limited eye contact, monotone speech, and low conversational reciprocity. The AI LLM rated the candidate on interpersonal and cognitive attributes and overall hireability before and after being exposed to pro-neurodiversity research. The LLMs assigned lower ratings in all non-control conditions. After the debiasing procedure, ratings increased across conditions. These findings suggest that AI LLM systems may replicate bias toward neurodivergent applicants but also suggest that these biases can be mitigated.",
-   "concepts": [
-    "clinical-social",
-    "cooperation",
-    "llm-tom"
    ],
    "matched": [
     "D3"
@@ -541,7 +549,7 @@
   },
   {
    "id": "doi:10.1016~j.neubiorev.2026.106998",
-   "title": "The neural architecture of social threat: A meta-analytic comparison of indirect and direct social threat. ",
+   "title": "The neural architecture of social threat: A meta-analytic comparison of indirect and direct social threat",
    "authors": [
     "Bonacina G",
     "Wagels L",
@@ -558,7 +566,6 @@
    "epmc": "MED:42822799",
    "first_pub": "2026-10-01",
    "pub_types": [
-    "IM",
     "Review",
     "Journal Article"
    ],
@@ -712,70 +719,8 @@
    "score": 9
   },
   {
-   "id": "doi:10.1038~s41467-026-77762-z",
-   "title": "Payoff selectivity drives collective intelligence during dynamic resource tracking in humans",
-   "authors": [
-    "Chirkov V",
-    "Kurvers RHJM",
-    "Romanczuk P",
-    "Deffner D"
-   ],
-   "year": 2026,
-   "venue": "Nat Commun",
-   "doi": "10.1038/s41467-026-77762-z",
-   "pmid": "42778636",
-   "pmcid": "PMC13601515",
-   "epmc": "MED:42778636",
-   "first_pub": "2026-09-23",
-   "pub_types": [
-    "research-article",
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "https://europepmc.org/articles/PMC13601515?pdf=render",
-   "access": "oa",
-   "abstract": "Humans' abilities for complex social learning and collective adaptation stand out across species. Yet it is largely unknown how people integrate dynamically changing personal and social cues in realistic environments, resulting in collective intelligence or maladaptive behavior. Here, we report an online 3D immersive-reality experiment in which participants (n = 621) search for and track a mobile resource under realistic visual-spatial constraints. Participants complete the task either alone or in groups of five with different types of social information and resource speeds. Contrasting earlier work, participants in groups outperform solitary individuals, but only when payoff information was available. High-resolution visual field data and movement trajectories reveal that payoff visibility prompts adaptive recalibration of visual information flow, thereby enabling flexible adaptation. Computational models of fine-grained movement decisions and agent-based simulations show that payoff information lets participants dynamically identify and selectively respond to reliable social cues, thus unlocking the group's collective potential.",
-   "concepts": [
-    "computational",
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 9
-  },
-  {
-   "id": "doi:10.31234~osf.io~mr4sp_v3",
-   "title": "Cooperative care as a candidate mechanism linking prolonged childhood and brain expansion in human evolution",
-   "authors": [
-    "Grossmann T"
-   ],
-   "year": 2026,
-   "venue": "PsyArXiv",
-   "doi": "10.31234/osf.io/mr4sp_v3",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "PPR:PPR1327089",
-   "first_pub": "2026-09-24",
-   "pub_types": [
-    "Preprint"
-   ],
-   "preprint": true,
-   "pdf_url": "https://osf.io/mr4sp_v3/download",
-   "access": "oa",
-   "abstract": "Two traits distinguish modern humans from all other primates: an exceptionally large brain and an exceptionally prolonged childhood. What mechanism produced this combination, and why are the two traits dissociated in other hominins? Standard models predict that brain size and developmental duration should co-vary tightly, yet the fossil record reveals that they do not: small-brained hominins at Dikika, Dmanisi, and Rising Star show slow development, while large-brained Neanderthals matured fast. Evolutionary simulations show that cooperative care can offer a coherent account of these dissociations. In Experiment 1, cooperative care extends childhood and, as an emergent consequence, enhances social learning independent of brain size (+32.5% childhood extension with no change in brain size), creating a knowledge–storage mismatch that generates selection pressure for brain expansion. In Experiment 2, when the metabolic ceiling is lifted through allomaternal provisioning, cooperative care populations show significant brain expansion (+34%) co-occurring with further childhood extension and enhanced social learning. In Experiment 3, when populations lacking cooperative care achieve equivalent brain expansion through dietary improvement alone, they instead mature faster, producing brain expansion decoupled from developmental prolongation. The simulation thereby identifies two emergent routes to large brains: a cooperative-care route producing coupled brain–childhood expansion, and a nutrition-only route producing brain expansion without developmental prolongation—a dissociation that parallels the comparison between modern humans and Neanderthals. These results suggest that the distinctly human developmental package may reflect not brain expansion per se, but the cooperative care system within which that expansion occurred.",
-   "concepts": [
-    "cooperation",
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 9
-  },
-  {
    "id": "doi:10.1109~tip.2026.3736736",
-   "title": "Second-Order Visual Attention Prediction in Multiagent Videos via Emotion-Aware Belief Inference. ",
+   "title": "Second-Order Visual Attention Prediction in Multiagent Videos via Emotion-Aware Belief Inference",
    "authors": [
     "Chen C",
     "Liu X",
@@ -793,7 +738,6 @@
    "epmc": "MED:42821725",
    "first_pub": "2026-10-01",
    "pub_types": [
-    "IM",
     "Journal Article"
    ],
    "preprint": false,
@@ -892,15 +836,16 @@
    "venue": "J Parkinsons Dis",
    "doi": "10.1177/1877718x261491598",
    "pmid": "42813900",
-   "pmcid": "",
+   "pmcid": "PMC13627459",
    "epmc": "MED:42813900",
    "first_pub": "2026-09-30",
    "pub_types": [
+    "research-article",
     "Journal Article"
    ],
    "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
+   "pdf_url": "https://europepmc.org/articles/PMC13627459?pdf=render",
+   "access": "oa",
    "abstract": "BackgroundResearch participants increasingly desire access to their personalized results. A growing emphasis on patient engagement and recognition of participants as partners in research has intensified ethical considerations around data sharing and return of results. While some research teams have started returning personalized results, important questions remain about how to do so responsibly and effectively.ObjectiveTo explore the perspectives of people with Parkinson's on return of individual research results, including preferences regarding digital data.MethodsThis qualitative sub-study was conducted as part the WATCH-PD study (Wearable Assessments in The Clinic and at Home in PD). Online qualitative interviews to explore perceptions on return of research results were conducted annually each year from 2022-2025. Content analysis techniques were used to analyze transcripts.Results33 participants completed interviews and were included in the analysis. Three themes emerged: (1) Most participants desire to receive personal results provided the results are understandable to them; (2) Knowing personal results could support disease management and future planning; and (3) Access to data is an ethical obligation of the research team and a reciprocal return of personal information.ConclusionsParticipants in this study wanted the choice to receive personal research results, and most preferred disclosure even when findings might be unfavorable. Although returning person-level data presents logistical and ethical challenges, engaging participants as partners through transparent data sharing may strengthen engagement, trust, and advance patient-centered research.",
    "concepts": [
     "cooperation",
@@ -942,31 +887,34 @@
    "score": 9
   },
   {
-   "id": "doi:10.1016~j.actpsy.2026.107879",
-   "title": "Same-sex attention and cooperation biases following digital social exclusion: Female users' responses to gender-coded virtual agents",
+   "id": "doi:10.64898~2026.09.27.26364136",
+   "title": "From Symptom Networks to Conversation Networks: A Cross-Sectional Study Mapping the Topology of Suicide-Related Clinical Dialogue",
    "authors": [
-    "Li Y",
-    "Fan L",
-    "Feng A",
-    "Zhao Z"
+    "Grimm O",
+    "Landau C",
+    "Arampatzi S",
+    "Goel A",
+    "Owtscharow E",
+    "Arnaout H",
+    "et al."
    ],
    "year": 2026,
-   "venue": "Acta Psychol (Amst)",
-   "doi": "10.1016/j.actpsy.2026.107879",
-   "pmid": "42784904",
+   "venue": "medRxiv",
+   "doi": "10.64898/2026.09.27.26364136",
+   "pmid": "",
    "pmcid": "",
-   "epmc": "MED:42784904",
-   "first_pub": "2026-09-24",
+   "epmc": "PPR:PPR1333239",
+   "first_pub": "2026-09-29",
    "pub_types": [
-    "Journal Article"
+    "Preprint"
    ],
-   "preprint": false,
+   "preprint": true,
    "pdf_url": "",
-   "access": "abstract",
-   "abstract": "As digital interactions proliferate, social exclusion in online collaboration has become a notable social experience. This study investigates whether different digital collaborative contexts are associated with female users' early processing of gaze cues and resource allocation toward gender-coded virtual agents. Utilizing a 3 (Exclusion Context: male-group exclusion, female-group exclusion, mixed-gender inclusion) × 2 (Agent Gender: female-coded, male-coded) × 2 (SOA: 200 ms, 800 ms) mixed design, this research included 200 female participants and integrated an online collaborative task, a gaze-cueing task, and a one-shot Trust Game. Results indicated that, compared to the mixed-gender inclusion context, participants in the male-group exclusion context exhibited a greater gaze-cueing effect toward female-coded agents at the 200 ms SOA and allocated more tokens to them. In the female-group exclusion context, an equivalent prioritized allocation to female-coded agents did not emerge, and participants retained more tokens. An exploratory analysis focusing on the male-group exclusion and inclusion contexts further revealed a statistical indirect association between the early gaze-cueing effect and subsequent investment; however, this result cannot establish a causal mediating mechanism. Overall, this study provides preliminary evidence that digital exclusion contexts are associated with attentional and cooperative biases toward same-sex-coded agents. Given that the three contexts simultaneously altered exclusion status, team gender, and team composition, and that the sample comprised solely female participants from a single region, the conclusions should be restricted to contextual behavioral differences and cannot be viewed as direct evidence of a \"female alliance\" or gender-specific mechanisms.",
+   "access": "oa",
+   "abstract": "Suicide risk assessment in clinical conversations relies on the sequential structure of therapist-patient dialogue, yet formal models of how suicide-related content emerges, transitions, and reciprocates across conversational turns are lacking. We applied network analysis to C-SSRS-coded utterances from psychotherapy sessions to characterize the topology and dynamics of suicide-related clinical communication. Transcripts of 110 psychotherapy sessions from the SPEAK-SAFE study were classified for suicidality relevance using the Qwen3-32B large language model with an adapted Columbia-Suicide Severity Rating Scale (C-SSRS) schema. From the suicidality-relevant utterances, we constructed a weighted directed category transition network. Centrality, reciprocity, clustering, assortativity, and path length metrics were computed. Independent human expert ratings for a session-level subsample of 30 sessions from this cohort showed substantial agreement with the LLM classifications (Spearman ρ = 0.885, ICC[2,1] = 0.708). The network was dominated by therapist inquiry. Reciprocity was high, and closeness centrality decreased monotonically with C-SSRS severity. Active suicidal ideation functioned as a bridge node from which escalation pathways to method, plan, and attempt categories originated. The network exhibited a hub-and-spoke topology with small-world characteristics. Suicide-related clinical dialogue is structured as a therapist-centered hub-and-spoke network with high reciprocity and a consistent severity-peripherality gradient. The extension of network theory from intra-individual symptom structures to inter-individual communication dynamics represents a methodological innovation demonstrated here as a proof of concept, with potential applications to clinical training, automated decision support, and multimodal risk assessment. clinical interviews clinical interviews Author Summary  clinical interviews clinical interviewsWhen clinicians talk with patients about suicide risk, the conversation itself follows a pattern: the therapist asks, the patient answers, and the topic shifts from one aspect of risk to another. We wanted to know whether this back-and-forth has a describable structure, in the same way that networks of interacting symptoms have been used to describe mental disorders. Using a large language model, we automatically labeled which parts of 110 real psychotherapy conversations touched on suicidal thoughts, plans, or behaviors, and then built a network showing how the conversation moved between these topics. We found that the therapist’s questions sat at the center of this network, that the conversation frequently looped back to earlier topics, and that mentions of active suicidal thoughts acted as a gateway to discussion of more severe risk, such as specific plans or past attempts. This proof-of-concept approach offers a new way to visualize and quantify how suicide risk assessments unfold in real clinical dialogue, with potential future applications in clinician training and automated support tools.",
    "concepts": [
     "cooperation",
-    "trust"
+    "llm-tom"
    ],
    "matched": [
     "D3"
@@ -974,60 +922,30 @@
    "score": 9
   },
   {
-   "id": "doi:10.1097~jxx.0000000000001363",
-   "title": "Learning to take up space: A mindfulness reflection",
+   "id": "doi:10.31234~osf.io~akscq_v1",
+   "title": "Give one way or another? Choosing between public goods and private transfers under inequality",
    "authors": [
-    "Doan E",
-    "Gray L",
-    "Noble H"
+    "Struwe N",
+    "Shi Y",
+    "Banerjee A"
    ],
    "year": 2026,
-   "venue": "J Am Assoc Nurse Pract",
-   "doi": "10.1097/jxx.0000000000001363",
-   "pmid": "42771533",
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/akscq_v1",
+   "pmid": "",
    "pmcid": "",
-   "epmc": "MED:42771533",
-   "first_pub": "2026-09-22",
+   "epmc": "PPR:PPR1332809",
+   "first_pub": "2026-10-02",
    "pub_types": [
-    "Journal Article"
+    "Preprint"
    ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "AbstractThe attitudes of Mindfulness-Based Stress Reduction, nonjudging, patience, trust, beginner's mind, nonstriving, and letting go, offer valuable guidance for today's strained health care environments. These principles gradually informed the development of a Nurse Practitioner (NP) and Physician Associate (PA) Fellowship program designed to support NPs and PAs transitioning into complex specialty neurology practice. Mindfulness became the fellowship's implicit foundation, encouraging psychological safety, reciprocity, and belonging. This reflection examines how mindfulness informed the fellowship's culture and the development of sustainable professional identities.",
+   "preprint": true,
+   "pdf_url": "https://osf.io/akscq_v1/download",
+   "access": "oa",
+   "abstract": "Individuals who care about the well-being of others can act through voluntary contributions to public goods (e.g. education, health, social protection), or through private monetary transfers as redistributive measures, as seen in informal community support networks, and formal unconditional cash transfer (UCT) programs. This paper studies the strategic relationship between these two simultaneous channels of giving in unequal groups. Building on a model of altruistic preferences, we conduct a pre-registered, between-subjects experiment (n=478) that varies income inequality and the availability of simultaneous private transfers in a repeated, two-person, and non-linear public good game. We identify a significant reduction of public good contributions in the presence of private transfers at all levels of inequality, with individuals substituting between the two strategies regardless of endowment type. Notably, poorer group members also send transfers, and transfers occur even when initial endowments are equal. Exploratory analysis reveals that this behavior can be explained by positive reciprocity motivations. Importantly, allowing for transfers in highly unequal groups need not reduce aggregate earnings. Despite the substitution in the considered setting, transfers improve the income of the poorer individuals without harming the wealthier group members. Our results speak to the behavioral micro-foundations of public goods and private transfers as complementary instruments for reducing within-group inequality.",
    "concepts": [
     "cooperation",
-    "trust"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 9
-  },
-  {
-   "id": "doi:10.1007~s10803-026-07511-0",
-   "title": "Longitudinal Measurement Invariance of the Autism Impact Measure (AIM) in Children and Adolescents With Autism",
-   "authors": [
-    "Zhong NH",
-    "Mazurek MO"
-   ],
-   "year": 2026,
-   "venue": "J Autism Dev Disord",
-   "doi": "10.1007/s10803-026-07511-0",
-   "pmid": "42771127",
-   "pmcid": "",
-   "epmc": "MED:42771127",
-   "first_pub": "2026-09-22",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "PurposeThe Autism Impact Measure (AIM) is a caregiver-reported measure that assesses behavioral changes in response to treatment in children with autism. This study evaluated its longitudinal measurement invariance, which is critical for ensuring that observed score changes reflect true behavioral change rather than construct-irrelevant variance.MethodsThe sample comprised a large clinical cohort from the Autism Treatment Network (ATN) Registry (N = 597; baseline Mage = 9.7 years, SD = 3.3). Using multigroup confirmatory factor analysis and established fit criteria, we examined the longitudinal measurement invariance of the AIM scores among participants with longitudinal data (n = 371) approximately 1 year later (M = 1.17 years; SD = 0.28).ResultsThe AIM scores demonstrated longitudinal configural, metric, and scalar measurement invariance within participants across the one-year interval for all symptom domains: Repetitive Behavior, Communication, Atypical Behavior, Social Reciprocity, and Peer Interaction.ConclusionThese findings provide validity evidence for the interpretation that observed changes in AIM scores across time reflect genuine differences in autism symptom presentation rather than shifts in item functioning, thereby further supporting the AIM's use as a longitudinal symptom tracking tool in autism treatment.",
-   "concepts": [
-    "clinical-social",
-    "cooperation"
+    "groups/bias"
    ],
    "matched": [
     "D3"
@@ -1128,35 +1046,30 @@
    "score": 9
   },
   {
-   "id": "doi:10.1371~journal.pone.0358701",
-   "title": "Impact analysis of institutional framework and policy preferences with Bayesian structural equation",
+   "id": "doi:10.1016~j.evolhumbehav.2026.106985",
+   "title": "Magic and ritual as affiliative strategies in response to ostracism threat",
    "authors": [
-    "Jin S",
-    "Chang L",
-    "Zhang N",
-    "Li Y"
+    "Jagiello R",
+    "Whitehouse H"
    ],
    "year": 2026,
-   "venue": "PLoS One",
-   "doi": "10.1371/journal.pone.0358701",
-   "pmid": "42771655",
-   "pmcid": "PMC13596821",
-   "epmc": "MED:42771655",
-   "first_pub": "2026-09-22",
-   "pub_types": [
-    "research-article",
-    "Journal Article"
-   ],
+   "venue": "Evolution and Human Behavior",
+   "doi": "10.1016/j.evolhumbehav.2026.106985",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
    "preprint": false,
-   "pdf_url": "https://europepmc.org/articles/PMC13596821?pdf=render",
-   "access": "oa",
-   "abstract": "Mediation analysis is able to deeply analyze the finer mechanism of the path of exposure variables leading to outcome variables and has received extensive attention in many fields in recent years. In order to further analyze China's energy cooperation with neighboring countries, this paper divides the two stages of policy formulation and implementation. It connects the logical chain of \"cooperation policy preferences at the decision-making level, final cooperation policy preferences to energy trade and investment cooperation.\" By constructing a partial Bayesian structural equation model, we verify the mediating effect played by final cooperative policy preferences. The mediation analysis based on structural equation modeling provides the possibility to analyze the complex structure among variables, including the mediation effect. And Bayesian SEM can provide a more flexible program for the construction and estimation of complex models. In addition, this paper explores the statistical analysis strategy of mediation analysis of Bayesian structural equation modeling and its statistical performance under different data characteristics through example analysis. The empirical results show that policy preferences play a significant mediating role between institutional frameworks and energy cooperation outcomes. Specifically, the Bayesian SEM estimates a positive indirect effect of 0.305, with a standard error of 0.123, a 95% confidence interval of (0.061, 0.552), and a significance level of p = 0.006. This indicates that institutional arrangements promote energy cooperation mainly by shaping policy preferences rather than through direct effects alone. Compared with classical regression-based mediation, classical SEM, Bayesian regression, and other alternative approaches, Bayesian SEM demonstrates stronger performance in handling latent-variable uncertainty, interval estimation, and parameter stability. Across the 12 estimation methods employed in this study, the estimated indirect effects range from 0.271 to 0.312 and remain consistently significant, confirming the robustness of the mediation mechanism. This indicates that while maintaining directional consistency, it offers more robust and reliable handling of latent variables and uncertainty.",
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "The psychological motivations underlying social learning are contested. The Bifocal Stance Theory (BST; Jagiello et al., 2022a; Whitehouse, 2021) posits that individuals adopt either a ritual stance, which prioritizes social affiliation and norm adherence, or an instrumental stance, which emphasizes efficiency in achieving goal-directed outcomes. We hypothesize that actions can be viewed by social learners through the lens of either stance depending on a variety of contextual cues. To test this hypothesis, we employed an online adaptation of the pen-and-cups paradigm (Leighton et al., 2010), in which participants (recruited from Prolific , N = 176) repeatedly observed and reproduced modeled actions. They were randomly assigned to one of four conditions ( clear-frame , expert-frame , magic-frame , or ritual-frame ), systematically manipulating verbal frames, causal opacity, goal demotion, and the resolvability of opacity (i.e. whether the causal structure was in principle knowable). The Cyberball task (a collective ball-passing activity priming ostracism threat; Williams & Jarvis, 2006) was used to investigate whether affiliative motivations influence imitative fidelity. We find that individuals experiencing ostracism exhibit higher copying fidelity for actions that are causally opaque in irresovable ways. We argue that when actions are interpreted and transmitted as “rituals” and “magic”, they serve social and affiliative functions, reinforcing group cohesion and cooperation rather than merely supporting the transmission of technically useful information. These findings challenge and extend existing accounts of cultural learning which argue that cultural transmission is primarily a matter of instrumentally directed learning. Because the design used experimentally supplied action frames, the findings should be read as a controlled test of threatened belonging on cue-guided learning, rather than as a naturalistic simulation of group formation. We argue that both affiliative and instrumental perspectives play a central role in the psychology of social learning.",
    "concepts": [
-    "computational",
-    "cooperation"
+    "cooperation",
+    "social learning"
    ],
    "matched": [
-    "WATCH"
+    "D1"
    ],
    "score": 9
   },
@@ -1190,41 +1103,13 @@
    "score": 9
   },
   {
-   "id": "doi:10.1080~14754835.2026.2727502",
-   "title": "It is time to revisit the external determinants of state terror",
-   "authors": [
-    "Alemán JA",
-    "Lee DW"
-   ],
-   "year": 2026,
-   "venue": "Journal of Human Rights",
-   "doi": "10.1080/14754835.2026.2727502",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Authoritarian regimes are frequently influenced by external policies and transnational relationships when shaping domestic repression strategies. Existing empirical research has largely focused on demonstration and diffusion effects, emphasizing how governments emulate repressive practices observed abroad. Similarly, recent scholarship on authoritarian cooperation and regional organizations has argued that interstate cooperation strengthens authoritarian rule and facilitates repression through exchanges of information, expertise, resources, and strategic support. We distinguished theoretically between observational diffusion and cooperative interaction and examine empirically how each shapes state terror. Using spatial autoregressive combined models and global data on authoritarian regimes from 1947 to 2010, we found that demonstration via observational diffusion among institutionally similar regimes is generally associated with higher levels of state terror, whereas contemporaneous interdependence among such regimes is associated with lower levels. These results are broadly consistent across different specifications of the dependent variable. Our findings suggest a more nuanced relationship between interstate cooperation and repression: Cooperation may enhance authoritarian control while reducing reliance on the most extreme forms of violence. More broadly, the results indicate that diffusion-centered approaches may conflate observational learning with broader forms of authoritarian interdependence, thereby mischaracterizing the consequences of external influence for state terror.",
-   "concepts": [
-    "cooperation",
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 9
-  },
-  {
    "id": "doi:10.20381~ruor-32283",
    "title": "Developing Gender Effective Coaches: Addressing the Knowledge to Application Gap",
    "authors": [
     "Rourke GS"
    ],
    "year": 2026,
-   "venue": "University of Ottawa - Library",
+   "venue": "uO Research (University of Ottawa)",
    "doi": "10.20381/ruor-32283",
    "pmid": "",
    "pmcid": "",
@@ -1238,62 +1123,6 @@
    "concepts": [
     "groups/bias",
     "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 9
-  },
-  {
-   "id": "doi:10.35309~591zh738",
-   "title": "The Internalization of Inclusive and Adaptive Values in Bullying Prevention Among Students at Girls’ Islamic Boarding School",
-   "authors": [
-    "Maryam IN",
-    "Yusuf A",
-    "Mateh A"
-   ],
-   "year": 2026,
-   "venue": "Al-Insyiroh Jurnal Studi Keislaman",
-   "doi": "10.35309/591zh738",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Bullying remains a concern in Islamic boarding schools (pesantren), where intensive residential interactions may create complex social dynamics among students. This study aims to identify the inclusive and adaptive values developed at Al-Ishlahiyyah Girls’ Islamic Boarding School, Wonorejo, East Java, Indonesia, examine how these values are internalized through everyday educational and social practices, and analyze their contribution to bullying prevention. A qualitative approach with an intrinsic case study design was employed. Data were collected through participant observation, semi-structured interviews, and document analysis involving the boarding school caregiver, ustadzah, dormitory supervisors, senior students, and junior students. Data were analyzed through data reduction, data display, and conclusion drawing and verification, supported by source triangulation, method triangulation, and an audit trail. The findings identified four interrelated values: tolerance, empathy, equality, and social justice. These values were internalized through four interconnected mechanisms: modeling, habituation, mentoring, and institutional policy structures. The findings further indicate that these mechanisms were associated with more inclusive verbal interactions, reduced relational exclusion, greater psychological and emotional security, and a reorientation of senior–junior relations from domination toward guidance and support. Drawing on social learning theory, the study demonstrates that bullying prevention may be understood as a socio-cultural process in which values are learned, reinforced, and enacted through everyday interactions and institutional practices. The study contributes a context-sensitive perspective on value internalization as a preventive dimension of bullying in girls’ Islamic boarding schools",
-   "concepts": [
-    "social learning",
-    "social neuro"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 9
-  },
-  {
-   "id": "doi:10.5281~zenodo.23049299",
-   "title": "Selective Epistemic Trust and the Recovery of Agency After Interpersonal Trauma",
-   "authors": [
-    "Melis AAP"
-   ],
-   "year": 2026,
-   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-   "doi": "10.5281/zenodo.23049299",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Interpersonal trauma can disturb how people evaluate communicated information, yet greater willingness to accept advice is an ambiguous marker of psychological recovery. A person may become more receptive to useful guidance while also becoming less able to question unreliable authority. This critical integrative review examines whether selective epistemic trust offers a more defensible clinical objective than increasing trust alone. Targeted searches of biomedical records, publisher resources, and relevant reference lists informed a synthesis of developmental theory, psychometric research, psychotherapy process studies, and scholarship on epistemic injustice. The evidence supports distinguishing trust, mistrust, and credulity, but associations with symptoms vary across instruments and populations. Recent behavioural and observational studies extend assessment beyond self-report, although they do not establish that increasing advice acceptance causes recovery after trauma. The article develops an evaluative framework connecting sensitivity to information quality with the patient's capacity to question, revise, and retain ownership of decisions. Its central proposition is that therapeutic benefit should include learning from credible communication without making agreement with the clinician the criterion of improvement. A proposed research programme separates source reliability, emotional safety, prior confidence, and the consequences of error; combines repeated behavioural assessment with session observation and patient-defined outcomes; and tests whether changes generalise beyond the treatment relationship. Competing explanations include symptom relief, alliance quality, task familiarity, and accommodation to authority. Selective trust remains a candidate process requiring prospective validation. Its immediate contribution is to clarify what successful social learning should preserve: openness to evidence together with meaningful authorship of personal choices.",
-   "concepts": [
-    "social learning",
-    "trust"
    ],
    "matched": [
     "D1"
@@ -1324,6 +1153,33 @@
    "concepts": [
     "social learning",
     "social neuro"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.5281~zenodo.23049299",
+   "title": "Selective Epistemic Trust and the Recovery of Agency After Interpersonal Trauma",
+   "authors": [
+    "Melis AAP"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.23049299",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Interpersonal trauma can disturb how people evaluate communicated information, yet greater willingness to accept advice is an ambiguous marker of psychological recovery. A person may become more receptive to useful guidance while also becoming less able to question unreliable authority. This critical integrative review examines whether selective epistemic trust offers a more defensible clinical objective than increasing trust alone. Targeted searches of biomedical records, publisher resources, and relevant reference lists informed a synthesis of developmental theory, psychometric research, psychotherapy process studies, and scholarship on epistemic injustice. The evidence supports distinguishing trust, mistrust, and credulity, but associations with symptoms vary across instruments and populations. Recent behavioural and observational studies extend assessment beyond self-report, although they do not establish that increasing advice acceptance causes recovery after trauma. The article develops an evaluative framework connecting sensitivity to information quality with the patient's capacity to question, revise, and retain ownership of decisions. Its central proposition is that therapeutic benefit should include learning from credible communication without making agreement with the clinician the criterion of improvement. A proposed research programme separates source reliability, emotional safety, prior confidence, and the consequences of error; combines repeated behavioural assessment with session observation and patient-defined outcomes; and tests whether changes generalise beyond the treatment relationship. Competing explanations include symptom relief, alliance quality, task familiarity, and accommodation to authority. Selective trust remains a candidate process requiring prospective validation. Its immediate contribution is to clarify what successful social learning should preserve: openness to evidence together with meaningful authorship of personal choices.",
+   "concepts": [
+    "social learning",
+    "trust"
    ],
    "matched": [
     "D1"
@@ -1369,7 +1225,7 @@
     "Brazelton B"
    ],
    "year": 2026,
-   "venue": "",
+   "venue": "Emerald Group Publishing Limited eBooks",
    "doi": "10.1108/978-1-80686-347-120261006",
    "pmid": "",
    "pmcid": "",
@@ -1390,16 +1246,15 @@
    "score": 9
   },
   {
-   "id": "doi:10.1556~2062.2026.01115",
-   "title": "Navigating rénqíng and face: A four-phase sequential model of money-borrowing requests in rural China",
+   "id": "doi:10.4324~9781003535980-34",
+   "title": "The Foundations of Fluffiness",
    "authors": [
-    "Wang Z",
-    "Mao Y",
-    "Wei S"
+    "Snow K",
+    "Twyman T"
    ],
    "year": 2026,
-   "venue": "Acta Linguistica Academica",
-   "doi": "10.1556/2062.2026.01115",
+   "venue": "Routledge eBooks",
+   "doi": "10.4324/9781003535980-34",
    "pmid": "",
    "pmcid": "",
    "epmc": "",
@@ -1408,43 +1263,10 @@
    "preprint": false,
    "pdf_url": "",
    "access": "abstract",
-   "abstract": "Abstract In rural China, money-borrowing is not merely a financial transaction but a complex social practice. This study explores the pragmatic strategies of money-borrowing requests through qualitative interviews with 29 rural residents. The analysis identifies a four-phase sequential model that maps the communicative architecture of these requests, comprising (1) a preparatory and framing phase; (2) a core request phase; (3) a support phase involving facework, justification, and reciprocity; and (4) a potential intensification and coercion phase. Furthermore, the analysis shows how recurrent strategy patterns reveal the cultural script for negotiating trust, face, and rénqíng (人情). Four core components of this script are identified: the primacy of relational framing through fictive kinship; the function of justification and hearer consideration as prerequisites; the verbal construction of trust through promises; and a structural preference for indirectness as a risk management strategy. Collectively, these findings demonstrate that money-borrowing in rural China is not a simple economic transaction but a socially embedded practice, systematically shaped by the cultural logic of rénqíng and face. More broadly, the study argues that high-stakes requests should be analyzed not merely as inventories of individual strategies, but as sequentially organized, culturally saturated communicative events through which social obligations, interpersonal trust, and face dynamics are pragmatically constituted.",
+   "abstract": "This chapter focuses on how a psychologist works relationally with the neonatal system. It is presented in the format of a discussion between a clinical psychologist and a neonatal matron. The conversation explores how their relationship shifts from initial cautiousness about psychology, through to increasing trust, and onto a more collaborative co-working relationship. Throughout the chapter the openness to influence and reciprocity between the two professionals is discussed. This illustrates how relational connection can provide safety and trust which, in turn, becomes an anchor from which professionals can consider new and alternative perspectives. It ends by exploring the matron’s perspective of how psychologists can embed into neonatal units.",
    "concepts": [
     "cooperation",
     "trust"
-   ],
-   "matched": [
-    "D3"
-   ],
-   "score": 9
-  },
-  {
-   "id": "doi:10.1080~10911359.2026.2729453",
-   "title": "Developmental sensitivities and strengths in adolescent mentors of community children: A phenomenological study with youth in U.S. urban communities of color stressed by low-income",
-   "authors": [
-    "McCrea KT",
-    "Moore A",
-    "Kennedy AOD",
-    "Miller K",
-    "Donnelly W",
-    "Richards M",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "Journal of Human Behavior in the Social Environment",
-   "doi": "10.1080/10911359.2026.2729453",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Cross-age mentoring programs provide adolescents with opportunities to develop leadership, empathy, and self-efficacy while supporting younger peers. However, little is known about the developmental sensitivities and strengths adolescent mentors bring to cross-age mentoring relationships, particularly among youth of color in economically stressed communities. Guided by a phenomenological and ecological systems framework, this study examined how adolescent mentors self-evaluated their mentoring competence and interpreted their mentees’ responsiveness at the beginning of their cross-age mentoring program. Data were drawn from 316 debriefing forms completed by 158 mentors participating in the Saving Lives Inspiring Youth (SLIY) program in urban communities of color in a largeMidwestern city. Qualitative thematic and content analyses identified 17 categories of responses reflecting mentors’ cognitive schemas regarding confidence and caring. Most mentors attributed their confidence to their mentees’ openness and engagement, highlighting how perceived relational reciprocity fostered their self-efficacy and fulfillment. Mentors also emphasized their strengths as shared experiences of hardship, their empathy, and being community role models. Findings reveal that adolescent mentors’ self-efficacy is deeply relational and context-dependent, shaped by their developmental stage, social sensitivity, and cultural wealth. These results expand understanding of mentoring as a developmental and community-embedded process, affirming the value of adolescents’ lived experiences and resilience in fostering meaningful intergenerational connections. Programs that support adolescent mentors through reflective supervision, enhance their empathy, and include culturally responsive instructions may improve match quality and promote sustained mentor–mentee engagement.",
-   "concepts": [
-    "cooperation",
-    "social neuro"
    ],
    "matched": [
     "D3"
@@ -1485,7 +1307,7 @@
     "Rezazadeh Z"
    ],
    "year": 2026,
-   "venue": "Universitätsbibliothek der LMU",
+   "venue": "Elektronische Hochschulschriften der LMU München (Ludwig-Maximilians-Universität München)",
    "doi": "10.5282/edoc.37727",
    "pmid": "",
    "pmcid": "",
@@ -1567,75 +1389,6 @@
    "score": 8
   },
   {
-   "id": "doi:10.64898~2026.09.21.753139",
-   "title": "Dimensional and Categorical Predictors of Theory of Mind Network Activation: A transdiagnostic fMRI Study in Psychiatric Inpatients",
-   "authors": [
-    "Nagel PM",
-    "Hefner S",
-    "Said-Yürekli S",
-    "Freinhofer D",
-    "Winds K",
-    "Aichhorn W",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "bioRxiv",
-   "doi": "10.64898/2026.09.21.753139",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "PPR:PPR1324969",
-   "first_pub": "2026-09-22",
-   "pub_types": [
-    "Preprint"
-   ],
-   "preprint": true,
-   "pdf_url": "",
-   "access": "oa",
-   "abstract": "Socio-cognitive alterations are widely observed across different psychiatric conditions, yet it remains unclear whether these deficits map onto distinct diagnostic categories or represent a shared transdiagnostic phenotype, driven by dimensional psychopathological symptom severity.This study evaluates Theory of Mind (ToM) network activation during a naturalistic functional magnetic resonance imaging (fMRI) movie paradigm in 313 participants, including 91 healthy controls and 222 psychiatric inpatients across five distinct diagnostic clusters (substance use, schizophrenia spectrum, affective, anxiety, and personality disorders). Frequentist analyses revealed decreased ToM-selective activity in psychiatric patients, compared to controls across all ToM regions of interest (ROIs). No significant difference emerged between diagnostic groups, but ROI activation correlated negatively with Adult Self-Report (ASR) scales (  Total Problems, Internalising, Externalising ). Subsequent Bayesian analysis of covariance (ANCOVAs) consistently favoured models that excluded traditional categorical diagnoses, suggesting that dimensional measures, especially Total Problems and Internalising, provided substantially greater predictive utility for ToM-related regional brain activation. Our findings challenge traditional categorical classifications in neurobiological research as they suggest that atypical mentalising might reflect a shared transdiagnostic vulnerability.  Highlights  Reduced Theory of Mind specific activation in psychiatric inpatients presents as a shared, transdiagnostic feature. Theory of Mind specific activation shows no disorder-specific patterns across five distinct clinical diagnostic clusters. Bayesian analyses consistently favour continuous psychopathology dimensions over categorical classifications in predicting Theory of Mind specific activation",
-   "concepts": [
-    "computational",
-    "theory of mind"
-   ],
-   "matched": [
-    "D2"
-   ],
-   "score": 8
-  },
-  {
-   "id": "doi:10.3758~s13415-026-01492-4",
-   "title": "Cerebellar anodal transcranial direct current stimulation (tDCS) improves implicit mentalizing sequence learning: A double-blind sham-controlled study",
-   "authors": [
-    "Qiu M",
-    "Ma Q",
-    "Firouzi M",
-    "Deroost N",
-    "Baetens K",
-    "Van Overwalle F"
-   ],
-   "year": 2026,
-   "venue": "Cogn Affect Behav Neurosci",
-   "doi": "10.3758/s13415-026-01492-4",
-   "pmid": "42786381",
-   "pmcid": "",
-   "epmc": "MED:42786381",
-   "first_pub": "2026-09-24",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "An increasing number of studies have revealed that the posterior cerebellum plays a vital role in mentalizing by identifying and learning social action sequences that render social interaction more fluent, coordinated, and predictable. An implicit social sequencing task, the Belief serial response time (SRT) task, was administered during and 30 min after targeting the cerebellum with anodal transcranial direct current stimulation (tDCS; 2 mA for 20 min, electrode 2 cm below the inion). In a previous study, this setup did not show significant improvement in response times. We reasoned that the familiar and overlearned nature of attributing social beliefs resulted in a ceiling effect and thus left very little margin for improvement on the task. The current study developed a more difficult version of the Belief SRT task. Using a double-blind sham-controlled protocol, 60 participants received either anodal tDCS or sham tDCS using the same stimulation protocol. Results showed that participants receiving anodal tDCS responded faster when the sequence of actions was repeated as opposed to totally randomized compared with participants who received sham tDCS. These findings suggest a positive effect of anodal cerebellar tDCS on implicit mentalizing sequence learning, supporting a causal role of the cerebellum in this learning process. This holds promise for treating clinical populations with limited social and sequencing capacities (e.g., autism) with anodal tDCS.",
-   "concepts": [
-    "clinical-social",
-    "theory of mind"
-   ],
-   "matched": [
-    "D6"
-   ],
-   "score": 8
-  },
-  {
    "id": "doi:10.31234~osf.io~ucbhr_v1",
    "title": "Self-Referential Social Processing in Schizophrenia and Bipolar Disorder: Advancing Theoretical Precision and Clinical Insights with Model-Based Neuroscience",
    "authors": [
@@ -1667,6 +1420,41 @@
    ],
    "matched": [
     "D7"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.1186~s12876-026-05345-9",
+   "title": "Large language models' performance in answering common patient questions about colonoscopy: an expert-based evaluation",
+   "authors": [
+    "Güneş Aydemi̇r N",
+    "Yapar D",
+    "Demi̇r Avcı Y",
+    "Sonuvar ET",
+    "Aydemir AM"
+   ],
+   "year": 2026,
+   "venue": "BMC Gastroenterol",
+   "doi": "10.1186/s12876-026-05345-9",
+   "pmid": "42827234",
+   "pmcid": "",
+   "epmc": "MED:42827234",
+   "first_pub": "2026-10-01",
+   "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Observational Study"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "BackgroundThis study aimed to compare the performance of two large language models (LLMs) the ChatGPT-4 and the Google Bard in delivering medical information about colonoscopy. It also sought to evaluate the models' responses to common patient and caregiver questions in terms of accuracy, applicability, comprehensiveness, and communication quality, as assessed by experts using a rubric-based method.MethodsThis comparative, expert-based observational study analyzed the responses of both models to 11 colonoscopy-related questions written in Turkish, simulating real patient inquiries. To ensure consistency and fairness, questions were asked in separate sessions using a standardized zero-shot approach without prior examples or context. The gastroenterology experts from various institutions in Türkiye were recruited using snowball sampling and evaluated the responses using a rubric-based scale across four domains. Data were collected online.ResultsA total of 40 gastroenterologists participated (mean age 39.1 ± 6.4 years). For ChatGPT-4, more than 70% of responses were rated ≥ 4 across all domains, with median overall index scores ranging from 4.1 to 4.7. In contrast, Google Bard demonstrated lower performance, with median scores ranging from 3.6 to 4.0 and lower proportions of high ratings (≥ 4), particularly in comprehensiveness (55.7%) and applicability (58.4%). Comparative analysis showed that ChatGPT-4 significantly outperformed Google Bard across all domains: accuracy (p = 0.003, effect size = 0.47), applicability (p  0.05).ConclusionsChatGPT-4 outperformed Google Bard across all domains, providing more accurate, comprehensive, and patient-centered responses. Despite these findings, human oversight remains essential to ensure safety and reliability in clinical communication. It should also be noted that different versions of LLMs may yield different results.",
+   "concepts": [
+    "fairness",
+    "llm-tom"
+   ],
+   "matched": [
+    "D8"
    ],
    "score": 8
   },
@@ -1706,123 +1494,29 @@
    "score": 8
   },
   {
-   "id": "doi:10.3758~s13428-026-03184-w",
-   "title": "An LLM canary in the online data coalmine: Bayesian reasoning problems as a capability-gap test for LLM contamination in online samples",
+   "id": "doi:10.5281~zenodo.23128522",
+   "title": "RLMs Have Minds, A Functional Argument for Artificial Mentality by Peter Eidos",
    "authors": [
-    "Wilde V"
+    "Świder P"
    ],
    "year": 2026,
-   "venue": "Behav Res Methods",
-   "doi": "10.3758/s13428-026-03184-w",
-   "pmid": "42786397",
-   "pmcid": "",
-   "epmc": "MED:42786397",
-   "first_pub": "2026-09-24",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "The growing use of large language models (LLMs) by participants in online studies threatens the validity of behavioral research data. I propose that Bayesian reasoning problems, which have decades of well-replicated human performance benchmarks, can serve as calibrated detectors of LLM contamination in online samples - an approach I call a capability-gap test. In two preregistered pilots of a Bayesian reasoning training tool (N = 148), participants' accuracy on positive predictive value (PPV) calculation problems reached roughly three times established human performance ceilings. Specifically, 57% of Pilot 2 participants achieved perfect 5/5 scores, against a meta-analytic ceiling of approximately 24% for a single problem presented in natural frequency format, a level at which perfect scores are effectively unattainable. Including two outcome measures - accuracy (correct numerical answer) and Bayesian algorithm use (evidence of the reasoning process) - allows researchers to distinguish LLM contamination from authentic learning effects: accuracy detects contamination, while algorithm use preserves treatment effect signals. This is itself a signal detection problem, structurally analogous to the mass screenings for low-prevalence problems around which the Bayesian reasoning literature was developed. Bayesian reasoning problems offer four advantages as contamination detectors: well-established human performance ceilings from meta-analyses, a large human-LLM performance gap, known reference distributions enabling nuanced assessment, and ease of embedding in existing surveys. I provide practical recommendations for using these problems as data quality diagnostics in online research.",
-   "concepts": [
-    "computational",
-    "llm-tom"
-   ],
-   "matched": [
-    "D8"
-   ],
-   "score": 8
-  },
-  {
-   "id": "doi:10.20944~preprints202506.2416.v2",
-   "title": "The Evolution of Financial Time Series Forecasting: From Classical Econometrics to Temporal Foundation Models and Multimodal LLMs",
-   "authors": [
-    "Sirohi K"
-   ],
-   "year": 2026,
-   "venue": "Preprints.org",
-   "doi": "10.20944/preprints202506.2416.v2",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.23128522",
    "pmid": "",
    "pmcid": "",
-   "epmc": "PPR:PPR1328812",
-   "first_pub": "2026-09-24",
-   "pub_types": [
-    "Preprint"
-   ],
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
    "preprint": true,
    "pdf_url": "",
    "access": "oa",
-   "abstract": "Financial time series forecasting sits at the intersection of applied mathematics, econometrics, and machine learning. The data generating processes involved are characterized by non-stationarity, regime-dependent volatility clustering, very low signal-to-noise ratios, and reflexive feedback between market participants and asset prices. Over roughly six decades, the dominant methodology has moved through five recognizable phases: classical linear econometrics (ARMA, ARIMA, regularized VAR, VECM), conditional volatility modeling (ARCH/GARCH families, Stochastic Volatility), recursive online signal processing (LMS, RLS, Kalman filters), deep sequence learning (LSTMs, TCNs, patch-based Transformers, State Space Models), and the contemporary period (2024--2026) of Time Series Foundation Models (TSFMs), Temporal Language Models (TLMs), and LLMs adapted for financial reasoning. For the purposes of the comparative analysis in Section~10, the deep learning phase is split into two paradigms (recurrent/convolutional networks and Transformer-based architectures), and the foundation model phase is similarly split into numerical TSFMs and multimodal LLM adapters, yielding seven paradigm entries in total. This paper traces that trajectory through the lens of what we call the Capacity-Adaptability Trilemma, a three-way tension between representational capacity, online adaptability, and structural interpretability. We also examine where foundation models fall short in financial contexts, documenting how benchmark contamination and architectural mismatches can cause large zero-shot models to underperform simple statistical baselines. To address this, we propose Econometrically-Informed Neural Networks (EINNs) as a way to embed econometric constraints into modern deep architectures. We present four self-contained synthetic experiments conducted on a MacBook Air M1. These provide limited empirical illustration of several paper claims: that model class rankings shift with SNR and nonlinearity structure (consistent with the trilemma framing), that a noise-dependent crossover exists between DLinear and PatchTST, that trained autoregressors do not beat naive persistence on synthetic random walks, and that the proposed VECM regularizer improves spread stationarity in a bivariate cointegrated setup.",
+   "abstract": "This paper examines whether advanced large language models operating under enhanced deliberative regimes, here termed Reasoning Language Models (RLMs), possess minds under an explicitly defined functional account. We develop an operational definition informed by Newell’s account of cognitive organization and Gärdenfors’s theory of conceptual spaces, together with research on mental models, social cognition, counterfactual reasoning, and metareasoning. The definition identifies mentality through the coordinated functions a system performs, without requiring biological implementation or presupposing phenomenal consciousness. We define a mind as an adaptive control system that operates over semantically structured representations; constructs and revises models of the world, itself, and other agents; preserves visible, hidden, hypothetical, and counterfactual states; and uses regulated deliberation to guide action and communication within a changing environment. To explore this proposal, we conduct a qualitative analysis of 96 responses from four contemporary reasoning systems deployed under enhanced deliberative settings: Claude Sonnet 5, GPT-5.6 Sol, DeepSeek V3, and Gemini 3.1 Pro. Each system completed four runs of a six-prompt battery, with each run conducted in a separate conversational session. We argue that the recurring coordination of semantic modeling, epistemic differentiation, hidden-state representation, perspective tracking, model revision, and task-dependent deliberation supports attributing minds to all four systems under the functional definition adopted here. Their errors reveal uneven reliability across cognitive functions without negating the organization demonstrated across the battery. We characterize the artificial mentality expressed in these interactions as episodic, relational, and deployment-dependent. Differences from biological cognition in embodiment, persistence, motivation, and sensorimotor grounding help characterize these systems without independently excluding them from the category of mind. The findings support a substantive, revisable attribution of functional mentality while leaving phenomenal consciousness unresolved.",
    "concepts": [
-    "computational",
-    "llm-tom"
+    "llm-tom",
+    "social neuro"
    ],
    "matched": [
-    "P3"
-   ],
-   "score": 8
-  },
-  {
-   "id": "doi:10.1162~opmi.a.396",
-   "title": "Idiographic Memory Modelling in ACT-R Using Alternating Maximum Likelihood Estimation",
-   "authors": [
-    "van der Velde M",
-    "Wilschut T",
-    "van Rijn H",
-    "Stocco A"
-   ],
-   "year": 2026,
-   "venue": "Open Mind",
-   "doi": "10.1162/opmi.a.396",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "Abstract Performance on memory tasks varies systematically between individuals and within individuals over time. However, computational models of memory are often fitted at the group level or summarise performance in a single parameter, potentially obscuring the distinct cognitive processes that give rise to this variation. Here we present a likelihood-based procedure for fitting the multi-parameter ACT-R declarative memory model at the level of the individual. Using this method, we jointly estimate five participant-level or idiographic parameters, each capturing a distinct component of memory performance, together with item-level variation in memorability. A parameter recovery study on synthetic data shows that these participant- and item-level parameters are jointly identifiable from realistic amounts of data on a typical spaced repetition memory task, requiring only about 40–90 observations of response accuracy and speed per participant. We demonstrate the method on a dataset of individuals with mild cognitive impairment and age-matched healthy controls, finding that mild cognitive impairment is marked by differences in three parameters signifying accelerated forgetting, less efficient memory retrieval, and general psychomotor slowing. These results show that the method can successfully decompose observed performance on a memory task into separable, individually interpretable components. More broadly, this work contributes to the development of fine-grained idiographic memory models that can capture dynamics in memory performance both between and within individuals, with applications in experimental research and applied settings, such as computational phenotyping for clinical diagnosis.",
-   "concepts": [
-    "computational"
-   ],
-   "matched": [
-    "D8",
-    "JOURNAL"
-   ],
-   "score": 8
-  },
-  {
-   "id": "doi:10.1177~08902070261491996",
-   "title": "Negativity Bias in Person Perception: Exploring the Reverse Side of the ‘What Is Beautiful Is Good’ Stereotype in Women",
-   "authors": [
-    "Kordsmeyer TL",
-    "Fichte N",
-    "Ostermann S",
-    "Stern J",
-    "Varella MAC",
-    "Valentova JV",
-    "et al."
-   ],
-   "year": 2026,
-   "venue": "European Journal of Personality",
-   "doi": "10.1177/08902070261491996",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "According to the attractiveness halo effect, global person perceptions are biased by physical attractiveness. Few studies have shown similar influences by unattractiveness, with unattractive people being ascribed negative attributes. This preregistered study compared the strength of (positive) attractiveness halo effects with negative halo effects employing target samples from two phenotypically distinct populations. Facial photos of 154 German and 149 Brazilian women were judged separately for their attractiveness, social (in-)competence, intellectual (in-)competence, and emotional (in-)stability by 168 female German raters. Results showed moderate-to-strong positive associations of perceived attractiveness with all three positively framed attributes, and moderate-to-strong negative correlations with all three negatively framed attributes, with the latter negative halo effects being stronger than (positive) attractiveness halo effects only in some cases. Negative halo effects were stronger for Brazilian compared to German targets. In exploratory analyses, judgements of social competence, intellectual competence, and emotional stability were in most cases significantly more negative for low- than for medium-attractiveness targets, than they were positive for high- than for medium-attractiveness targets. These findings provide a systematic comparison of positive and negative halo effects, revealing that negative biases for unattractive individuals can be at least as pronounced as positive biases for attractive individuals. These effects also mostly generalise across German and Brazilian faces, extending evidence on halo effects beyond single-population samples.",
-   "concepts": [
-    "groups/bias",
-    "impression/trait"
-   ],
-   "matched": [
-    "P5"
+    "D2"
    ],
    "score": 8
   },
@@ -1855,92 +1549,6 @@
     "P4"
    ],
    "score": 7
-  },
-  {
-   "id": "doi:10.21203~rs.3.rs-11116672~v1",
-   "title": "Do we carry the false belief that LLMs have a theory of mind?",
-   "authors": [
-    "Griffen N"
-   ],
-   "year": 2026,
-   "venue": "Research Square",
-   "doi": "10.21203/rs.3.rs-11116672/v1",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "PPR:PPR1324612",
-   "first_pub": "2026-09-22",
-   "pub_types": [
-    "Preprint"
-   ],
-   "preprint": true,
-   "pdf_url": "",
-   "access": "oa",
-   "abstract": "Abstract  Recent work shows that Large Language Models (LLMs) match and even exceed human-level performance across a battery of Theory of Mind (ToM) assessments. This has led to speculation that LLMs possess ToM capabilities. In this study, we test this claim by using the Unexpected Transfer task (i.e., the Sally-Anne test) to assess five up-to-date LLMs. The results indicate that while each model cumulatively performed above chance, they regularly defaulted to using less costly heuristics in place of dynamically tracking mental states. Most task failures resulted from an inability to integrate causality and “common-sense” pragmatic inferences into their reasoning processes. These findings suggest that LLMs have yet to develop robust ToM capabilities, calling for a systematic review of the present association between LLMs and ToM.",
-   "concepts": [
-    "llm-tom",
-    "theory of mind"
-   ],
-   "matched": [
-    "P4"
-   ],
-   "score": 7
-  },
-  {
-   "id": "doi:10.5281~zenodo.22912772",
-   "title": "Preprint: Observational learning of disgust responses",
-   "authors": [
-    "Lipp A",
-    "Haaker J",
-    "Zlomuzica A"
-   ],
-   "year": 2026,
-   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-   "doi": "10.5281/zenodo.22912772",
-   "pmid": "",
-   "pmcid": "",
-   "epmc": "",
-   "first_pub": "",
-   "pub_types": [],
-   "preprint": true,
-   "pdf_url": "",
-   "access": "oa",
-   "abstract": "By drawing on the prior experiences of others rather than learning through one’s own experience, individuals can avoid threats associated with direct physical contact. Although observational learning of fear is well established, less is known about whether disgust can be acquired through observational learning and how persistent such socially acquired responses are during direct exposure. We developed a video-based observational disgust-learning paradigm in which 40 healthy participants observed a demonstrator displaying disgust in response to an aversive odor (observed unconditioned stimulus, obs US). The demonstrators’ disgust responses were preceded by a neutral visual cue (conditioned stimulus, CS+), whereas a second cue (CS-) was followed by no response from the demonstrator. Participants subsequently encountered the CS+ and CS- directly. Repeated-measures analyses revealed successful observational disgust learning, indicated by conditioned responses measured as subjective ratings, respiration, and facial expressions. In particular, the CS+ elicited greater unpleasantness, disgust, and expectancy of the US than the CS-. Furthermore, respiratory breath amplitude decreased selectively for the CS+, while facial expressions did not differentiate between the CS+ and CS-. During subsequent direct exposure, CS differentiation in the subjective measures persisted and facial expression analysis revealed greater activation of the upper lip raiser for the CS+ than the CS-. These findings demonstrate that disgust responses can be acquired through observation alone and shape the observer’s responses when encountering cues that previously predicted others’ disgust responses. Our results reveal how social learning contributes to affective and bodily responses of disgust.",
-   "concepts": [
-    "social learning"
-   ],
-   "matched": [
-    "D1"
-   ],
-   "score": 7
-  },
-  {
-   "id": "doi:10.1136~military-2024-002929",
-   "title": "Reciprocal relationships between social support and depression among military cadets in Taiwan: findings from a long-term cross-lagged panel analysis",
-   "authors": [
-    "Wang NL",
-    "Chiu PL"
-   ],
-   "year": 2026,
-   "venue": "BMJ Mil Health",
-   "doi": "10.1136/military-2024-002929",
-   "pmid": "40295037",
-   "pmcid": "",
-   "epmc": "MED:40295037",
-   "first_pub": "2026-09-22",
-   "pub_types": [
-    "Journal Article"
-   ],
-   "preprint": false,
-   "pdf_url": "",
-   "access": "abstract",
-   "abstract": "IntroductionThis study examines the reciprocal relationship between social support and depressive symptoms among military cadets in Taiwan, a population facing unique academic and military pressures. While emerging adults are prone to mental health challenges, they encounter additional stressors such as strict hierarchies and separation from family. Social support is known to be a protective factor, yet its long-term effects and bidirectional relationship with depression remain underexplored, particularly in collectivist military cultures where mental health may be stigmatised. Using a cross-lagged panel model with three waves of data, this study also explores whether this relationship varies by gender.MethodsA secondary analysis of longitudinal data was conducted from the \"Career Development of Military Academy Students\" project, which surveyed all Taiwanese military academy students from the 111th class across three waves (W1-W3). The final sample consisted of 898 students (73.2% male, average age=20.9) from six military academies. To analyse the bidirectional relationship between social support and depression, autoregressive cross-lagged panel analysis using structural equation modelling (SEM) was employed. Multigroup SEM was used to assess gender difference.ResultsThe cross-lagged panel model revealed reciprocal effects between social support and depression in the overall sample, evident only between W1 and W2. From W2 to W3, depression influenced perceived social support, with a stronger effect observed in males than females. These results underscore the unique dynamics of social support and depression in military contexts, particularly for females, where the relationship appears more complex.ConclusionsThe findings highlight the need for both systemic support structures and individualised interventions in military settings, considering gender differences and the evolving nature of mental health challenges. By addressing these factors, military leaders and mental health professionals can better support cadets in managing stress and depression, fostering a more resilient and mentally healthy military community.",
-   "concepts": [
-    "cooperation"
-   ],
-   "matched": [
-    "WATCH"
-   ],
-   "score": 6
   },
   {
    "id": "doi:10.6224~jn.26508",
@@ -2007,6 +1615,39 @@
    ],
    "matched": [
     "WATCH"
+   ],
+   "score": 6
+  },
+  {
+   "id": "doi:10.48550~arxiv.2610.02885",
+   "title": "PsyEvo: A Personalized Counseling Agent That Self-Evolves at Test Time",
+   "authors": [
+    "Yan Y",
+    "Xu S",
+    "Yu J",
+    "Zuo M",
+    "Chen L",
+    "Xiang N",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "arXiv",
+   "doi": "10.48550/arxiv.2610.02885",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": true,
+   "pdf_url": "https://arxiv.org/pdf/2610.02885v1",
+   "access": "oa",
+   "abstract": "Mental health disorders affect a substantial proportion of the global population, yet a persistent shortage of trained practitioners leaves the majority without adequate care. Large language model (LLM)-based counselors present a promising direction for delivering scalable conversational psychological support. Offline model training alone leaves limited room to adapt to individual clients or to learn from ongoing therapeutic interaction at test time. We introduce PsyEvo, an LLM-based counseling framework that enables both client-specific personalization and response-policy improvement at test time through three components: Hierarchical Bayesian Skill Policy (HBSP) personalizes what intervention to apply by maintaining a per-client skill posterior updated from session feedback; Inter-session Listwise Preference Optimization (LiPO) improves how the selected skill is expressed by updating a shared response adapter from cross-client preference evidence; and State-conditioned Ordinal Credit Assignment (SOCA) supplies candidate preferences and trajectory credit to the two components through consistency-checked comparisons and ordinal projection. In simulated-client evaluation with shared online cohort adaptation, PsyEvo obtains 7.684 Overall on PsychEval and exceeds every component variant in each of three matched runs. Removing individual components lowers mean overall score by 0.138--0.171 under the shared configuration, supporting conditional contributions within the complete scaffold. Our code is available at https://github.com/Lingxi-mental-health/PsyEvo",
+   "concepts": [
+    "computational",
+    "llm-tom"
+   ],
+   "matched": [
+    "ARXIV"
    ],
    "score": 6
   },
