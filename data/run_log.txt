@@ -1,19 +1,19 @@
 D1: +9 (total 9)
 D2: +1 (total 10)
-D3: +12 (total 22)
-D4: +0 (total 22)
-D5: +6 (total 28)
-D6: +0 (total 28)
-D7: +2 (total 30)
-D8: +21 (total 51)
-P1: +2 (total 53)
-P2: +0 (total 53)
-P3: +1 (total 54)
-P4: +1 (total 55)
-P5: +2 (total 57)
-after watchlist: 67
-after journal ToCs: 67 (0 journals unresolved)
-after OpenAlex: 147
-after arXiv: 159
-abstracts: 153/159
-wrote 29 candidates, 1 preprint updates
+D3: +8 (total 18)
+D4: +2 (total 20)
+D5: +2 (total 22)
+D6: +2 (total 24)
+D7: +2 (total 26)
+D8: +17 (total 43)
+P1: +1 (total 44)
+P2: +0 (total 44)
+P3: +2 (total 46)
+P4: +3 (total 49)
+P5: +1 (total 50)
+after watchlist: 59
+after journal ToCs: 61 (0 journals unresolved)
+after OpenAlex: 134
+after arXiv: 158
+abstracts: 151/158
+wrote 39 candidates, 0 preprint updates
