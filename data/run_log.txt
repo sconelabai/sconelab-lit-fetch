@@ -1,19 +1,20 @@
-D1: +9 (total 9)
-D2: +1 (total 10)
-D3: +8 (total 18)
-D4: +2 (total 20)
-D5: +2 (total 22)
-D6: +2 (total 24)
-D7: +2 (total 26)
-D8: +17 (total 43)
-P1: +1 (total 44)
-P2: +0 (total 44)
-P3: +2 (total 46)
-P4: +3 (total 49)
-P5: +1 (total 50)
-after watchlist: 59
-after journal ToCs: 61 (0 journals unresolved)
-after OpenAlex: 134
-after arXiv: 158
-abstracts: 151/158
-wrote 39 candidates, 0 preprint updates
+D1: +13 (total 13)
+D2: +0 (total 13)
+D3: +13 (total 26)
+D4: +0 (total 26)
+D5: +3 (total 29)
+D6: +5 (total 34)
+D7: +2 (total 36)
+D8: +41 (total 77)
+P1: +3 (total 80)
+P2: +1 (total 81)
+P3: +4 (total 85)
+P4: +1 (total 86)
+P5: +1 (total 87)
+after watchlist: 101
+after journal ToCs: 102 (0 journals unresolved)
+after OpenAlex: 173
+after arXiv: 187
+  give up https://api.semanticscholar.org/graph/v1/paper/batch?fields=abstract,openAccessPdf: HTTP Error 429: 
+abstracts: 181/187
+wrote 35 candidates, 1 preprint updates
