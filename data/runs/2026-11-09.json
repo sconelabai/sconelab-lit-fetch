@@ -1,0 +1,1313 @@
+{
+ "generated": "2026-11-09T18:52:34.059886+00:00",
+ "window_start": "2026-10-30",
+ "window_end": "2026-11-09",
+ "n_candidates": 41,
+ "candidates": [
+  {
+   "id": "doi:10.1073~pnas.2608572123",
+   "title": "Lifetime stressor exposure is associated with altered trust formation and social learning in dynamic interactions",
+   "authors": [
+    "Nitschke JP",
+    "Mikus N",
+    "Scanferla L",
+    "Slavich GM",
+    "Lamm C"
+   ],
+   "year": 2026,
+   "venue": "Proc Natl Acad Sci U S A",
+   "doi": "10.1073/pnas.2608572123",
+   "pmid": "42970690",
+   "pmcid": "",
+   "epmc": "MED:42970690",
+   "first_pub": "2026-11-02",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Although trust is fundamental to social interactions, how lifetime stressor exposure relates to the cognitive processes underlying trust remains poorly understood. Using the Stress and Adversity Inventory (STRAIN) to assess cumulative lifetime stressor exposure, combined with an adaptation of the repeated trust game and computational modeling (Hierarchical Gaussian Filtering), we investigated how stressors experienced over the life course relate to three core aspects of trust dynamics-initial trust formation, learning about others' intentions, and adaptation to changes in trustworthiness-in 168 adults. Greater lifetime stress was associated with stronger negativity biases, lower initial trust, and heightened uncertainty about others' intentions, increases that were general rather than specific to partner type. These more pessimistic priors were not accompanied by poorer reading of partners: Higher lifetime stress was associated with greater differentiation between prosocial and selfish trustees, driven by reduced investment in the selfish trustee alone. Computational analyses further indicated greater belief volatility, consistent with faster model-implied updating of perceived trustworthiness. These findings provide novel evidence that lifetime stress is associated with a profile consistent with recalibration, rather than a degradation, of the cognitive mechanisms underlying trust, with potential consequences for relationship formation and social functioning. They also provide a computationally grounded framework for understanding associations between adversity and social cognition and generate testable predictions for future experimental work.",
+   "concepts": [
+    "computational",
+    "cooperation",
+    "social learning",
+    "social neuro",
+    "trust"
+   ],
+   "matched": [
+    "D1",
+    "D3",
+    "JOURNAL",
+    "P3"
+   ],
+   "score": 24
+  },
+  {
+   "id": "doi:10.31234~osf.io~svbfw_v3",
+   "title": "Transdiagnostic factors differentially shape choices and reaction times in social evaluative learning",
+   "authors": [
+    "Sohail A",
+    "Magda A",
+    "Said M",
+    "Phillips L",
+    "Lu Y",
+    "Reynolds G",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/svbfw_v3",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1354006",
+   "first_pub": "2026-10-30",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/svbfw_v3/download",
+   "access": "oa",
+   "abstract": "BackgroundLearning from feedback provided by others is important for navigating complex social environments. Aberrant processing of such social feedback is implicated in the psychopathology of several mental health disorders including social anxiety and depression. Recent psychiatric research increasingly adopts transdiagnostic approaches that examine mechanisms and constructs cutting across traditional diagnostic categories. MethodsHere, we applied reinforcement learning models together with transdiagnostic measures of psychopathology to formally assess social evaluation learning. Human participants (n = 193) completed the Social Evaluation Learning Task, learning whether computer personas ‘liked,’ ‘disliked,’ or were ‘neutral’ toward them. Participants also completed six questionnaires assessing socially relevant psychiatric traits. ResultsComputational modeling revealed that a model with separate learning parameters for positive and negative feedback best accounted for the learning behavior. Exploratory factor analysis identified three transdiagnostic factors. A factor reflecting social avoidance predicted enhanced learning from negative feedback and a reduced positive learning bias. Socially avoidant individuals with heightened negative learning rates additionally showed faster reaction times specifically in positive social contexts. A second factor linking with emotional insensitivity for others predicted a lower choice accuracy in both positively and negatively valanced conditions and was associated with faster reaction times overall. No significant associations emerged for a third factor reflecting depressive and mood-related symptoms. ConclusionsThese results demonstrate how transdiagnostic trait dimensions shape social learning mechanisms through specific behavioral and computational processes.",
+   "concepts": [
+    "clinical-social",
+    "computational",
+    "social decision",
+    "social learning"
+   ],
+   "matched": [
+    "D1",
+    "D4"
+   ],
+   "score": 18
+  },
+  {
+   "id": "doi:10.31234~osf.io~cf5se_v1",
+   "title": "Promoting Honesty in Childhood: A Systematic Review and Network Meta-Analysis of Strategies to Reduce Cheating and Lying",
+   "authors": [
+    "MoZheng",
+    "Sai L"
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/cf5se_v1",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1358599",
+   "first_pub": "2026-11-04",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/cf5se_v1/download",
+   "access": "oa",
+   "abstract": "Honesty plays a vital role in children’s moral development, social trust, and cooperation, making it important to identify effective ways to promote honest behavior. Although numerous strategies have been tested, findings have varied considerably across studies. It therefore remains unclear which strategies reliably reduce dishonesty, which are comparatively more effective, and what accounts for this heterogeneity. We systematically reviewed 82 experimental studies involving 11,283 children and conducted separate network meta-analyses of cheating and lying. To clarify heterogeneity across diverse strategies, we organized them by their primary proximal target into social-influence, physical-context, and internal-standard activation approaches. Six strategies reduced cheating: promises, environmental nudges, negative moral stories, moral reputation, approval-based strategies, and self-awareness. Nine reduced lying: direct observational learning, moral emotions, combined strategies, approval-based strategies, positive moral stories, self-awareness, injunctive norms, promises, and positive descriptive norms. Promise and environmental nudges ranked highest for cheating, whereas direct observational learning and moral emotions ranked highest for lying. Among five strategies examined in both networks, promises, approval-based strategies, and self-awareness reduced both forms of dishonesty, and positive moral stories were less effective for cheating than for lying. In contrast, negative moral stories significantly reduced cheating but not lying. Moderator analyses found no robust moderators for cheating, but lying-reduction effects were weaker in Western than Eastern samples. Overall, these findings suggest that children’s honesty can be shaped by targeted psychological strategies, and offers an integrative basis for understanding and refining honesty-promotion strategies in childhood.",
+   "concepts": [
+    "cooperation",
+    "impression/trait",
+    "social learning",
+    "trust"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 15
+  },
+  {
+   "id": "doi:10.31234~osf.io~cf5se",
+   "title": "Promoting Honesty in Childhood: A Systematic Review and Network Meta-Analysis of Strategies to Reduce Cheating and Lying",
+   "authors": [
+    "MoZheng",
+    "Sai L"
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/cf5se",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1358598",
+   "first_pub": "2026-11-04",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/cf5se/download",
+   "access": "oa",
+   "abstract": "Honesty plays a vital role in children’s moral development, social trust, and cooperation, making it important to identify effective ways to promote honest behavior. Although numerous strategies have been tested, findings have varied considerably across studies. It therefore remains unclear which strategies reliably reduce dishonesty, which are comparatively more effective, and what accounts for this heterogeneity. We systematically reviewed 82 experimental studies involving 11,283 children and conducted separate network meta-analyses of cheating and lying. To clarify heterogeneity across diverse strategies, we organized them by their primary proximal target into social-influence, physical-context, and internal-standard activation approaches. Six strategies reduced cheating: promises, environmental nudges, negative moral stories, moral reputation, approval-based strategies, and self-awareness. Nine reduced lying: direct observational learning, moral emotions, combined strategies, approval-based strategies, positive moral stories, self-awareness, injunctive norms, promises, and positive descriptive norms. Promise and environmental nudges ranked highest for cheating, whereas direct observational learning and moral emotions ranked highest for lying. Among five strategies examined in both networks, promises, approval-based strategies, and self-awareness reduced both forms of dishonesty, and positive moral stories were less effective for cheating than for lying. In contrast, negative moral stories significantly reduced cheating but not lying. Moderator analyses found no robust moderators for cheating, but lying-reduction effects were weaker in Western than Eastern samples. Overall, these findings suggest that children’s honesty can be shaped by targeted psychological strategies, and offers an integrative basis for understanding and refining honesty-promotion strategies in childhood.",
+   "concepts": [
+    "cooperation",
+    "impression/trait",
+    "social learning",
+    "trust"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 15
+  },
+  {
+   "id": "doi:10.31234~osf.io~9mx3a_v1",
+   "title": "Reputational Concern Across Cultures",
+   "authors": [
+    "Deschenaux I",
+    "Iyer PK",
+    "Ross CT",
+    "Alami S",
+    "Chauhan K",
+    "Hertzog W",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/9mx3a_v1",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1360725",
+   "first_pub": "2026-11-06",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/9mx3a_v1/download",
+   "access": "oa",
+   "abstract": "We conduct experimental economic games designed to study how reputational concern influences people's economic decisions. Donors make a series of ``Dictator Game'' decisions, splitting an endowment between themselves and a recipient. Crucially, recipients are not anonymous strangers, but are other individuals from the same community as the donor, presented to donors via photographs. By varying the identity of the recipient and whether or not the recipient will come to know the identity of the donor, we can effectively vary the reputational stake of the donor's decision. We expect that when Dictator Game allocation decisions have greater reputational stakes, donors will be more generous.Greater reputational stakes could arise from: the revelation of the donor's identity, the social proximity of donor and recipient, and the general network position of donor and recipient, all of which we consider. We conduct these games in eight rural communities in five countries, where we already have full sociodemographic and social network data on players and their connections. While there is substantial cross-site variation in the amounts given, we find strikingly similar effects of revelation and social proximity on allocation decisions: in all sites, donors give only slightly more in contexts where their identity is revealed, as opposed to being kept anonymous. Whether anonymous or revealed, donors give appreciably less to recipients who are more socially distant, with the largest drop occurring between immediate connections and connections-of-connections. We find mixed evidence that the effect of revealing a donor's identity diminishes with social distance. Finally, we do not find clear effects for the network position of donor and recipient. These results improve our understanding of how economic behaviour is intertwined with reputational dynamics in a wide variety of contexts. While altruistic behaviour does increase with reputational concern cross-culturally, it also appears that in tight-knit, small communities, absence of reputational concern may, contra expectations, lead only to a small increase in selfishness.",
+   "concepts": [
+    "cooperation",
+    "fairness",
+    "impression/trait",
+    "social decision"
+   ],
+   "matched": [
+    "D5"
+   ],
+   "score": 15
+  },
+  {
+   "id": "doi:10.31234~osf.io~9mx3a",
+   "title": "Reputational Concern Across Cultures",
+   "authors": [
+    "Deschenaux I",
+    "Iyer PK",
+    "Ross CT",
+    "Alami S",
+    "Chauhan K",
+    "Hertzog W",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/9mx3a",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1360724",
+   "first_pub": "2026-11-06",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/9mx3a/download",
+   "access": "oa",
+   "abstract": "We conduct experimental economic games designed to study how reputational concern influences people's economic decisions. Donors make a series of ``Dictator Game'' decisions, splitting an endowment between themselves and a recipient. Crucially, recipients are not anonymous strangers, but are other individuals from the same community as the donor, presented to donors via photographs. By varying the identity of the recipient and whether or not the recipient will come to know the identity of the donor, we can effectively vary the reputational stake of the donor's decision. We expect that when Dictator Game allocation decisions have greater reputational stakes, donors will be more generous.Greater reputational stakes could arise from: the revelation of the donor's identity, the social proximity of donor and recipient, and the general network position of donor and recipient, all of which we consider. We conduct these games in eight rural communities in five countries, where we already have full sociodemographic and social network data on players and their connections. While there is substantial cross-site variation in the amounts given, we find strikingly similar effects of revelation and social proximity on allocation decisions: in all sites, donors give only slightly more in contexts where their identity is revealed, as opposed to being kept anonymous. Whether anonymous or revealed, donors give appreciably less to recipients who are more socially distant, with the largest drop occurring between immediate connections and connections-of-connections. We find mixed evidence that the effect of revealing a donor's identity diminishes with social distance. Finally, we do not find clear effects for the network position of donor and recipient. These results improve our understanding of how economic behaviour is intertwined with reputational dynamics in a wide variety of contexts. While altruistic behaviour does increase with reputational concern cross-culturally, it also appears that in tight-knit, small communities, absence of reputational concern may, contra expectations, lead only to a small increase in selfishness.",
+   "concepts": [
+    "cooperation",
+    "fairness",
+    "impression/trait",
+    "social decision"
+   ],
+   "matched": [
+    "D5"
+   ],
+   "score": 15
+  },
+  {
+   "id": "doi:10.1111~bjop.70118",
+   "title": "The social transmission of linguistic alignment: The role of observational reinforcement learning",
+   "authors": [
+    "Zhang Y",
+    "Cai ZG"
+   ],
+   "year": 2026,
+   "venue": "Br J Psychol",
+   "doi": "10.1111/bjop.70118",
+   "pmid": "42984453",
+   "pmcid": "",
+   "epmc": "MED:42984453",
+   "first_pub": "2026-11-05",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "People align their linguistic use in conversations, and it has been proposed that such linguistic alignment facilitates mutual understanding and social rapport. However, the mechanisms through which perspective alignment is socially transmitted across individuals remain unclear. Here, we combined behavioural experimentation and computational learning models to investigate whether, and if so, how observing aligned and unaligned responses in others affects people's perspective alignment in subsequent language use. Participants completed a three-session design. First, in a baseline session, they played a picture matching and naming game with a child interlocutor, in which they took turns with the child participant (in fact, just recordings) to name and match pictures. Second, in an observational learning session, on each trial, they first observed the child and an adult (a demonstrator) describing pictures from an appearance perspective or an occupation perspective, with the adult often or rarely using the same perspective as the child; in particular, participants were asked to explicitly predict the expression of the adult. Afterwards, they played a round with the child themselves. Finally, in the generalization session, they played the same picture matching and naming game as in the baseline session, but with a new child. Observing high alignment increased observers' own alignment, whereas observing low alignment decreased it, and these changes carried over to the new child, indicating a communicative strategy that generalizes across interlocutors of the same category rather than a partner-specific adjustment. To identify the underlying mechanism, we modelled behaviour trial by trial. A Rescorla-Wagner model first confirmed that participants learned to predict the demonstrator's choices. We then used Bayesian model comparison to adjudicate three accounts of how alignment changed. A model driven by observational prediction errors (i.e. the discrepancy between participants' predictions and the demonstrator's actual choices) outperformed both an imitation account (copying the most recent choice) and a priming account (the cumulative frequency of the demonstrator's aligned responses). In the high alignment group, both positive and negative prediction errors in the second half of the observational learning session predicted alignment changes, whereas in the low alignment group, negative prediction errors predicted decreased alignment. Exploratory analyses further suggested that alignment may function as a social signal: observers rated high-alignment demonstrators as more perspective-taking than low-alignment demonstrators. Together, these findings show that perspective alignment can be socially transmitted through prediction-error-driven observational learning, neither passive copying nor mere exposure, and offer a computational account of how communicative strategies spread across individuals.",
+   "concepts": [
+    "computational",
+    "social learning",
+    "theory of mind"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 12
+  },
+  {
+   "id": "doi:10.2196~90855",
+   "title": "Engagement-Supportive Mechanisms in Stress-Focused Digital Mental Health Interventions With Adaptive, Conversational, and Context-Aware Systems: Narrative Review",
+   "authors": [
+    "Maminimini M",
+    "Piffer SA",
+    "Gabrielli S"
+   ],
+   "year": 2026,
+   "venue": "JMIR Hum Factors",
+   "doi": "10.2196/90855",
+   "pmid": "42970570",
+   "pmcid": "PMC13726798",
+   "epmc": "MED:42970570",
+   "first_pub": "2026-11-02",
+   "pub_types": [
+    "review-article",
+    "Review",
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "https://europepmc.org/articles/PMC13726798?pdf=render",
+   "access": "oa",
+   "abstract": "BackgroundStress is a widespread public health concern associated with cardiovascular disease, depression, anxiety, and reduced quality of life. Digital mental health interventions (DMHIs), delivered through smartphones, web platforms, and wearables, offer scalable support for stress management but often struggle to sustain user engagement. Evidence describing how adaptive, conversational, and context-aware mechanisms function together within stress-focused DMHIs remains fragmented.ObjectiveThis review aims to synthesize evidence on engagement-supportive mechanisms in stress-focused DMHIs, with attention to personalization; biometric feedback; just-in-time adaptive interventions (JITAIs); gamification; AI, including large language models (LLMs); and methodological approaches to studying engagement. It also examines methodological, motivational, and experiential dimensions of engagement.MethodsThis narrative review was informed by a structured search of PubMed, IEEE Xplore, and Scopus for peer-reviewed studies published between January 2018 and April 2025, followed by an evidence update through August 2026. Eligible studies described stress-focused DMHIs or related affective support interventions reporting at least 1 engagement-supportive mechanism. Randomized controlled trials, qualitative investigations, simulation or modeling studies, and implementation studies were included. Data were extracted using a structured form capturing study characteristics, engagement mechanisms, outcomes, and alignment with the review domains. Descriptive mapping summarized study types and mechanism frequencies, while a narrative synthesis integrated behavioral, experiential, methodological, and theory-informed findings.ResultsThirty-two studies met the inclusion criteria. Randomized or microrandomized controlled trials were the most common design (n=17), followed by qualitative investigations (n=6), design or implementation studies (n=3), mixed methods studies (n=3), simulation or modeling studies (n=2), and a quasi-experimental study (n=1). Dynamic adaptation was identified in 14 studies, conversational support in 10, static tailoring in 9, social or co-design mechanisms in 9, context-aware prompting in 7, gamified reinforcement in 5, biometric-responsive adaptation in 4, and narrative immersion in 2. These mechanisms frequently overlapped within layered adaptive architectures rather than functioning as isolated engagement features. AI-enabled systems included conversational agents, LLM-supported systems, recommender systems, reinforcement learning, and computational modeling approaches. Outcomes included behavioral indicators such as adherence, retention, and prompt receptivity, alongside experiential indicators such as perceived relevance, trust, emotional support, and immersion. Evidence strength varied substantially; many AI-enabled systems contributed feasibility, acceptability, or optimization-oriented evidence rather than definitive comparative effectiveness evidence.ConclusionsStress-focused DMHIs are increasingly adopting adaptive, conversational, and context-aware engagement-supportive mechanisms, but the evidence base remains heterogeneous and methodologically uneven. Dynamic adaptation, conversational support, and static tailoring were most frequently represented, whereas biometric-responsive adaptation, narrative immersion, and deeply integrated gamified systems were less common. AI-enabled systems may support contextual responsiveness and personalized interaction but require transparent adaptive logic, privacy safeguards, and human-centered evaluation. Future work should prioritize longitudinal, mixed methods research capable of distinguishing behavioral engagement, experiential engagement, feasibility, acceptability, and sustained stress-related outcomes.",
+   "concepts": [
+    "computational",
+    "llm-tom",
+    "trust"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 12
+  },
+  {
+   "id": "doi:10.31234~osf.io~wypd6_v2",
+   "title": "Development and validation of a task for assessing help-seeker relational dynamics",
+   "authors": [
+    "Kwan T",
+    "Zavlis O",
+    "Selai C",
+    "Moutoussis M"
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/wypd6_v2",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1360833",
+   "first_pub": "2026-11-06",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/wypd6_v2/download",
+   "access": "oa",
+   "abstract": "Self-other evaluations play a crucial role in understanding psychiatric disorders and improving collaboration between service users and providers. However, experimental paradigms of such relational processes tend to have low reliability and ecological validity. Quantitative analyses can validate the task’s measurement properties while qualitative analyses can empower service users to provide novel insights about task development and interpretation. In this study, we use both quantitative and qualitative analyses to develop the “Helping Task” based on the iterated prisoner’s dilemma. In this task, help-seeking participants knowingly engaged in an asymmetric relationship with a computerized help-provider, in which both parties invested effort (points). Initial qualitative feedback from 17 individuals (15 ‘neurotypical’, 2 having lived experience of relational difficulties) was used to refine key task properties (like task instructions, interface labels, and general navigation). Subsequent thematic analyses revealed that these participants interpreted helping exchanges through expectations about reciprocity, moral obligations, and underlying mental intentions, mirroring descriptions of real helping relationships. Moreover, quantitative analyses of 30 online participants validated the task’s sensitivity to helper behaviour and the within-session reliability of mean trust, decision satisfaction, and intended effort. Finally, computational analyses revealed probabilistic states in which trust, decision satisfaction, and effort were jointly lower or higher, indicating that self-other evaluations were linked to willingness to invest in the relationship. These findings support the reliability and validity of the Helping Task and pave the way for computational studies of self-other evaluations in helping relationships.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3",
+    "WATCH"
+   ],
+   "score": 12
+  },
+  {
+   "id": "doi:10.31234~osf.io~wypd6",
+   "title": "Development and validation of a task for assessing help-seeker relational dynamics",
+   "authors": [
+    "Kwan T",
+    "Zavlis O",
+    "Selai C",
+    "Moutoussis M"
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/wypd6",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1360832",
+   "first_pub": "2026-11-06",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/wypd6/download",
+   "access": "oa",
+   "abstract": "Self-other evaluations play a crucial role in understanding psychiatric disorders and improving collaboration between service users and providers. However, experimental paradigms of such relational processes tend to have low reliability and ecological validity. Quantitative analyses can validate the task’s measurement properties while qualitative analyses can empower service users to provide novel insights about task development and interpretation. In this study, we use both quantitative and qualitative analyses to develop the “Helping Task” based on the iterated prisoner’s dilemma. In this task, help-seeking participants knowingly engaged in an asymmetric relationship with a computerized help-provider, in which both parties invested effort (points). Initial qualitative feedback from 17 individuals (15 ‘neurotypical’, 2 having lived experience of relational difficulties) was used to refine key task properties (like task instructions, interface labels, and general navigation). Subsequent thematic analyses revealed that these participants interpreted helping exchanges through expectations about reciprocity, moral obligations, and underlying mental intentions, mirroring descriptions of real helping relationships. Moreover, quantitative analyses of 30 online participants validated the task’s sensitivity to helper behaviour and the within-session reliability of mean trust, decision satisfaction, and intended effort. Finally, computational analyses revealed probabilistic states in which trust, decision satisfaction, and effort were jointly lower or higher, indicating that self-other evaluations were linked to willingness to invest in the relationship. These findings support the reliability and validity of the Helping Task and pave the way for computational studies of self-other evaluations in helping relationships.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3",
+    "WATCH"
+   ],
+   "score": 12
+  },
+  {
+   "id": "doi:10.21203~rs.3.rs-11537546~v1",
+   "title": "Using co-created video stories to support more equitable healthcare interactions for families of autistic children with learning disabilities",
+   "authors": [
+    "Yuill N",
+    "Holt S",
+    "Daley S",
+    "Smith A"
+   ],
+   "year": 2026,
+   "venue": "Research Square",
+   "doi": "10.21203/rs.3.rs-11537546/v1",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1354550",
+   "first_pub": "2026-11-01",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "",
+   "access": "oa",
+   "abstract": "Abstract  BACKGROUND Autistic children with learning disabilities have poor health outcomes and increased mortality compared to other groups, with poorer healthcare experiences. Time for Autism (TfA) is an educational intervention supporting trainee doctors to better understand and empathise with this group. Digital Story-making is a method for families of autistic children with learning disability (LD) to create positive video narratives to support more neuroaffirmative ways of engaging with professionals. OBJECTIVE We investigated the feasibility of Digital Stories to enhance the TfA intervention in supporting better understanding of the needs of this group. METHODS Three families of autistic children with LD were supported to create short Digital Stories to share with medical students visiting them in the TfA intervention. Students also created Digital Stories. Three family members and two students were interviewed to gauge the potential effects of using such stories to facilitate engagement between the groups . RESULTS Ten themes highlighted that the stories supported authentic representation of family perspectives, supported a more holistic view, powerfully supplemented written reports, presented implicit and contextual information to support better health provision, enabled parent reflection and neuroaffirmative approaches and increased reciprocity in medical interactions. Students appreciated advantages for learning and pre-visit familiarisation and suggested procedural changes for story creation by professionals. CONCLUSIONS Co-creating digital stories is a feasible way for enhancing client voice in healthcare interactions and for professional learning. They can also provide powerful guidance, both general and tailored, for adapting medical environments to better support health needs of autistic children with LD.",
+   "concepts": [
+    "clinical-social",
+    "cooperation",
+    "social neuro"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 12
+  },
+  {
+   "id": "doi:10.1080~10447318.2026.2748077",
+   "title": "Meeting LLMs for the First Time: Understanding Trust Formation and Adjustment Among Older Adults in China",
+   "authors": [
+    "Zou X",
+    "Chen C",
+    "Cai Y",
+    "Shen Q"
+   ],
+   "year": 2026,
+   "venue": "International Journal of Human-Computer Interaction",
+   "doi": "10.1080/10447318.2026.2748077",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Against the backdrop of rapid population aging and the proliferation of Large Language Models (LLMs) in China, this study investigates the dynamics of trust formation and adjustment among Chinese older adults during their initial encounters with LLM agents. Through in-depth interviews conducted before, during, and immediately after 30 older adults’ first interactions with six widely used Chinese LLM applications, followed by second interviews with 26 participants, the study examines how trust was initially formed and adjusted over the short term. Findings reveal that pre-interaction responses were predominantly characterized by low interest and skepticism, rooted in sociocultural perceptions rather than just technological barriers. Analysis identified four technological factors associated with participants’ trust-related judgments during engagement, including personalization, anthropomorphism, conversationality, and response latency. Longitudinal analysis identified three behavioral patterns of trust adjustment: Limited Correction, Collaborative Reciprocity, and Cognitive Entrenchment. These findings advance theoretical understanding of trust adjustment and calibration-related processes and offer design implications for building more trustworthy LLMs.",
+   "concepts": [
+    "cooperation",
+    "llm-tom",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 12
+  },
+  {
+   "id": "doi:10.1038~s44434-026-00007-z",
+   "title": "Sublethal costs of infection reduce performance of collective tasks in social insects: a modelling study. ",
+   "authors": [
+    "Rajagopal S",
+    "Sasaki T",
+    "Hall RJ"
+   ],
+   "year": 2026,
+   "venue": "Npj Entomol",
+   "doi": "10.1038/s44434-026-00007-z",
+   "pmid": "42996312",
+   "pmcid": "PMC13739735",
+   "epmc": "MED:42996312",
+   "first_pub": "2026-11-05",
+   "pub_types": [
+    "research-article",
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "https://europepmc.org/articles/PMC13739735?pdf=render",
+   "access": "oa",
+   "abstract": "Group living confers benefits such as improved foraging efficiency, but social insects also face costs, including increased risk of parasitism. Infection can alter individual and social behaviours, potentially reducing the performance of collective tasks through impaired individual performance, reduced recruitment, and disrupted information transfer. Alternatively, interactions with uninfected groupmates may buffer these effects by facilitating social learning. However, we lack a mechanistic framework for quantifying how infection influences collective behaviours through direct and socially mediated effects. We developed an agent-based model, parameterized for the ant Temnothorax rugatulus, to investigate how infection influences collective foraging. We varied the magnitude of behavioural costs and infection prevalence and recorded effects on colony performance and reciprocal effects of infected individuals on uninfected individuals (and vice-versa). Individual-level behavioural costs had the greatest impact on collective performance when they occurred early in the foraging process, while reduced recruitment further amplified these effects. We also found reciprocal effects between infected and uninfected ants that scale with infection prevalence, suggesting social interactions can buffer declines in colony performance only when infection levels are low. Our study provides a mechanistic understanding of how infection-related changes in behaviour can impact groups, with important consequences for fitness of group-living insects.",
+   "concepts": [
+    "cooperation",
+    "social learning"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.1016~j.actpsy.2026.108113",
+   "title": "From cultural scripts to financial compliance: Sociotechnical mechanisms and narrative reconstruction in Chinese \"pig-butchering\" Romance-Investment scam victim accounts. ",
+   "authors": [
+    "Zhong Z",
+    "Li T"
+   ],
+   "year": 2026,
+   "venue": "Acta Psychol (Amst)",
+   "doi": "10.1016/j.actpsy.2026.108113",
+   "pmid": "42998496",
+   "pmcid": "",
+   "epmc": "MED:42998496",
+   "first_pub": "2026-11-07",
+   "pub_types": [
+    "IM",
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Digital romance-investment fraud is often examined through sequential models of scam progression or explanations centered on individual cognitive deficits. However, these approaches offer limited insight into how emotional grooming and financial exploitation become intertwined within the same interactional process. Drawing on 60 retained victim accounts, 16 focal cases, and a broader comment corpus from Zhihu, China, this study combines qualitative coding and latent Dirichlet allocation (LDA) to develop the Cues-Capture-Compliance (CCC) framework. The findings identify a structurally coupled process in which multimodal cues and culturally recognizable relational norms, including guanxi, renqing, and mianzi, build familiarity and trust (Cues). These resources are subsequently incorporated into relational frames of reciprocity, shared future planning, and material commitment, through which financial requests acquire relational meaning (Capture). Compliance refers to the financial actions narrated within this evolving relational context, rather than an inevitable consequence of relational capture. Beyond this interactional process, the analysis of platform comments shows that retrospective accounts are subject to competing public interpretations, including support and validation, risk education, critical questioning, and victim-blaming. By integrating multimodal interactional analysis with topic modelling and the examination of public discourse, this study advances a sociotechnical account of how relational trust can be appropriated for financial exploitation and how victims' experiences are subsequently reconstructed and contested in digital spaces. These findings highlight the importance of addressing both deceptive interactional strategies and the social conditions that shape how responsibility for fraud is interpreted.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.1080~07448481.2026.2756267",
+   "title": "Student perspectives on student mental health data practices in post-secondary settings: toward an inclusive, transparent, and engaging framework",
+   "authors": [
+    "D'Silva A",
+    "Qiao T",
+    "Hews-Girard J",
+    "Shah J",
+    "Iyer V",
+    "Ferrari M",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "J Am Coll Health",
+   "doi": "10.1080/07448481.2026.2756267",
+   "pmid": "42988761",
+   "pmcid": "",
+   "epmc": "MED:42988761",
+   "first_pub": "2026-11-05",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "ObjectivePost-secondary institutions increasingly rely on large-scale mental health surveys to inform policy and resource allocation, yet low engagement raises questions about these surveys as institutional data practices.Participants and methodsUsing qualitative descriptive design informed by reflexive thematic analysis, six virtual focus groups were conducted with 70 undergraduate and graduate students from eight Canadian post-secondary institutions who reflected on experiences with mental health surveys.ResultsFour interconnected themes emerged: (1) capturing diverse and evolving student experiences; (2) ensuring confidentiality, safety, and transparency, (3) fostering collaboration, reciprocity, and accountability, and (4) using student-centered engagement strategies. Through interpretive analysis, these findings informed preliminary student-informed framework positioning surveys as relational and iterative processes embedded within systems of trust, governance, and accountability.ConclusionsStudents perceived mental health surveys as valuable but often impersonal or extractive when relevance, transparency, and follow-through were limited. These findings informed a proposed framework for future implementation and evaluation.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.1063~5.0349579",
+   "title": "Adaptive dynamics of eco-evolutionary repeated games: Effect of reward and punishment",
+   "authors": [
+    "Mandal P",
+    "Chakraborty S",
+    "Madhok V",
+    "Chakraborty S"
+   ],
+   "year": 2026,
+   "venue": "Chaos",
+   "doi": "10.1063/5.0349579",
+   "pmid": "42969880",
+   "pmcid": "",
+   "epmc": "MED:42969880",
+   "first_pub": "2026-11-01",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Long-term evolutionary processes can strongly influence common-pool resource conservation by generating new traits or behaviors that modify the feedback between population strategies and the resource state. Here, we develop an eco-evolutionary framework in which individuals repeatedly interact with the same opponent and follow direct reciprocity through reactive strategies. The strategic dynamics are coupled to a renewable common resource and analyzed using adaptive dynamics. After our exhaustive non-linear dynamical analysis of 2 × 2 strategic games, we focus on comparative and combined usefulness of institutional incentives in the form of rewards and punishments in preventing the tragedy of the commons even when defection dominates in the replete resource state. We also report possibility of robust stable oscillations-emerging via Hopf bifurcation-in resource state and population strategies.",
+   "concepts": [
+    "cooperation",
+    "social decision"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.20944~preprints202611.0345.v1",
+   "title": "Community Resilience Through Cultural Heritage: Practices, Livelihoods, Economic and Legal Pluralism in Times of Crisis",
+   "authors": [
+    "Kairiss A",
+    "Smith-Christensen C",
+    "Benkari N"
+   ],
+   "year": 2026,
+   "venue": "Preprints.org",
+   "doi": "10.20944/preprints202611.0345.v1",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1360061",
+   "first_pub": "2026-11-04",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "",
+   "access": "oa",
+   "abstract": "This article argues that community resilience is deeply embedded in living and material cultural heritage, customary governance, and local social practices, rather than generated solely through formal external interventions. In response to natural, social, or economic disruptions, communities mobilize heritage-based livelihoods, reciprocal exchanges, and custodianship to meet immediate needs and organize recovery. Drawing on a qualitative comparative analysis of global case studies and institutional analogues, the article advances four linked claims: (1) heritage practices constitute embedded resilience by safeguarding memory and social cohesion; (2) heritage-based livelihoods and plural economies support survival through identity, trust, and reciprocity; (3) recovery yields durable social outcomes when heritage is treated as social infrastructure rather than merely a physical asset requiring technical conservation; and (4) these practices operate in legally plural settings where formal recovery policy often overlooks customary authority and living traditions. The article concludes that cultural heritage must be reframed as community-driven social infrastructure for resilience, requiring crisis-recovery governance to recognize community participation, living heritage, and legal pluralism.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.21203~rs.3.rs-10471326~v1",
+   "title": "Implementing Pay-it-Forward STI Testing: A Mixed-Methods Evaluation in Community-Based Organizations and STI Clinics in China",
+   "authors": [
+    "Li L",
+    "Fitzpatrick TS",
+    "Li E",
+    "Zhu Z",
+    "Liu Y",
+    "Zhou K",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "Research Square",
+   "doi": "10.21203/rs.3.rs-10471326/v1",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1354759",
+   "first_pub": "2026-11-01",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "",
+   "access": "oa",
+   "abstract": "Abstract  Background  Pay-it-forward is an implementation strategy that offers individuals a health service as a gift and then invites voluntary contributions to support subsequent users. Although prior trials have demonstrated its effectiveness in increasing sexually transmitted infection (STI) testing, little is known about pay-it-forward implementation in diverse settings. Methods  We conducted a convergent mixed-methods evaluation guided by the RE-AIM framework. Data was collected from the PIONEER trial, which evaluated a pay-it-forward strategy to promote STI testing in two settings in China: community-based organizations (CBOs) and STI clinics. Quantitative data from 800 trial participants (400 CBOs, 400 clinics) assessed reach, uptake, donation behavior, and participant understanding. Implementers (n = 34) were surveyed to assess organizational readiness. Semi-structured interviews were conducted with implementers (n = 10) to explore adoption processes, workflow adaptations, and perceptions of sustainability, as well as with trial participants (n = 24) to understand their experiences with pay-it-forward. Results  Test uptake in pay-it-forward arm was high in both settings (CBO: 90.8%; clinic: 97%), though each setting reached distinct populations. CBOs primarily engaged men who have sex with men and first-time testers, while clinics reached more men with multiple concurrent sex partners. Barriers and facilitators to adoption differed by setting. CBOs had strong mission alignment but chronic staffing shortages, while clinics required leadership approval, multi-department coordination, and implementer motivation to sustain delivery. Clinics frequently abbreviated procedures, including providing full explanations of pay-it-forward, due to workflow pressures. Fewer than half of participants (41%) fully understood the pay-it-forward strategy in both settings. Donation rates were modest and did not differ significantly between settings (CBO: 16.8%; clinic: 21.8%; p = 0.088), though CBO donors contributed larger amounts on average (0.8 vs. 0.4 USD); together, donations covered the cost of approximately 22 additional tests. Qualitative data suggested CBO donations were motivated by gratitude and a sense of community reciprocity, while clinic donations, though somewhat more frequent, were tempered by implementer caution around patient trust and fears of appearing to solicit money. Conclusions  Pay-it-forward can increase STI testing in both community and clinic settings; however, test receipt through pay-it-forward does not ensure participants will understand the participatory implementation strategy. CBOs can leverage preexisting connections and trust with marginalized communities to implement pay-it-forward, but resource limitations remain a substantial barrier. The large patient volumes in STI clinics pose a challenge to consistent and faithful implementation of pay-it-forward. Effective scale-up will require setting-specific strategies that address staffing constraints in CBOs and leadership and workflow barriers in STI clinics. Our findings may be relevant to implementation scientists working across clinic and community settings.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.1038~s41586-026-11217-9",
+   "title": "Aggression experience and observation drive shared behavioural and neural changes",
+   "authors": [
+    "Iravedra J",
+    "Guthman EM",
+    "Tsin D",
+    "Cherepanova P",
+    "Cuturela L",
+    "Ocasio-Arce EJ",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "Nature",
+   "doi": "10.1038/s41586-026-11217-9",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "https://www.nature.com/articles/s41586-026-11217-9.pdf",
+   "access": "oa",
+   "abstract": "ABSTRACT The ability to observe the social behavior of others and use observed information to bias future action is a fundamental building block of social cognition 1,2 . A foundational question is whether social observation and experience engage common circuit mechanisms that enable behavioral change. While classic studies on social learning have shown that aggressive behaviors can be learned through observation 3 , it remains unclear whether aggression observation promotes persistent neural changes that generalize to new contexts. Here, to directly compare the effects of aggression experience and observation at brain-wide scale, we develop a strategy to perform large-scale cell-type specific recordings across subcortical networks for social behavior control and learning. We record longitudinally while animals “train” through direct experience or observation, then probe shared differences in behavior and neural activity in a novel “hard” aggression context. Using supervised and unsupervised methods for behavioral quantification, we detect unique signatures of a shared behavioral strategy not present in animals with no training. During observation, we find widespread activation that mimics experience in networks for behavior generation, with critical differences in signals associated with reward and threat learning. After observation, we observe that changes persist into the novel aggression context, with increased similarity in the neural dynamics between experience and observation groups. Network-level modeling reveals persistent shared changes to a core aggression network, with widespread decoupling of inhibition from a key hypothalamic output region. This demonstrates that “experience-like” activity during observation can recruit a shared plasticity mechanism that biases behavior toward adaptive defensive strategies in new contexts.",
+   "concepts": [
+    "social learning",
+    "social neuro"
+   ],
+   "matched": [
+    "D1"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.5281~zenodo.23970827",
+   "title": "Loss chasing and reciprocity violation: retaliation-motivated \"doubling down\"",
+   "authors": [
+    "Laukien S"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.23970827",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": true,
+   "pdf_url": "",
+   "access": "oa",
+   "abstract": "The diagnostic criterion for chasing describes the gambler who, after losing, \"returns another day to get even.\" The field's definitions and measures treat chasing primarily as financial recoupment. \"Get even\" is a common English term for retaliation and recoupment, which may tell us something unexpected about why gamblers chase. Dominant explanations, including the break-even effect, frustrative non-reward, craving and cognitive distortion, are blind to the counterparty, and the psychological effects of losing to a slot machine may not be the same as those of losing to a human dealer or corporate bookmaker. This paper proposes that in a subset of gamblers, a monetary loss is processed both as an aversive outcome and (partly) as a reciprocity violation by a counterparty, making a proportion of chasing retaliatory in nature. The underlying psychological and neural processes for reciprocal exchange are evolutionarily conserved, and commercial gambling generates the relevant cues, such as an identifiable counterparty, a resource transfer and an implicit expectation of return. Retaliation is rewarding within the striatum, though the evidence implicates its dorsal region rather than the ventral striatum, the part most tied to addiction. Matched reciprocal exchange (\"doubling down\") escalates for a measured perceptual reason, supplying a new reading of why the chasing stake is aimed at parity (\"breaking even\") or at slightly overshooting it (\"getting even\"). This construct has been mislabeled or misconstrued, named once in 1999 but dropped by 2002, recorded as \"undertones of fairness\" inside the gambler's fallacy, and reported as blame directed at the gambling industry, yet filed as a failure of self-forgiveness. A few findings run against the hypothesis, as does a rival view, where persistence after a loss requires no counterparty. Discriminating tests include a scripted dealer whose apology after the same losses is sincere, sarcastic or absent, with a cooling-off pause that separates grievance from anger, and a counterparty-choice test offering a chaser worse odds against the party that took their money. Clinically, this hypothesis makes an unresolved grievance a therapeutic target that cognitive treatment should address, and there may be relevant repercussions in finance (\"revenge trading\").",
+   "concepts": [
+    "cooperation",
+    "fairness"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.5281~zenodo.23989029",
+   "title": "Reciprocity Is a Root System · The Channel Keeps It, Chapter Four",
+   "authors": [
+    "Anna AS"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.23989029",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "In a shared office kitchen, beside the kettle, there is a glass jar with a handwritten label: Coffee fund, £1 a cup . This is a composite, the kind of jar that stands in thousands of kitchens, and its life follows a familiar course. For the first weeks it fills. Then someone notices that it fills more slowly than the coffee goes. A second note appears, sharper than the first. One person starts paying for two cups to make up the gap, and after a while stops. By the third month the jar holds a few coins and a paper clip, and the person who started it buys the coffee alone, or stops buying it. Nothing in that story is about coffee. It is about a small economy of trust, the people who fed it, the few who did not, and the way the whole thing came apart once the contributors saw that their giving was not being returned. Economists have built this jar in the laboratory hundreds of times, and what they found is the subject of this chapter. Chapter Four of The Channel Keeps It: Reciprocity and the Gift Economy at Work and at Home, by Ammanuel Santa Anna (Luminous Prosperity Inc., 2026). The chapter is deposited on its own and as part of the book. Read it at https://business.hautelumiere.life/library/the-channel-keeps-it/04-reciprocity-is-a-root-system/ (this record's page, with the PDF) and the whole book at https://business.hautelumiere.life/library/the-channel-keeps-it, in the Business Library of business.hautelumiere.life. Part of the Luminous Library, held as a public trust: free to read, for everyone, for ever, under the Luminous Library Licence 1.0 (https://hautelumiere.life/library-licence). Every right is reserved to the Author. The book's page: https://business.hautelumiere.life/library/the-channel-keeps-it. A gainshare begins with one conversation: https://business.hautelumiere.life/book/?kind=gainshare. The house: hautelumiere.life.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.1007~s13753-026-00776-0",
+   "title": "Effects of Increased and Decreased Cognitive Social Capital on Depressive Symptoms Along the Income Gradient During the COVID-19 Pandemic: Evidence from Asymmetric Fixed-Effects Models",
+   "authors": [
+    "Han Y",
+    "Chen J"
+   ],
+   "year": 2026,
+   "venue": "International Journal of Disaster Risk Science",
+   "doi": "10.1007/s13753-026-00776-0",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13753-026-00776-0.pdf",
+   "access": "oa",
+   "abstract": "Abstract Social capital is considered to protect health when facing natural hazard-related disasters and pandemics. We further differentiated the effects of increased and decreased cognitive social capital (measured using generalized trust, trust in neighbors, trust in local government officials, and reciprocity) on depressive symptoms in the context of the COVID-19 pandemic and examined the moderating effect of household income on these effects, while controlling for unobserved time-invariant factors. Using follow-up data from the 2018 and 2020 China Family Panel Studies (N = 14,908), we conducted asymmetric fixed-effects regression. We found that decreased generalized trust and decreased reciprocity were associated with greater depressive symptoms, whereas their increased components were not associated with depressive symptoms. Furthermore, decreased equivalized household income exacerbated the effect of decreased reciprocity on greater depressive symptoms. Therefore, attention should be paid to preventing cognitive social capital decline to safeguard mental health during a pandemic, especially for people with declining household income. Future studies and policies should consider the distinct health effects of increased and decreased social capital when facing a pandemic.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.5281~zenodo.23989048",
+   "title": "A Current, Not a Store · The Channel Keeps It, Chapter Twelve",
+   "authors": [
+    "Anna AS"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.23989048",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Go back to the plain of Valencia, but not to the cathedral door. Go out to the fields, on a weekday morning, to a stone channel running along the edge of a market garden. Water enters at the top of the slope and passes each field in turn. A farmer opens her gate for her hours, closes it, and the water moves on to the next field down. Nobody owns the water. Everybody depends on it moving. A farmer who held her gate open past her turn would flood her own field and parch her neighbour's, and in every system of this kind that has lasted, the community has a way of noticing and a way of answering. Elinor Ostrom spent her career studying channels like these. In a 2000 review in the Journal of Economic Perspectives , she drew the link this book has been building toward: that the norms of reciprocity found in the laboratory are the same norms that let real communities govern what they share. Her conditional cooperators are Fehr's conditional cooperators, standing in a field. Chapter Twelve of The Channel Keeps It: Reciprocity and the Gift Economy at Work and at Home, by Ammanuel Santa Anna (Luminous Prosperity Inc., 2026). The chapter is deposited on its own and as part of the book. Read it at https://business.hautelumiere.life/library/the-channel-keeps-it/12-a-current-not-a-store/ (this record's page, with the PDF) and the whole book at https://business.hautelumiere.life/library/the-channel-keeps-it, in the Business Library of business.hautelumiere.life. Part of the Luminous Library, held as a public trust: free to read, for everyone, for ever, under the Luminous Library Licence 1.0 (https://hautelumiere.life/library-licence). Every right is reserved to the Author. The book's page: https://business.hautelumiere.life/library/the-channel-keeps-it. A gainshare begins with one conversation: https://business.hautelumiere.life/book/?kind=gainshare. The house: hautelumiere.life.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.4324~9781003677376-6",
+   "title": "Female shame",
+   "authors": [
+    "Reenkola EM"
+   ],
+   "year": 2026,
+   "venue": "Routledge eBooks",
+   "doi": "10.4324/9781003677376-6",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Shame is discussed here as an internal conflict, which may emerge from the intertwined emergence of awareness of one's separateness and desire. It may arise from symbiotic desires and strivings for separate love, from Oedipal sexual desires as well as from aggression. Disappointments in the desire for love and reciprocity may predispose one to shame. A child's wish or desire that is not met empathically will evoke shame. However, shame arises if these factors lead to an inner conflict between the ego and the ego ideal and feelings of unlovability. Gender-specific features manifest themselves in shame, although we all have bisexual strivings from the beginning of life. For a girl, the movement from symbiotic love towards separate love constitutes demanding psychic work. I will further discuss how female shame is influenced by the unique characteristics of the female body, the invisible inner space, masturbation, menstruation, pregnancy, and menopause.",
+   "concepts": [
+    "cooperation",
+    "social neuro"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.5281~zenodo.23862528",
+   "title": "Social And Economic Benefits Of Community-Based Microfinance Participation Among Youth In Kivukoni Ward, Ilala Municipality, Dar Es Salaam, Tanzania",
+   "authors": [
+    "Erasto M"
+   ],
+   "year": 2026,
+   "venue": "International journal of social sciences and humanities review",
+   "doi": "10.5281/zenodo.23862528",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Youth in urban Tanzania continue to experience difficulties related to limited access to productive capital, unstable livelihoods and restricted opportunities for sustainable income generation. Community-based microfinance initiatives such as Village Community Banks (VICOBA) and Savings and Credit Cooperative Societies (SACCOS) have increasingly provided collective mechanisms through which young people can mobilise financial resources while developing social relationships. However, the benefits experienced through participation may extend beyond access to loans and savings. This study explored the social and economic benefits experienced by youth through participation in community-based microfinance initiatives in Kivukoni Ward, Ilala Municipality, Dar es Salaam, Tanzania. The study employed a qualitative approach and case study design. Data were collected from 21 purposively selected participants through in-depth interviews, a focus group discussion and key informant interviews, and were analysed thematically. The findings indicated that participation was associated with business development, income-generating opportunities, acquisition of productive assets, household support, social networks, peer learning, mutual assistance and access to external institutions. Social Capital Theory was used to interpret how relationships, trust, reciprocity and networks facilitated access to resources and opportunities. The study concludes that community-based microfinance provides benefits through an interaction between financial resources and social relationships. However, the benefits were experienced differently depending on participants’ circumstances, group relationships and access to complementary support.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.56015~gjikplp.v13i9.1304",
+   "title": "OPTIMALISASI KETERLIBATAN DAN PEMBERDAYAAN GENERASI MUDA DALAM MEMPERKUAT CIVIC ENGAGEMENT PADA KOMUNITAS SANGGAR SENI GBKP MUSIK TIUP DI KABUPATEN KARO",
+   "authors": [
+    "Barus DAH",
+    "Hodriani H",
+    "Pa RBB",
+    "Mukmin BA",
+    "Nainggolan M"
+   ],
+   "year": 2026,
+   "venue": "GOVERNANCE Jurnal Ilmiah Kajian Politik Lokal dan Pembangunan",
+   "doi": "10.56015/gjikplp.v13i9.1304",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Komunitas Sanggar Seni GBKP Musik Tiup (GMT) di Kabupaten Karo hadir sebagai ruang pembelajaran kewarganegaraan informal bagi generasi muda. Meskipun tingkat partisipasi anggota GMT tergolong tinggi, keterlibatan tersebut masih bersifat responsif dan instruktif sehingga belum berkembang menjadi civic engagement yang reflektif, bermakna, dan berkelanjutan. Penelitian ini bertujuan untuk mengetahui bagaimana keterlibatan dan pemberdayaan generasi muda dalam memperkuat civic engagement pada Komunitas GMT, ditinjau dari tiga elemen social capital Putnam, yaitu networks (jaringan sosial), norms of reciprocity (norma timbal balik), dan trust (kepercayaan). Penelitian ini menggunakan metode kualitatif dengan pendekatan deskriptif. Pengumpulan data dilakukan melalui observasi, wawancara, dan dokumentasi, kemudian dianalisis melalui reduksi data, penyajian data, dan penarikan kesimpulan. Hasil penelitian menunjukkan bahwa keterlibatan generasi muda tercermin dari kedekatan antaranggota melalui sistem senior-junior (bonding social capital), keterlibatan dalam kegiatan kenegaraan bersama Pemerintah Kabupaten Karo (bridging social capital), kedisiplinan tanpa standar ganda, semangat pelayanan tanpa pamrih, budaya gotong royong, serta kepercayaan antaranggota yang tumbuh dari kebiasaan saling membantu. Pemberdayaan generasi muda tercermin dari kemandirian dalam pemilihan kepengurusan, manfaat konkret berupa sertifikat dari kegiatan kenegaraan, internalisasi norma lintas generasi, pewarisan bahasa Karo, serta kemandirian pengambilan keputusan yang tidak terganggu oleh kepercayaan institusional terhadap pemerintah. Meski demikian, penelitian ini juga menemukan aspek yang belum optimal, yaitu disiplin waktu yang terkendala benturan jadwal latihan dengan jam pulang sekolah, solidaritas antaranggota yang sesekali melemah saat terjadi perbedaan pendapat, serta ketergantungan pada figur pembina yang belum sepenuhnya tergantikan sejak wafatnya pembina sebelumnya. Oleh karena itu, disarankan agar pengurus membangun sistem pembimbingan yang lebih mandiri dan alumni berperan aktif sebagai mentor bagi generasi penerus GMT.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.5281~zenodo.23989041",
+   "title": "Measuring What Is Given · The Channel Keeps It, Chapter Nine",
+   "authors": [
+    "Anna AS"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.23989041",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Every chapter so far has run into the same difficulty and stepped around it. The gift economy is valuable, the evidence says, and fragile, and a leader would like to know whether hers is healthy. But the obvious way of finding out, counting the gifts, is one of the surest ways of damaging them. The difficulty is not hypothetical. Chapter 3 showed how a fine became a price and a payment nearly halved the supply of new donors among women. Samuel Bowles's review named four ways an incentive crowds out what it rewards, and one of them, conveying distrust, applies to measurement as much as to money. A team that discovers its manager is logging who stays late has been told, without a word, that staying late is now a performance. Some people will stay later. Some will stop. Almost nobody will go on staying late for the reason they used to. Chapter Nine of The Channel Keeps It: Reciprocity and the Gift Economy at Work and at Home, by Ammanuel Santa Anna (Luminous Prosperity Inc., 2026). The chapter is deposited on its own and as part of the book. Read it at https://business.hautelumiere.life/library/the-channel-keeps-it/09-measuring-what-is-given/ (this record's page, with the PDF) and the whole book at https://business.hautelumiere.life/library/the-channel-keeps-it, in the Business Library of business.hautelumiere.life. Part of the Luminous Library, held as a public trust: free to read, for everyone, for ever, under the Luminous Library Licence 1.0 (https://hautelumiere.life/library-licence). Every right is reserved to the Author. The book's page: https://business.hautelumiere.life/library/the-channel-keeps-it. A gainshare begins with one conversation: https://business.hautelumiere.life/book/?kind=gainshare. The house: hautelumiere.life.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.5281~zenodo.23989027",
+   "title": "When the Gift Becomes a Price · The Channel Keeps It, Chapter Three",
+   "authors": [
+    "Anna AS"
+   ],
+   "year": 2026,
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "doi": "10.5281/zenodo.23989027",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "A teacher stands at the door of a day-care centre in Haifa, the children's coats on their hooks, one child left on the bench with a picture book. Closing time was four o'clock. It is ten past. The parent arrives, apologises, and the teacher, who has her own child to collect, says it is fine. It is not quite fine, and both of them know it, and that shared knowledge is what brings most parents back on time. Between January and June 1998, the economists Uri Gneezy and Aldo Rustichini ran a study in ten private day-care centres in Haifa, all in the same part of the city. For four weeks they simply recorded how many parents arrived late. Then, in six of the centres, a modest fine for late collection was introduced; the other four carried on as before. The theory was straightforward: add a cost to lateness and lateness should fall. It rose. The number of late parents increased significantly in the centres with the fine. After twelve weeks the fine was removed, and in the four weeks that followed, the higher lateness stayed. Chapter Three of The Channel Keeps It: Reciprocity and the Gift Economy at Work and at Home, by Ammanuel Santa Anna (Luminous Prosperity Inc., 2026). The chapter is deposited on its own and as part of the book. Read it at https://business.hautelumiere.life/library/the-channel-keeps-it/03-when-the-gift-becomes-a-price/ (this record's page, with the PDF) and the whole book at https://business.hautelumiere.life/library/the-channel-keeps-it, in the Business Library of business.hautelumiere.life. Part of the Luminous Library, held as a public trust: free to read, for everyone, for ever, under the Luminous Library Licence 1.0 (https://hautelumiere.life/library-licence). Every right is reserved to the Author. The book's page: https://business.hautelumiere.life/library/the-channel-keeps-it. A gainshare begins with one conversation: https://business.hautelumiere.life/book/?kind=gainshare. The house: hautelumiere.life.",
+   "concepts": [
+    "cooperation",
+    "trust"
+   ],
+   "matched": [
+    "D3"
+   ],
+   "score": 9
+  },
+  {
+   "id": "doi:10.64898~2026.10.29.762779",
+   "title": "Efficient growth factor production stabilizes cooperation in a cellular public goods game",
+   "authors": [
+    "Shin JE",
+    "Pritchard J",
+    "Archetti M"
+   ],
+   "year": 2026,
+   "venue": "bioRxiv",
+   "doi": "10.64898/2026.10.29.762779",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1355796",
+   "first_pub": "2026-11-02",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "",
+   "access": "oa",
+   "abstract": "Eukaryotic cells secrete growth factors that facilitate the proliferation and survival of neighboring cells in a coordinated manner essential for tissue development, repair, and homeostasis. However, mutant cells that fail to produce these factors may exploit the benefits provided by neighboring producers, thereby gaining a proliferative advantage that could lead to the extinction of the producer clone. Evolutionary theory predicts that preventing this “tragedy of the commons” requires a fixed spatial structure or other mechanisms that enable cells to interact preferentially with copies of themselves. Contrary to this expectation, we found that, in competition experiments, cells producing the diffusible growth factor interleukin-3 (IL3) resist invasion by non-producing mutant cells even in well-mixed populations, and that non-producers are driven to extinction instead. Using evolutionary game theory, we show that this outcome arises when the cost-to-benefit ratio of growth factor production falls below a critical threshold. We derive this tipping point analytically across the full parameter space of benefit function shape and group size and confirm that IL3 production in our experimental system satisfies this condition — with a production cost less than 0.1% of the benefit conferred. These results demonstrate that efficient public good production alone can resolve the tragedy of the commons in populations of cells, and potentially in other biological systems.",
+   "concepts": [
+    "cooperation",
+    "social decision"
+   ],
+   "matched": [
+    "D5"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.1093~cercor~bhag188",
+   "title": "Cannabidiol and fronto-parietal EEG connectivity in autistic children",
+   "authors": [
+    "Parrella NF",
+    "Hill AT",
+    "Enticott PG",
+    "Downey LA",
+    "Catchlove S",
+    "Ford TC"
+   ],
+   "year": 2026,
+   "venue": "Cereb Cortex",
+   "doi": "10.1093/cercor/bhag188",
+   "pmid": "42981179",
+   "pmcid": "PMC13733498",
+   "epmc": "MED:42981179",
+   "first_pub": "2026-11-01",
+   "pub_types": [
+    "research-article",
+    "Randomized Controlled Trial",
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "https://europepmc.org/articles/PMC13733498?pdf=render",
+   "access": "oa",
+   "abstract": "Autistic children often show altered brain network connectivity, including circuitry implicated in social cognition. Cannabidiol (CBD) has emerged as a potential therapy for autism, but its neural mechanisms remain under-researched. Here, we analyze resting-state data collected as part of a double-blind, placebo-controlled crossover trial, to explore whether 12 weeks of oral CBD oil could modulate functional connectivity in autistic children. Twenty-nine autistic children (5 to 12 years) completed two 12-week intervention periods (CBD and placebo, randomized) separated by an 8-week washout. Before and after each period, 5 min of eyes-open resting-state electroencephalography (EEG) were obtained from a subset of 18 participants (8 female). Functional connectivity was calculated across 16 electrode-pairs in the delta, theta, alpha, beta, and gamma bands. Beta-band connectivity between the right frontal and right inferior-parietal electrodes increased following CBD (P = 0.001, false discovery rate [FDR]-corrected P [pFDR] = 0.022), and alpha connectivity showed an increase that did not remain following FDR correction (P = 0.036, pFDR = 0.428). No significant differences were observed following placebo for any frequency band (pFDR > 0.69). This study provides preliminary evidence that 12 weeks of cannabidiol is associated with an increase in right fronto-parietal (F4-P8) functional connectivity in autistic children, most pronounced in the beta-band. Replication in larger samples is needed to confirm generalizability and clinical relevance.",
+   "concepts": [
+    "clinical-social",
+    "social neuro"
+   ],
+   "matched": [
+    "D7"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.1371~journal.pone.0362064",
+   "title": "Who will step up? A cross-sectional study on factors associated with medical students' willingness to provide abortion care",
+   "authors": [
+    "Baumgart M",
+    "Rohmann A",
+    "Rutenkröger M",
+    "Zill JM",
+    "Lindig A"
+   ],
+   "year": 2026,
+   "venue": "PLoS One",
+   "doi": "10.1371/journal.pone.0362064",
+   "pmid": "42993802",
+   "pmcid": "PMC13742952",
+   "epmc": "MED:42993802",
+   "first_pub": "2026-11-06",
+   "pub_types": [
+    "research-article",
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "https://europepmc.org/articles/PMC13742952?pdf=render",
+   "access": "oa",
+   "abstract": "IntroductionThe decreasing number of physicians performing abortions in Germany limits access to high-quality care for individuals with unintended pregnancy seeking abortions. To address the barriers preventing higher participation in abortion care, the aim of this study was to quantitatively explore the attitudes of medical students towards abortion. Furthermore, factors associated with medical students' attitudes towards abortion and their willingness to participate in abortion care were examined based on intergroup contact theory and the theory of planned behaviour.MethodsA Germany-wide online survey was conducted. Validated scales and single items were translated into German using the TRAPD protocol and adapted for medical students via cognitive interviews (n = 10). Survey data from n = 233 medical students were analysed using descriptive statistics, regression, and mediation analyses with abortion attitudes and willingness to provide abortion care as criteria.ResultsParticipants had overall positive attitudes towards abortion. Female gender and low religiosity were associated with positive attitudes. Fear of stigmatisation and perceived knowledge were negatively associated with attitudes towards abortion. Positive attitudes towards abortion were significantly associated with higher willingness to participate in abortion care. The association between attitudes and contact, as well as the expected mediation effects of fear of stigmatisation, perceived knowledge and perspective-taking, were nonsignificant.ConclusionsThis study demonstrates the association of medical students' attitudes towards abortion with their willingness to participate in abortion care in the future. However, lack of perceived knowledge and fear of stigmatisation may represent barriers for young physicians to provide abortion care in their later work life. Addressing structural barriers with targeted interventions and training programmes is essential that young physicians feel equipped, supported and safe to provide abortion care.Trial registrationThe study was registered via AsPredicted.org prior to data collection (September 8th, 2023). Trial registration number: 142964.",
+   "concepts": [
+    "groups/bias",
+    "theory of mind"
+   ],
+   "matched": [
+    "D8"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.1371~journal.pone.0362194",
+   "title": "E-Service quality and customer satisfaction in online shopping: Implications for sustainable digital commerce",
+   "authors": [
+    "Awadh MA"
+   ],
+   "year": 2026,
+   "venue": "PLoS One",
+   "doi": "10.1371/journal.pone.0362194",
+   "pmid": "42993789",
+   "pmcid": "PMC13742914",
+   "epmc": "MED:42993789",
+   "first_pub": "2026-11-06",
+   "pub_types": [
+    "research-article",
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "https://europepmc.org/articles/PMC13742914?pdf=render",
+   "access": "oa",
+   "abstract": "The rapid growth of e-commerce has intensified competition among online retailers, making e-service quality increasingly important for building customer trust, satisfaction, and sustainable customer-platform relationships. This study examines the relationships among e-service quality, customer trust, customer satisfaction, and customer loyalty using a second-order Structural Equation Modeling (SEM) framework. The five SERVQUAL dimensions such as empathy, responsiveness, reliability, assurance, and tangibles were modeled as first-order constructs reflecting the higher-order construct of service quality. Data were collected through an online questionnaire from 402 respondents with prior online-shopping experience. Confirmatory Factor Analysis (CFA) and SEM were employed to assess the measurement and structural models. The measurement model demonstrated satisfactory reliability, convergent validity, discriminant validity, and overall model fit. The structural results showed that service quality significantly and positively influenced customer trust and customer satisfaction, while customer trust significantly enhanced satisfaction. Trust also partially mediated the relationship between service quality and satisfaction, indicating that e-service quality improves satisfaction both directly and through increased customer confidence. The SERVQUAL dimensions contributed positively to overall service quality, with responsiveness and assurance showing particularly strong contributions, while empathy exhibited a comparatively moderate contribution. In contrast, customer loyalty had no significant direct effect on trust or satisfaction, and its indirect effect on satisfaction through trust was also nonsignificant. These findings demonstrate that reliable, responsive, secure, and well-designed digital services are important for strengthening trust and satisfaction in competitive e-commerce environments. By identifying trust as a key mechanism linking multidimensional e-service quality with customer satisfaction, the study contributes to SERVQUAL and digital-commerce literature and provides implications for the economic and relational sustainability of e-commerce platforms through more resilient and durable customer relationships.",
+   "concepts": [
+    "social neuro",
+    "trust"
+   ],
+   "matched": [
+    "D8"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.31234~osf.io~9vuat_v1",
+   "title": "Same Gossip, Different Judgment: Why Inappropriate Workplace Gossip Is More Acceptable When It Targets AI",
+   "authors": [
+    "Arlinghaus CS",
+    "Kroner L",
+    "Maier GW"
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/9vuat_v1",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1356638",
+   "first_pub": "2026-11-03",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/9vuat_v1/download",
+   "access": "oa",
+   "abstract": "Artificial intelligence is rapidly becoming an active member of organizational teams. Yet successful human–AI symbiosis depends on more than intelligent algorithms, trust calibration, or effective task allocation. As AI becomes a social interaction partner, organizations must also establish shared moral norms governing how artificial teammates are treated. Surprisingly, little is known about whether employees apply the same ethical standards to AI coworkers as they do to human colleagues or why these judgments differ. To address this question, we conducted two preregistered online vignette experiments (N = 546) in which participants observed coworkers engaging in identical inappropriate workplace gossip directed either at a human colleague or an AI teammate. Building on Bandura's theory of moral disengagement, we tested whether cognitive moral disengagement explains differences in observers' moral evaluations and willingness to intervene. Across both studies, participants consistently judged gossip about an AI teammate as more morally acceptable and reported significantly lower willingness to intervene than when the same behavior targeted a human colleague. AI also increased endorsement of all eight mechanisms of moral disengagement. Parallel mediation analyses showed that moral disengagement fully accounted for the effects of target identity on both outcome variables, indicating that AI changes the cognitive processes through which observers evaluate unethical workplace behavior. Although the specific mechanisms contributing unique indirect effects varied somewhat across studies, dehumanization and distortion of consequences emerged as the most robust mediators. An exploratory analysis further demonstrated that these effects generalized across male and female perpetrators. These findings extend research on human–AI symbiosis by identifying shared moral norms as a previously overlooked prerequisite for successful collaboration. They suggest that organizations should focus not only on designing trustworthy AI systems but also on fostering ethical workplace cultures in which inappropriate behavior is evaluated according to the behavior itself rather than whether its target is human or artificial.",
+   "concepts": [
+    "impression/trait",
+    "trust"
+   ],
+   "matched": [
+    "P1"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.31234~osf.io~9vuat",
+   "title": "Same Gossip, Different Judgment: Why Inappropriate Workplace Gossip Is More Acceptable When It Targets AI",
+   "authors": [
+    "Arlinghaus CS",
+    "Kroner L",
+    "Maier GW"
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv",
+   "doi": "10.31234/osf.io/9vuat",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1356637",
+   "first_pub": "2026-11-03",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "https://osf.io/9vuat/download",
+   "access": "oa",
+   "abstract": "Artificial intelligence is rapidly becoming an active member of organizational teams. Yet successful human–AI symbiosis depends on more than intelligent algorithms, trust calibration, or effective task allocation. As AI becomes a social interaction partner, organizations must also establish shared moral norms governing how artificial teammates are treated. Surprisingly, little is known about whether employees apply the same ethical standards to AI coworkers as they do to human colleagues or why these judgments differ. To address this question, we conducted two preregistered online vignette experiments (N = 546) in which participants observed coworkers engaging in identical inappropriate workplace gossip directed either at a human colleague or an AI teammate. Building on Bandura's theory of moral disengagement, we tested whether cognitive moral disengagement explains differences in observers' moral evaluations and willingness to intervene. Across both studies, participants consistently judged gossip about an AI teammate as more morally acceptable and reported significantly lower willingness to intervene than when the same behavior targeted a human colleague. AI also increased endorsement of all eight mechanisms of moral disengagement. Parallel mediation analyses showed that moral disengagement fully accounted for the effects of target identity on both outcome variables, indicating that AI changes the cognitive processes through which observers evaluate unethical workplace behavior. Although the specific mechanisms contributing unique indirect effects varied somewhat across studies, dehumanization and distortion of consequences emerged as the most robust mediators. An exploratory analysis further demonstrated that these effects generalized across male and female perpetrators. These findings extend research on human–AI symbiosis by identifying shared moral norms as a previously overlooked prerequisite for successful collaboration. They suggest that organizations should focus not only on designing trustworthy AI systems but also on fostering ethical workplace cultures in which inappropriate behavior is evaluated according to the behavior itself rather than whether its target is human or artificial.",
+   "concepts": [
+    "impression/trait",
+    "trust"
+   ],
+   "matched": [
+    "P1"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.1109~tcyb.2026.3709744",
+   "title": "Reputation-Aware Distributed Filtering for Nonlinear Bias-Corrupted Systems Over Sensor Networks Under Event-Triggered Mechanism",
+   "authors": [
+    "Jia C",
+    "Wang Z",
+    "Hu J",
+    "Dong H"
+   ],
+   "year": 2026,
+   "venue": "IEEE Trans Cybern",
+   "doi": "10.1109/tcyb.2026.3709744",
+   "pmid": "42536462",
+   "pmcid": "",
+   "epmc": "MED:42536462",
+   "first_pub": "2026-11-01",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "This article is concerned with the reputation-aware Kalman-type distributed filtering (RAKTDF) problem for a class of nonlinear bias-corrupted systems (NBCSs) with a dynamical event-triggered mechanism (DETM). First, a representative unknown input, namely the dynamical bias, is introduced, which is evolved by a dynamical equation with Gaussian white noise. A DETM is employed to regulate the frequency of data transmission so that data conflict and network congestion are avoided. In order to identify and eliminate abnormal data from neighbors, a trust-based scoring strategy, referred to as the reputation-aware mechanism, is modeled and utilized to improve the accuracy of the filtering algorithm. The RAKTDF algorithm is recursively developed such that the covariance upper bound of the filtering error dynamic (CUBFED) is derived, after which the filter gain is determined by minimizing the trace of the CUBFED. Furthermore, a sufficient condition is established to guarantee the boundedness of the filtering error dynamics. Finally, an illustrative example is provided to verify the effectiveness of the proposed RAKTDF algorithm.",
+   "concepts": [
+    "impression/trait",
+    "trust"
+   ],
+   "matched": [
+    "P3"
+   ],
+   "score": 8
+  },
+  {
+   "id": "oa:a-cross-cultural-comparison-of-the-attractiveness-halo-effect-in-men-and-women",
+   "title": "A Cross-Cultural Comparison of the Attractiveness Halo Effect in Men and Women",
+   "authors": [
+    "Kordsmeyer TL",
+    "Penke L",
+    "Stern J",
+    "Kirma Y",
+    "Natividade JC",
+    "Varella MAC",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "PsyArXiv (OSF Preprints)",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": true,
+   "pdf_url": "",
+   "access": "oa",
+   "abstract": "According to the attractiveness halo effect, global person perceptions are biased by physical attractiveness: More attractive people are ascribed positive attributes like competence, prosociality, and health, with cross-cultural variation in such perceptions. However, extant cross-cultural studies mostly considered cross-cultural differences only in either observers or targets. This preregistered study explored cross-cultural nuances in the attractiveness halo effect for Brazilian and German target men and women, as perceived by Brazilian and German observers. Facial photos of 583 targets were judged separately for attractiveness, prosociality, health, intelligence, social competence, familiarity, and physical and social dominance by 554 Brazilian and 326 German observers. Ratings between Brazilian and German observers for the same target group and attribute were strongly positively correlated, except for familiarity for German male targets. Attractiveness halo effects were overall strong (stronger for health, social competence, and familiarity compared to social dominance, prosociality, and intelligence) and mostly consistent for Brazilian and German targets and observers, with few exceptions. Only for physical dominance, associations were mixed by target gender and nationality. This study supports a putative universality of attractiveness halo effects and also contributes to a deeper understanding of subtle variations in the halo effects of men’s and women’s attractiveness in more individualistic versus more collectivistic cultures.",
+   "concepts": [
+    "cooperation",
+    "impression/trait"
+   ],
+   "matched": [
+    "P5"
+   ],
+   "score": 8
+  },
+  {
+   "id": "doi:10.64898~2026.11.04.763721",
+   "title": "Social vision expands into auditory cortices of people born deaf: evidence from naturalistic film and encoding models",
+   "authors": [
+    "Zimmermann M",
+    "Szwed M",
+    "Isik L",
+    "Bedny M"
+   ],
+   "year": 2026,
+   "venue": "bioRxiv",
+   "doi": "10.64898/2026.11.04.763721",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "PPR:PPR1359779",
+   "first_pub": "2026-11-05",
+   "pub_types": [
+    "Preprint"
+   ],
+   "preprint": true,
+   "pdf_url": "",
+   "access": "oa",
+   "abstract": "Comparing deaf and hearing adults provides insight into the contribution of experience to function of auditory cortical networks. We used naturalistic fMRI and voxel-wise encoding to measure information processing in auditory networks of deaf (n=24) and hearing (n=22) adults who watched a 35-minute silent animated film. Unlike simpler stimuli, naturalistic films are rich in a broad range of perceptual, affective, and social features, including motion, dynamic social interactions, and Theory of Mind. Machine vision algorithms and human coding were used to densely annotate visual and social film features. In both groups we observed a right-lateralized processing hierarchy with encoding of low-level visual features in early visual areas, social visual features along the superior temporal sulcus (STS) and Theory of Mind in temporoparietal junction. In deaf participants, auditory cortices showed enhanced encoding of a broad range of visual information, from low level motion to Theory of Mind. In higher order auditory networks, social interactions emerging as the strongest predictor of neural activity in deaf people and showed the strongest enhancement in deafness. Auditory networks of deaf adults showed systematic anatomical organization within and across hemispheres. Within the right hemisphere, higher-order auditory regions neighboring the STS preferentially responded to social visual features whereas lower-level visual features were represented broadly across the auditory hierarchy. These results suggest that proximity and connectivity principles govern anatomical expansion of information encoding in sensory loss.",
+   "concepts": [
+    "social neuro",
+    "theory of mind"
+   ],
+   "matched": [
+    "P4"
+   ],
+   "score": 7
+  },
+  {
+   "id": "doi:10.1007~s13205-026-05122-1",
+   "title": "Multiscale and physically consistent multitask learning for protein melting temperature prediction",
+   "authors": [
+    "Min R",
+    "Lin C",
+    "Teng X",
+    "Zhang D",
+    "Li C",
+    "Yi X",
+    "et al."
+   ],
+   "year": 2026,
+   "venue": "3 Biotech",
+   "doi": "10.1007/s13205-026-05122-1",
+   "pmid": "42991945",
+   "pmcid": "",
+   "epmc": "MED:42991945",
+   "first_pub": "2026-11-04",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Protein thermal stability determines the functional viability of proteins in industrial and biomedical applications. We developed an Evolutionary Scale Modeling Cambrian-based multiscale multitask predictor for protein melting temperature (ESMTmP). The model leverages a frozen 300-million-parameter Cambrian encoder to extract residue representations. These features are refined by residual temporal convolutions. Furthermore, global statistical pooling, local multiscale convolutions, and multi-head attention are integrated through residual gated fusion. This framework unifies adaptive representation learning with continuous temperature regression and ordered multi-threshold classification. It also introduces monotonicity regularization to encourage order-consistent probability outputs. The model was trained on 30,076 observations and evaluated on 531 exact-identity-separated held-out proteins. ESMTmP achieved a root mean square error (RMSE) of 7.42 °C and a mean absolute error of 5.64 °C. Additionally, the coefficient of determination reached 0.8112 with a Pearson correlation coefficient of 0.9014. Compared with an encoder baseline, the RMSE decreased from 7.87 to 7.42 °C. Multitask learning further reduced this error from 7.61 to 7.42 °C relative to a regression-only variant, demonstrating that auxiliary supervision effectively limits large prediction errors. Across five temperature thresholds from 40 to 80 °C, the mean area under the receiver operating characteristic curve reached 0.9462. The mean F1 score was 0.8663 with no monotonicity violations. ESMTmP provides monotonically ordered predictions to efficiently prioritize thermostable protein engineering candidates prior to experimental screening.Supplementary informationThe online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05122-1.",
+   "concepts": [
+    "computational"
+   ],
+   "matched": [
+    "WATCH"
+   ],
+   "score": 6
+  },
+  {
+   "id": "doi:10.1109~tbme.2026.3660307",
+   "title": "Patching With Sequential Updating for High-Fidelity Bayesian Spectral Estimation of Physiological Time Series",
+   "authors": [
+    "Wang Z",
+    "Lin C",
+    "Chen K"
+   ],
+   "year": 2026,
+   "venue": "IEEE Trans Biomed Eng",
+   "doi": "10.1109/tbme.2026.3660307",
+   "pmid": "41632670",
+   "pmcid": "",
+   "epmc": "MED:41632670",
+   "first_pub": "2026-11-01",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "preprint": false,
+   "pdf_url": "",
+   "access": "abstract",
+   "abstract": "Physiological time series reflect the underlying behavior of physiological systems. In this paper, we introduce a novel patching with sequential updating for Bayesian nonparametric spectral estimation (PBNSE) to enhance spectral estimation and interpretation of imperfect physiological time series with fragmented, noncontiguous segments. PBNSE incorporates four key strategies: (1) modeling patches as patch-specific Gaussian processes (GPs); (2) patch-dependence, where each patch involves a joint GP with a shared kernel, capturing both observation and spectral dependencies across all patches; (3) sequential parameter shift that transfers knowledge between patches while maintaining computational traceability; and (4) aggregating patch-level posterior spectra into a unified power spectral density (PSD) estimate and computing the expectation of the PSD in a closed form. Extensive experiments demonstrate significant improvements in spectral accuracy and robustness compared to state-of-the-art methods such as BNSE, multitaper, periodogram, Lomb-Scargle, functional kernel learning (FKL), and variational sparse spectrum (SVSS). PBNSE addresses key challenges in physiological signal analysis, including irregular sampling, incomplete signal, and varying noise. The widespread adoption of PBNSE in physiological signal research has the potential to enhance the accuracy of spectral estimation and improve the robustness of interpreting complex, real-world physiological time series.",
+   "concepts": [
+    "computational"
+   ],
+   "matched": [
+    "WATCH"
+   ],
+   "score": 6
+  },
+  {
+   "id": "doi:10.48550~arxiv.2611.02725",
+   "title": "AffToM: Benchmarking Recursive Affective Theory of Mind in Dynamic Multi-Party Interactions",
+   "authors": [
+    "Hu J",
+    "Jin Y",
+    "Wang E",
+    "Li J",
+    "Wu J",
+    "Song P"
+   ],
+   "year": 2026,
+   "venue": "arXiv",
+   "doi": "10.48550/arxiv.2611.02725",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": true,
+   "pdf_url": "https://arxiv.org/pdf/2611.02725v1",
+   "access": "oa",
+   "abstract": "Understanding emotion in realistic social interactions requires more than recognizing facial expressions or assigning affective labels. The same event can elicit different emotions depending on what each participant knows, what they believe others know or feel, and how these nested mental states evolve over time. Existing benchmarks largely study higher-order epistemic Theory of Mind (ToM) and multimodal emotion reasoning in isolation, leaving recursive affective reasoning under asymmetric and dynamically changing information underexplored. Therefore, we introduce AffToM, a benchmark for affective ToM with 1,922 test pairs and 19,759 training pairs. AffToM evaluates Individual Affective Reasoning (IAR), which infers emotions from events and socio-cognitive context, and Multi-party Affective Reasoning (MPAR), which recursively tracks participants' nested beliefs and emotions as new evidence emerges. We develop an event-driven multi-agent generation pipeline grounded in dynamic character interaction graphs that explicitly capture event sequences, interpersonal relations, and mental-state updates. Furthermore, we propose AffToM-R1, a two-stage post-training framework combining supervised fine-tuning with perspective-aware rubric-guided reinforcement learning. Experiments show that MPAR remains challenging, with even the strongest evaluated MLLM achieving less than 60% accuracy, while AffToM-R1 improves MPAR accuracy by 13.38 percentage points over its base model. Our dataset is available at: https://github.com/MindIntLab-HFUT/AffToM.",
+   "concepts": [
+    "computational",
+    "theory of mind"
+   ],
+   "matched": [
+    "ARXIV"
+   ],
+   "score": 6
+  },
+  {
+   "id": "doi:10.48550~arxiv.2610.41604",
+   "title": "Real Computation or Merely Naming? A Pre-Registered Mechanism Audit of 25 Cognitive-Architecture Modules in an LLM-Based Agent System",
+   "authors": [
+    "Chen P",
+    "Zhang N",
+    "Xu Y",
+    "Zhang S"
+   ],
+   "year": 2026,
+   "venue": "arXiv",
+   "doi": "10.48550/arxiv.2610.41604",
+   "pmid": "",
+   "pmcid": "",
+   "epmc": "",
+   "first_pub": "",
+   "pub_types": [],
+   "preprint": true,
+   "pdf_url": "https://arxiv.org/pdf/2610.41604v1",
+   "access": "oa",
+   "abstract": "Agent systems built on local large language models are increasingly marketed through the vocabulary of cognitive architecture: modules named global workspace, theory of mind, causal reasoning, or active inference are listed as features, and the presence of the name is taken as the presence of the mechanism. We ask the prior question -- does the named computation actually happen -- and contribute a transferable verification method for the claim-implementation gap: a four-question static audit protocol with line-number evidence and call-chain tracing, demonstrated on two systems. We audit a system claiming 25 cognitive mechanisms, pre-register falsifiable predictions for 11 modules and execute the interventions, replicate the protocol on the IIT-phi core of a second, independent system with its own pre-committed falsification criteria, and run two repair experiments as positive controls. In 18 of 25 modules the computed value never reaches any production output; three idle-wiring shapes new to the dead-code and code-smell literatures emerge (connected-but-never-called, called-but-inert, called-but-content-blind). Of 61 frozen criteria across 12 interventions, 53 were confirmed, two partially adjudicated, five falsified, one adjudication-ambiguous. Repairs raised planner task success from 0.028 to 1.000 and cut state-controller error by 52%. Module names and module computations must be audited as independent claims; the protocol and the five-class failure taxonomy are reusable for the claim-implementation gap at two-system, case-level depth.",
+   "concepts": [
+    "llm-tom",
+    "theory of mind"
+   ],
+   "matched": [
+    "ARXIV"
+   ],
+   "score": 6
+  }
+ ],
+ "preprint_updates": [],
+ "unresolved_journals": []
+}
